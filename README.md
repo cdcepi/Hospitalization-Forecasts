@@ -33,4 +33,4 @@ Each submission consists of forecasts for the following targets:
 * **4 wk ahead:** Weekly hospitalization rate for the MMWR week four weeks after the last week of data used to generate the forecast
 
 ### Current submission template
-The submission template for the 2017-2018 challenge is available in the [2017-2018_submission_template](https://github.com/cdcepi/FluSight-forecasts/blob/master/2017-2018_submission_template.csv) CSV file.
+The submission template for the 2017-2018 challenge is available in the [2017-2018_submission_template](https://github.com/cdcepi/Hospitalization-Forecasts/blob/master/2017-2018_submission_template.csv) CSV file.
