@@ -12,14 +12,14 @@
 "Overall","Season peak week","week","Bin","50","51",0
 "Overall","Season peak week","week","Bin","51","52",0
 "Overall","Season peak week","week","Bin","52","53",0
-"Overall","Season peak week","week","Bin","1","2",0
-"Overall","Season peak week","week","Bin","2","3",0.966388388333795
+"Overall","Season peak week","week","Bin","1","2",0.0220711172403184
+"Overall","Season peak week","week","Bin","2","3",0.952460148053427
 "Overall","Season peak week","week","Bin","3","4",0
 "Overall","Season peak week","week","Bin","4","5",0
-"Overall","Season peak week","week","Bin","5","6",0.00106264747959503
-"Overall","Season peak week","week","Bin","6","7",0.029644993314399
-"Overall","Season peak week","week","Bin","7","8",0.00290397087221088
-"Overall","Season peak week","week","Bin","8","9",0
+"Overall","Season peak week","week","Bin","5","6",0
+"Overall","Season peak week","week","Bin","6","7",0.0127760923320036
+"Overall","Season peak week","week","Bin","7","8",0.0114132654400914
+"Overall","Season peak week","week","Bin","8","9",0.00127937693415993
 "Overall","Season peak week","week","Bin","9","10",0
 "Overall","Season peak week","week","Bin","10","11",0
 "Overall","Season peak week","week","Bin","11","12",0
@@ -52,72 +52,72 @@
 "Overall","Season peak percentage","percent","Bin","2","2.1",0
 "Overall","Season peak percentage","percent","Bin","2.1","2.2",0
 "Overall","Season peak percentage","percent","Bin","2.2","2.3",0
-"Overall","Season peak percentage","percent","Bin","2.3","2.4",6.4719478192834e-17
-"Overall","Season peak percentage","percent","Bin","2.4","2.5",8.22422498355788e-14
-"Overall","Season peak percentage","percent","Bin","2.5","2.6",3.77090636421165e-11
-"Overall","Season peak percentage","percent","Bin","2.6","2.7",6.29699190440056e-09
-"Overall","Season peak percentage","percent","Bin","2.7","2.8",3.91347884626785e-07
-"Overall","Season peak percentage","percent","Bin","2.8","2.9",9.66789397389645e-06
-"Overall","Season peak percentage","percent","Bin","2.9","3",0.000114720604559475
-"Overall","Season peak percentage","percent","Bin","3","3.1",0.000855989009907584
-"Overall","Season peak percentage","percent","Bin","3.1","3.2",0.00399785983967371
-"Overall","Season peak percentage","percent","Bin","3.2","3.3",0.0107830075776773
-"Overall","Season peak percentage","percent","Bin","3.3","3.4",0.0207447453504187
-"Overall","Season peak percentage","percent","Bin","3.4","3.5",0.0355684885577205
-"Overall","Season peak percentage","percent","Bin","3.5","3.6",0.0568183544762645
-"Overall","Season peak percentage","percent","Bin","3.6","3.7",0.0826432710877975
-"Overall","Season peak percentage","percent","Bin","3.7","3.8",0.114573723221838
-"Overall","Season peak percentage","percent","Bin","3.8","3.9",0.148088117858235
-"Overall","Season peak percentage","percent","Bin","3.9","4",0.157702508456701
-"Overall","Season peak percentage","percent","Bin","4","4.1",0.135811381917737
-"Overall","Season peak percentage","percent","Bin","4.1","4.2",0.097544528802134
-"Overall","Season peak percentage","percent","Bin","4.2","4.3",0.0614319638497698
-"Overall","Season peak percentage","percent","Bin","4.3","4.4",0.0358449176556152
-"Overall","Season peak percentage","percent","Bin","4.4","4.5",0.019196415772988
-"Overall","Season peak percentage","percent","Bin","4.5","4.6",0.00941724666277983
-"Overall","Season peak percentage","percent","Bin","4.6","4.7",0.00472187255805325
-"Overall","Season peak percentage","percent","Bin","4.7","4.8",0.00232750574617632
-"Overall","Season peak percentage","percent","Bin","4.8","4.9",0.00100284188443037
-"Overall","Season peak percentage","percent","Bin","4.9","5",0.000447085082025025
-"Overall","Season peak percentage","percent","Bin","5","5.1",0.000220341296055864
-"Overall","Season peak percentage","percent","Bin","5.1","5.2",9.56120756116732e-05
-"Overall","Season peak percentage","percent","Bin","5.2","5.3",3.1177602753558e-05
-"Overall","Season peak percentage","percent","Bin","5.3","5.4",5.77839279207167e-06
-"Overall","Season peak percentage","percent","Bin","5.4","5.5",4.64483706479796e-07
-"Overall","Season peak percentage","percent","Bin","5.5","5.6",1.44325619338427e-08
-"Overall","Season peak percentage","percent","Bin","5.6","5.7",1.6666952042772e-10
-"Overall","Season peak percentage","percent","Bin","5.7","5.8",7.03574224502947e-13
-"Overall","Season peak percentage","percent","Bin","5.8","5.9",1.07557785662936e-15
-"Overall","Season peak percentage","percent","Bin","5.9","6",5.91781319056847e-19
-"Overall","Season peak percentage","percent","Bin","6","6.1",1.1667367406517e-22
-"Overall","Season peak percentage","percent","Bin","6.1","6.2",8.21682216176195e-27
-"Overall","Season peak percentage","percent","Bin","6.2","6.3",2.06223943728833e-31
-"Overall","Season peak percentage","percent","Bin","6.3","6.4",1.84125010862488e-36
-"Overall","Season peak percentage","percent","Bin","6.4","6.5",5.84031492447919e-42
-"Overall","Season peak percentage","percent","Bin","6.5","6.6",6.57428587868735e-48
-"Overall","Season peak percentage","percent","Bin","6.6","6.7",2.62411442899186e-54
-"Overall","Season peak percentage","percent","Bin","6.7","6.8",3.71143817736622e-61
-"Overall","Season peak percentage","percent","Bin","6.8","6.9",1.85901983194719e-68
-"Overall","Season peak percentage","percent","Bin","6.9","7",3.29614824172487e-76
-"Overall","Season peak percentage","percent","Bin","7","7.1",2.06795743033064e-84
-"Overall","Season peak percentage","percent","Bin","7.1","7.2",4.58929322227016e-93
-"Overall","Season peak percentage","percent","Bin","7.2","7.3",3.60161687774463e-102
-"Overall","Season peak percentage","percent","Bin","7.3","7.4",9.99290826029985e-112
-"Overall","Season peak percentage","percent","Bin","7.4","7.5",9.80027310624251e-122
-"Overall","Season peak percentage","percent","Bin","7.5","7.6",3.39669999727636e-132
-"Overall","Season peak percentage","percent","Bin","7.6","7.7",4.15986767531132e-143
-"Overall","Season peak percentage","percent","Bin","7.7","7.8",1.79988160124599e-154
-"Overall","Season peak percentage","percent","Bin","7.8","7.9",2.7510355579424e-166
-"Overall","Season peak percentage","percent","Bin","7.9","8",1.4852105051712e-178
-"Overall","Season peak percentage","percent","Bin","8","8.1",2.83188865022725e-191
-"Overall","Season peak percentage","percent","Bin","8.1","8.2",1.90687362384505e-204
-"Overall","Season peak percentage","percent","Bin","8.2","8.3",4.53409160454712e-218
-"Overall","Season peak percentage","percent","Bin","8.3","8.4",3.8067093352558e-232
-"Overall","Season peak percentage","percent","Bin","8.4","8.5",1.12842197273931e-246
-"Overall","Season peak percentage","percent","Bin","8.5","8.6",1.18094498052416e-261
-"Overall","Season peak percentage","percent","Bin","8.6","8.7",4.36315169588317e-277
-"Overall","Season peak percentage","percent","Bin","8.7","8.8",5.69064777195001e-293
-"Overall","Season peak percentage","percent","Bin","8.8","8.9",2.61995523139052e-309
+"Overall","Season peak percentage","percent","Bin","2.3","2.4",1.06238346916804e-14
+"Overall","Season peak percentage","percent","Bin","2.4","2.5",1.34975444379188e-11
+"Overall","Season peak percentage","percent","Bin","2.5","2.6",6.18381865712776e-09
+"Overall","Season peak percentage","percent","Bin","2.6","2.7",1.02866654774697e-06
+"Overall","Season peak percentage","percent","Bin","2.7","2.8",6.27842658042917e-05
+"Overall","Season peak percentage","percent","Bin","2.8","2.9",0.00143230351999563
+"Overall","Season peak percentage","percent","Bin","2.9","3",0.0127633003102761
+"Overall","Season peak percentage","percent","Bin","3","3.1",0.050386073904494
+"Overall","Season peak percentage","percent","Bin","3.1","3.2",0.114673061743776
+"Overall","Season peak percentage","percent","Bin","3.2","3.3",0.179286064234308
+"Overall","Season peak percentage","percent","Bin","3.3","3.4",0.189453405715612
+"Overall","Season peak percentage","percent","Bin","3.4","3.5",0.155530755055014
+"Overall","Season peak percentage","percent","Bin","3.5","3.6",0.112673459154998
+"Overall","Season peak percentage","percent","Bin","3.6","3.7",0.073689792532548
+"Overall","Season peak percentage","percent","Bin","3.7","3.8",0.0439436161412817
+"Overall","Season peak percentage","percent","Bin","3.8","3.9",0.0269701447677264
+"Overall","Season peak percentage","percent","Bin","3.9","4",0.0172305449084791
+"Overall","Season peak percentage","percent","Bin","4","4.1",0.010489315368365
+"Overall","Season peak percentage","percent","Bin","4.1","4.2",0.0059882838757342
+"Overall","Season peak percentage","percent","Bin","4.2","4.3",0.00315855678249427
+"Overall","Season peak percentage","percent","Bin","4.3","4.4",0.00146564483900814
+"Overall","Season peak percentage","percent","Bin","4.4","4.5",0.000542220084960845
+"Overall","Season peak percentage","percent","Bin","4.5","4.6",0.000143253322992296
+"Overall","Season peak percentage","percent","Bin","4.6","4.7",6.20053310776441e-05
+"Overall","Season peak percentage","percent","Bin","4.7","4.8",4.0569103741343e-05
+"Overall","Season peak percentage","percent","Bin","4.8","4.9",1.23109822187183e-05
+"Overall","Season peak percentage","percent","Bin","4.9","5",1.43532883789516e-06
+"Overall","Season peak percentage","percent","Bin","5","5.1",6.28374826791822e-08
+"Overall","Season peak percentage","percent","Bin","5.1","5.2",1.01883740092578e-09
+"Overall","Season peak percentage","percent","Bin","5.2","5.3",6.04843784874568e-12
+"Overall","Season peak percentage","percent","Bin","5.3","5.4",1.30309290035141e-14
+"Overall","Season peak percentage","percent","Bin","5.4","5.5",1.01214136747676e-17
+"Overall","Season peak percentage","percent","Bin","5.5","5.6",2.82070685454526e-21
+"Overall","Season peak percentage","percent","Bin","5.6","5.7",2.81065576155096e-25
+"Overall","Season peak percentage","percent","Bin","5.7","5.8",9.98781970271752e-30
+"Overall","Season peak percentage","percent","Bin","5.8","5.9",1.26330218247684e-34
+"Overall","Season peak percentage","percent","Bin","5.9","6",5.67904777241336e-40
+"Overall","Season peak percentage","percent","Bin","6","6.1",9.06308319541355e-46
+"Overall","Season peak percentage","percent","Bin","6.1","6.2",5.12994862542363e-52
+"Overall","Season peak percentage","percent","Bin","6.2","6.3",1.02912595259808e-58
+"Overall","Season peak percentage","percent","Bin","6.3","6.4",7.31278900828048e-66
+"Overall","Season peak percentage","percent","Bin","6.4","6.5",1.83967998451388e-73
+"Overall","Season peak percentage","percent","Bin","6.5","6.6",1.63782434818479e-81
+"Overall","Season peak percentage","percent","Bin","6.6","6.7",5.15830778056133e-90
+"Overall","Season peak percentage","percent","Bin","6.7","6.8",5.74557691042554e-99
+"Overall","Season peak percentage","percent","Bin","6.8","6.9",2.26274866371811e-108
+"Overall","Season peak percentage","percent","Bin","6.9","7",3.15006892388189e-118
+"Overall","Season peak percentage","percent","Bin","7","7.1",1.5498940778187e-128
+"Overall","Season peak percentage","percent","Bin","7.1","7.2",2.69469546440759e-139
+"Overall","Season peak percentage","percent","Bin","7.2","7.3",1.65530964404859e-150
+"Overall","Season peak percentage","percent","Bin","7.3","7.4",3.59214787507174e-162
+"Overall","Season peak percentage","percent","Bin","7.4","7.5",2.75349549661658e-174
+"Overall","Season peak percentage","percent","Bin","7.5","7.6",7.45460967815047e-187
+"Overall","Season peak percentage","percent","Bin","7.6","7.7",7.12747381009565e-200
+"Overall","Season peak percentage","percent","Bin","7.7","7.8",2.40646950844322e-213
+"Overall","Season peak percentage","percent","Bin","7.8","7.9",2.8689728531783e-227
+"Overall","Season peak percentage","percent","Bin","7.9","8",1.20765880699346e-241
+"Overall","Season peak percentage","percent","Bin","8","8.1",1.79476211997159e-256
+"Overall","Season peak percentage","percent","Bin","8.1","8.2",9.41650695355856e-272
+"Overall","Season peak percentage","percent","Bin","8.2","8.3",1.74409700018573e-287
+"Overall","Season peak percentage","percent","Bin","8.3","8.4",1.14032527319416e-303
+"Overall","Season peak percentage","percent","Bin","8.4","8.5",0
+"Overall","Season peak percentage","percent","Bin","8.5","8.6",0
+"Overall","Season peak percentage","percent","Bin","8.6","8.7",0
+"Overall","Season peak percentage","percent","Bin","8.7","8.8",0
+"Overall","Season peak percentage","percent","Bin","8.8","8.9",0
 "Overall","Season peak percentage","percent","Bin","8.9","9",0
 "Overall","Season peak percentage","percent","Bin","9","9.1",0
 "Overall","Season peak percentage","percent","Bin","9.1","9.2",0
@@ -159,7 +159,7 @@
 "Overall","Season peak percentage","percent","Bin","12.7","12.8",0
 "Overall","Season peak percentage","percent","Bin","12.8","12.9",0
 "Overall","Season peak percentage","percent","Bin","12.9","13",0
-"Overall","Season peak percentage","percent","Bin","13","100",1.71377180796636e-16
+"Overall","Season peak percentage","percent","Bin","13","100",0
 "Overall","1 wk ahead","percent","Bin","0","0.1",0
 "Overall","1 wk ahead","percent","Bin","0.1","0.2",0
 "Overall","1 wk ahead","percent","Bin","0.2","0.3",0
@@ -171,18 +171,18 @@
 "Overall","1 wk ahead","percent","Bin","0.8","0.9",0
 "Overall","1 wk ahead","percent","Bin","0.9","1",0
 "Overall","1 wk ahead","percent","Bin","1","1.1",0
-"Overall","1 wk ahead","percent","Bin","1.1","1.2",0.00143724623533545
-"Overall","1 wk ahead","percent","Bin","1.2","1.3",0.120913496925367
-"Overall","1 wk ahead","percent","Bin","1.3","1.4",0.454537649521108
-"Overall","1 wk ahead","percent","Bin","1.4","1.5",0.346535018853275
-"Overall","1 wk ahead","percent","Bin","1.5","1.6",0.0744049696813967
-"Overall","1 wk ahead","percent","Bin","1.6","1.7",0.0021685505309249
-"Overall","1 wk ahead","percent","Bin","1.7","1.8",3.06825259353998e-06
-"Overall","1 wk ahead","percent","Bin","1.8","1.9",0
-"Overall","1 wk ahead","percent","Bin","1.9","2",0
-"Overall","1 wk ahead","percent","Bin","2","2.1",0
-"Overall","1 wk ahead","percent","Bin","2.1","2.2",0
-"Overall","1 wk ahead","percent","Bin","2.2","2.3",0
+"Overall","1 wk ahead","percent","Bin","1.1","1.2",0
+"Overall","1 wk ahead","percent","Bin","1.2","1.3",6.38894504685119e-07
+"Overall","1 wk ahead","percent","Bin","1.3","1.4",0.00190436180619534
+"Overall","1 wk ahead","percent","Bin","1.4","1.5",0.0740634287108783
+"Overall","1 wk ahead","percent","Bin","1.5","1.6",0.186236231381151
+"Overall","1 wk ahead","percent","Bin","1.6","1.7",0.0674642058161364
+"Overall","1 wk ahead","percent","Bin","1.7","1.8",0.164038488303127
+"Overall","1 wk ahead","percent","Bin","1.8","1.9",0.354265721319193
+"Overall","1 wk ahead","percent","Bin","1.9","2",0.140438241209522
+"Overall","1 wk ahead","percent","Bin","2","2.1",0.0114246623987654
+"Overall","1 wk ahead","percent","Bin","2.1","2.2",0.000163935045791825
+"Overall","1 wk ahead","percent","Bin","2.2","2.3",8.51147347183968e-08
 "Overall","1 wk ahead","percent","Bin","2.3","2.4",0
 "Overall","1 wk ahead","percent","Bin","2.4","2.5",0
 "Overall","1 wk ahead","percent","Bin","2.5","2.6",0
@@ -298,15 +298,15 @@
 "Overall","2 wk ahead","percent","Bin","0.4","0.5",0
 "Overall","2 wk ahead","percent","Bin","0.5","0.6",0
 "Overall","2 wk ahead","percent","Bin","0.6","0.7",0
-"Overall","2 wk ahead","percent","Bin","0.7","0.8",5.93867062722889e-05
-"Overall","2 wk ahead","percent","Bin","0.8","0.9",0.0318901376516969
-"Overall","2 wk ahead","percent","Bin","0.9","1",0.337672233544017
-"Overall","2 wk ahead","percent","Bin","1","1.1",0.469302839965539
-"Overall","2 wk ahead","percent","Bin","1.1","1.2",0.148965157085557
-"Overall","2 wk ahead","percent","Bin","1.2","1.3",0.0119680074519079
-"Overall","2 wk ahead","percent","Bin","1.3","1.4",0.000142211809498603
-"Overall","2 wk ahead","percent","Bin","1.4","1.5",2.57855116881622e-08
-"Overall","2 wk ahead","percent","Bin","1.5","1.6",0
+"Overall","2 wk ahead","percent","Bin","0.7","0.8",0
+"Overall","2 wk ahead","percent","Bin","0.8","0.9",0.00221140661334934
+"Overall","2 wk ahead","percent","Bin","0.9","1",0.0650569699151644
+"Overall","2 wk ahead","percent","Bin","1","1.1",0.104849036238504
+"Overall","2 wk ahead","percent","Bin","1.1","1.2",0.301876068273695
+"Overall","2 wk ahead","percent","Bin","1.2","1.3",0.150790416840303
+"Overall","2 wk ahead","percent","Bin","1.3","1.4",0.296334687681857
+"Overall","2 wk ahead","percent","Bin","1.4","1.5",0.0768430420369871
+"Overall","2 wk ahead","percent","Bin","1.5","1.6",0.00203837240013953
 "Overall","2 wk ahead","percent","Bin","1.6","1.7",0
 "Overall","2 wk ahead","percent","Bin","1.7","1.8",0
 "Overall","2 wk ahead","percent","Bin","1.8","1.9",0
@@ -428,21 +428,21 @@
 "Overall","3 wk ahead","percent","Bin","0.3","0.4",0
 "Overall","3 wk ahead","percent","Bin","0.4","0.5",0
 "Overall","3 wk ahead","percent","Bin","0.5","0.6",0
-"Overall","3 wk ahead","percent","Bin","0.6","0.7",2.49203709279493e-05
-"Overall","3 wk ahead","percent","Bin","0.7","0.8",0.0276247829018413
-"Overall","3 wk ahead","percent","Bin","0.8","0.9",0.283184766521491
-"Overall","3 wk ahead","percent","Bin","0.9","1",0.412173349381799
-"Overall","3 wk ahead","percent","Bin","1","1.1",0.229301681356616
-"Overall","3 wk ahead","percent","Bin","1.1","1.2",0.0450122122519548
-"Overall","3 wk ahead","percent","Bin","1.2","1.3",0.00266211881857797
-"Overall","3 wk ahead","percent","Bin","1.3","1.4",1.61683967917832e-05
-"Overall","3 wk ahead","percent","Bin","1.4","1.5",0
-"Overall","3 wk ahead","percent","Bin","1.5","1.6",0
-"Overall","3 wk ahead","percent","Bin","1.6","1.7",0
-"Overall","3 wk ahead","percent","Bin","1.7","1.8",0
-"Overall","3 wk ahead","percent","Bin","1.8","1.9",0
-"Overall","3 wk ahead","percent","Bin","1.9","2",0
-"Overall","3 wk ahead","percent","Bin","2","2.1",0
+"Overall","3 wk ahead","percent","Bin","0.6","0.7",0
+"Overall","3 wk ahead","percent","Bin","0.7","0.8",0
+"Overall","3 wk ahead","percent","Bin","0.8","0.9",0
+"Overall","3 wk ahead","percent","Bin","0.9","1",1.45810911442696e-06
+"Overall","3 wk ahead","percent","Bin","1","1.1",0.000680592439540875
+"Overall","3 wk ahead","percent","Bin","1.1","1.2",0.017412404624657
+"Overall","3 wk ahead","percent","Bin","1.2","1.3",0.114406500902027
+"Overall","3 wk ahead","percent","Bin","1.3","1.4",0.282460193807407
+"Overall","3 wk ahead","percent","Bin","1.4","1.5",0.317132641383258
+"Overall","3 wk ahead","percent","Bin","1.5","1.6",0.192079302102472
+"Overall","3 wk ahead","percent","Bin","1.6","1.7",0.0620162480787136
+"Overall","3 wk ahead","percent","Bin","1.7","1.8",0.01241173554307
+"Overall","3 wk ahead","percent","Bin","1.8","1.9",0.00132314427235797
+"Overall","3 wk ahead","percent","Bin","1.9","2",7.38040562246654e-05
+"Overall","3 wk ahead","percent","Bin","2","2.1",1.97468115777462e-06
 "Overall","3 wk ahead","percent","Bin","2.1","2.2",0
 "Overall","3 wk ahead","percent","Bin","2.2","2.3",0
 "Overall","3 wk ahead","percent","Bin","2.3","2.4",0
@@ -561,24 +561,24 @@
 "Overall","4 wk ahead","percent","Bin","0.5","0.6",0
 "Overall","4 wk ahead","percent","Bin","0.6","0.7",0
 "Overall","4 wk ahead","percent","Bin","0.7","0.8",0
-"Overall","4 wk ahead","percent","Bin","0.8","0.9",4.23154558160026e-07
-"Overall","4 wk ahead","percent","Bin","0.9","1",0.0293555427950283
-"Overall","4 wk ahead","percent","Bin","1","1.1",0.232396973518389
-"Overall","4 wk ahead","percent","Bin","1.1","1.2",0.21778462613751
-"Overall","4 wk ahead","percent","Bin","1.2","1.3",0.108826651102164
-"Overall","4 wk ahead","percent","Bin","1.3","1.4",0.0125402877130286
-"Overall","4 wk ahead","percent","Bin","1.4","1.5",0.012260382125119
-"Overall","4 wk ahead","percent","Bin","1.5","1.6",0.0916993984491844
-"Overall","4 wk ahead","percent","Bin","1.6","1.7",0.102125670851609
-"Overall","4 wk ahead","percent","Bin","1.7","1.8",0.0994912306725171
-"Overall","4 wk ahead","percent","Bin","1.8","1.9",0.0600305889501761
-"Overall","4 wk ahead","percent","Bin","1.9","2",0.0302136039572931
-"Overall","4 wk ahead","percent","Bin","2","2.1",0.00323953314754432
-"Overall","4 wk ahead","percent","Bin","2.1","2.2",3.50858989159784e-05
-"Overall","4 wk ahead","percent","Bin","2.2","2.3",1.52696330976891e-09
-"Overall","4 wk ahead","percent","Bin","2.3","2.4",0
-"Overall","4 wk ahead","percent","Bin","2.4","2.5",0
-"Overall","4 wk ahead","percent","Bin","2.5","2.6",0
+"Overall","4 wk ahead","percent","Bin","0.8","0.9",0
+"Overall","4 wk ahead","percent","Bin","0.9","1",1.80971992527793e-07
+"Overall","4 wk ahead","percent","Bin","1","1.1",0.00396870027864858
+"Overall","4 wk ahead","percent","Bin","1.1","1.2",0.0569406130771991
+"Overall","4 wk ahead","percent","Bin","1.2","1.3",0.0225837998115481
+"Overall","4 wk ahead","percent","Bin","1.3","1.4",0.0246890810312013
+"Overall","4 wk ahead","percent","Bin","1.4","1.5",0.124594390533636
+"Overall","4 wk ahead","percent","Bin","1.5","1.6",0.156789788289922
+"Overall","4 wk ahead","percent","Bin","1.6","1.7",0.0740192666458595
+"Overall","4 wk ahead","percent","Bin","1.7","1.8",0.0694520590270336
+"Overall","4 wk ahead","percent","Bin","1.8","1.9",0.0586260009916035
+"Overall","4 wk ahead","percent","Bin","1.9","2",0.167623395454696
+"Overall","4 wk ahead","percent","Bin","2","2.1",0.0930006583527545
+"Overall","4 wk ahead","percent","Bin","2.1","2.2",0.0561721419854862
+"Overall","4 wk ahead","percent","Bin","2.2","2.3",0.0700610579997126
+"Overall","4 wk ahead","percent","Bin","2.3","2.4",0.0203935037562503
+"Overall","4 wk ahead","percent","Bin","2.4","2.5",0.00107879152725587
+"Overall","4 wk ahead","percent","Bin","2.5","2.6",6.57026520074015e-06
 "Overall","4 wk ahead","percent","Bin","2.6","2.7",0
 "Overall","4 wk ahead","percent","Bin","2.7","2.8",0
 "Overall","4 wk ahead","percent","Bin","2.8","2.9",0
@@ -697,14 +697,14 @@
 "0-4 yr","Season peak week","week","Bin","50","51",0
 "0-4 yr","Season peak week","week","Bin","51","52",0
 "0-4 yr","Season peak week","week","Bin","52","53",0
-"0-4 yr","Season peak week","week","Bin","1","2",0
-"0-4 yr","Season peak week","week","Bin","2","3",0.966388388333795
+"0-4 yr","Season peak week","week","Bin","1","2",0.0220711172403184
+"0-4 yr","Season peak week","week","Bin","2","3",0.952460148053427
 "0-4 yr","Season peak week","week","Bin","3","4",0
 "0-4 yr","Season peak week","week","Bin","4","5",0
-"0-4 yr","Season peak week","week","Bin","5","6",0.00106264747959503
-"0-4 yr","Season peak week","week","Bin","6","7",0.029644993314399
-"0-4 yr","Season peak week","week","Bin","7","8",0.00290397087221088
-"0-4 yr","Season peak week","week","Bin","8","9",0
+"0-4 yr","Season peak week","week","Bin","5","6",0
+"0-4 yr","Season peak week","week","Bin","6","7",0.0127760923320036
+"0-4 yr","Season peak week","week","Bin","7","8",0.0114132654400914
+"0-4 yr","Season peak week","week","Bin","8","9",0.00127937693415993
 "0-4 yr","Season peak week","week","Bin","9","10",0
 "0-4 yr","Season peak week","week","Bin","10","11",0
 "0-4 yr","Season peak week","week","Bin","11","12",0
@@ -747,65 +747,65 @@
 "0-4 yr","Season peak percentage","percent","Bin","3","3.1",0
 "0-4 yr","Season peak percentage","percent","Bin","3.1","3.2",0
 "0-4 yr","Season peak percentage","percent","Bin","3.2","3.3",0
-"0-4 yr","Season peak percentage","percent","Bin","3.3","3.4",1.28242030765193e-18
-"0-4 yr","Season peak percentage","percent","Bin","3.4","3.5",2.68789690747717e-15
-"0-4 yr","Season peak percentage","percent","Bin","3.5","3.6",2.10013386246691e-12
-"0-4 yr","Season peak percentage","percent","Bin","3.6","3.7",6.17757656384898e-10
-"0-4 yr","Season peak percentage","percent","Bin","3.7","3.8",7.24606909422163e-08
-"0-4 yr","Season peak percentage","percent","Bin","3.8","3.9",3.70420805252813e-06
-"0-4 yr","Season peak percentage","percent","Bin","3.9","4",8.96191949845353e-05
-"0-4 yr","Season peak percentage","percent","Bin","4","4.1",0.00106208576383316
-"0-4 yr","Season peak percentage","percent","Bin","4.1","4.2",0.00640358832317927
-"0-4 yr","Season peak percentage","percent","Bin","4.2","4.3",0.0223317103313928
-"0-4 yr","Season peak percentage","percent","Bin","4.3","4.4",0.0547695850758414
-"0-4 yr","Season peak percentage","percent","Bin","4.4","4.5",0.108005597319749
-"0-4 yr","Season peak percentage","percent","Bin","4.5","4.6",0.175954599388184
-"0-4 yr","Season peak percentage","percent","Bin","4.6","4.7",0.220917645629749
-"0-4 yr","Season peak percentage","percent","Bin","4.7","4.8",0.196080492103379
-"0-4 yr","Season peak percentage","percent","Bin","4.8","4.9",0.122919391862086
-"0-4 yr","Season peak percentage","percent","Bin","4.9","5",0.0582807027768981
-"0-4 yr","Season peak percentage","percent","Bin","5","5.1",0.0224737477278645
-"0-4 yr","Season peak percentage","percent","Bin","5.1","5.2",0.00753574522381499
-"0-4 yr","Season peak percentage","percent","Bin","5.2","5.3",0.00230486357844098
-"0-4 yr","Season peak percentage","percent","Bin","5.3","5.4",0.000652564972952757
-"0-4 yr","Season peak percentage","percent","Bin","5.4","5.5",0.000174089603119
-"0-4 yr","Season peak percentage","percent","Bin","5.5","5.6",3.57471497791136e-05
-"0-4 yr","Season peak percentage","percent","Bin","5.6","5.7",4.21005590276298e-06
-"0-4 yr","Season peak percentage","percent","Bin","5.7","5.8",2.31354350607028e-07
-"0-4 yr","Season peak percentage","percent","Bin","5.8","5.9",5.23036758292461e-09
-"0-4 yr","Season peak percentage","percent","Bin","5.9","6",4.53818753513922e-11
-"0-4 yr","Season peak percentage","percent","Bin","6","6.1",1.45858731758581e-13
-"0-4 yr","Season peak percentage","percent","Bin","6.1","6.2",1.70559553396616e-16
-"0-4 yr","Season peak percentage","percent","Bin","6.2","6.3",7.18696685390351e-20
-"0-4 yr","Season peak percentage","percent","Bin","6.3","6.4",1.0852409916106e-23
-"0-4 yr","Season peak percentage","percent","Bin","6.4","6.5",5.8518242813493e-28
-"0-4 yr","Season peak percentage","percent","Bin","6.5","6.6",1.1240892076495e-32
-"0-4 yr","Season peak percentage","percent","Bin","6.6","6.7",7.67898388092942e-38
-"0-4 yr","Season peak percentage","percent","Bin","6.7","6.8",1.86309391641399e-43
-"0-4 yr","Season peak percentage","percent","Bin","6.8","6.9",1.60381673039705e-49
-"0-4 yr","Season peak percentage","percent","Bin","6.9","7",4.89457511038218e-56
-"0-4 yr","Season peak percentage","percent","Bin","7","7.1",5.29216641334855e-63
-"0-4 yr","Season peak percentage","percent","Bin","7.1","7.2",2.02618349690077e-70
-"0-4 yr","Season peak percentage","percent","Bin","7.2","7.3",2.74573442781607e-78
-"0-4 yr","Season peak percentage","percent","Bin","7.3","7.4",1.31647081550917e-86
-"0-4 yr","Season peak percentage","percent","Bin","7.4","7.5",2.23254352898486e-95
-"0-4 yr","Season peak percentage","percent","Bin","7.5","7.6",1.33877473535067e-104
-"0-4 yr","Season peak percentage","percent","Bin","7.6","7.7",2.83813487027842e-114
-"0-4 yr","Season peak percentage","percent","Bin","7.7","7.8",2.12661526163261e-124
-"0-4 yr","Season peak percentage","percent","Bin","7.8","7.9",5.63117113821561e-135
-"0-4 yr","Season peak percentage","percent","Bin","7.9","8",5.26860045464148e-146
-"0-4 yr","Season peak percentage","percent","Bin","8","8.1",1.74148299232522e-157
-"0-4 yr","Season peak percentage","percent","Bin","8.1","8.2",2.03337753366072e-169
-"0-4 yr","Season peak percentage","percent","Bin","8.2","8.3",8.38580404342735e-182
-"0-4 yr","Season peak percentage","percent","Bin","8.3","8.4",1.22139832009568e-194
-"0-4 yr","Season peak percentage","percent","Bin","8.4","8.5",6.28229198002521e-208
-"0-4 yr","Season peak percentage","percent","Bin","8.5","8.6",1.1410195285387e-221
-"0-4 yr","Season peak percentage","percent","Bin","8.6","8.7",7.3173091470159e-236
-"0-4 yr","Season peak percentage","percent","Bin","8.7","8.8",1.65678112232865e-250
-"0-4 yr","Season peak percentage","percent","Bin","8.8","8.9",1.324368428078e-265
-"0-4 yr","Season peak percentage","percent","Bin","8.9","9",3.73731065653295e-281
-"0-4 yr","Season peak percentage","percent","Bin","9","9.1",3.72301676057063e-297
-"0-4 yr","Season peak percentage","percent","Bin","9.1","9.2",1.30917184305096e-313
+"0-4 yr","Season peak percentage","percent","Bin","3.3","3.4",2.10511915951395e-16
+"0-4 yr","Season peak percentage","percent","Bin","3.4","3.5",4.34949320098669e-13
+"0-4 yr","Season peak percentage","percent","Bin","3.5","3.6",3.32222611521387e-10
+"0-4 yr","Season peak percentage","percent","Bin","3.6","3.7",9.22494330957036e-08
+"0-4 yr","Season peak percentage","percent","Bin","3.7","3.8",9.4597405550044e-06
+"0-4 yr","Season peak percentage","percent","Bin","3.8","3.9",0.000368976015921873
+"0-4 yr","Season peak percentage","percent","Bin","3.9","4",0.00578026006422138
+"0-4 yr","Season peak percentage","percent","Bin","4","4.1",0.0397025167527839
+"0-4 yr","Season peak percentage","percent","Bin","4.1","4.2",0.132885031072269
+"0-4 yr","Season peak percentage","percent","Bin","4.2","4.3",0.237183890470387
+"0-4 yr","Season peak percentage","percent","Bin","4.3","4.4",0.247176938056762
+"0-4 yr","Season peak percentage","percent","Bin","4.4","4.5",0.171638142918156
+"0-4 yr","Season peak percentage","percent","Bin","4.5","4.6",0.0914609420085545
+"0-4 yr","Season peak percentage","percent","Bin","4.6","4.7",0.0428624320197689
+"0-4 yr","Season peak percentage","percent","Bin","4.7","4.8",0.0193630486818121
+"0-4 yr","Season peak percentage","percent","Bin","4.8","4.9",0.00799042205782446
+"0-4 yr","Season peak percentage","percent","Bin","4.9","5",0.00271270348646252
+"0-4 yr","Season peak percentage","percent","Bin","5","5.1",0.000686431604455592
+"0-4 yr","Season peak percentage","percent","Bin","5.1","5.2",0.000141103473474528
+"0-4 yr","Season peak percentage","percent","Bin","5.2","5.3",3.19811488723142e-05
+"0-4 yr","Season peak percentage","percent","Bin","5.3","5.4",5.24098730607082e-06
+"0-4 yr","Season peak percentage","percent","Bin","5.4","5.5",3.76431686461399e-07
+"0-4 yr","Season peak percentage","percent","Bin","5.5","5.6",1.03216641537528e-08
+"0-4 yr","Season peak percentage","percent","Bin","5.6","5.7",1.04585065076291e-10
+"0-4 yr","Season peak percentage","percent","Bin","5.7","5.8",3.86470439698434e-13
+"0-4 yr","Season peak percentage","percent","Bin","5.8","5.9",5.16578465836072e-16
+"0-4 yr","Season peak percentage","percent","Bin","5.9","6",2.48333673637713e-19
+"0-4 yr","Season peak percentage","percent","Bin","6","6.1",4.27578874549379e-23
+"0-4 yr","Season peak percentage","percent","Bin","6.1","6.2",2.62883839923625e-27
+"0-4 yr","Season peak percentage","percent","Bin","6.2","6.3",5.75840545805543e-32
+"0-4 yr","Season peak percentage","percent","Bin","6.3","6.4",4.4863445196495e-37
+"0-4 yr","Season peak percentage","percent","Bin","6.4","6.5",1.24155395578539e-42
+"0-4 yr","Season peak percentage","percent","Bin","6.5","6.6",1.21919811786655e-48
+"0-4 yr","Season peak percentage","percent","Bin","6.6","6.7",4.24484808426187e-55
+"0-4 yr","Season peak percentage","percent","Bin","6.7","6.8",5.23649294990928e-62
+"0-4 yr","Season peak percentage","percent","Bin","6.8","6.9",2.28756020689955e-69
+"0-4 yr","Season peak percentage","percent","Bin","6.9","7",3.53721554255215e-77
+"0-4 yr","Season peak percentage","percent","Bin","7","7.1",1.93527410956921e-85
+"0-4 yr","Season peak percentage","percent","Bin","7.1","7.2",3.74520542787279e-94
+"0-4 yr","Season peak percentage","percent","Bin","7.2","7.3",2.5629585610135e-103
+"0-4 yr","Season peak percentage","percent","Bin","7.3","7.4",6.20065402589085e-113
+"0-4 yr","Season peak percentage","percent","Bin","7.4","7.5",5.30242161709695e-123
+"0-4 yr","Season peak percentage","percent","Bin","7.5","7.6",1.60241160843382e-133
+"0-4 yr","Season peak percentage","percent","Bin","7.6","7.7",1.71107369721337e-144
+"0-4 yr","Season peak percentage","percent","Bin","7.7","7.8",6.45502491193279e-156
+"0-4 yr","Season peak percentage","percent","Bin","7.8","7.9",8.60217533727011e-168
+"0-4 yr","Season peak percentage","percent","Bin","7.9","8",4.04904155874625e-180
+"0-4 yr","Season peak percentage","percent","Bin","8","8.1",6.73111766929548e-193
+"0-4 yr","Season peak percentage","percent","Bin","8.1","8.2",3.95161748333104e-206
+"0-4 yr","Season peak percentage","percent","Bin","8.2","8.3",8.19182959875742e-220
+"0-4 yr","Season peak percentage","percent","Bin","8.3","8.4",5.99617134332031e-234
+"0-4 yr","Season peak percentage","percent","Bin","8.4","8.5",1.54962271230544e-248
+"0-4 yr","Season peak percentage","percent","Bin","8.5","8.6",1.41387483735164e-263
+"0-4 yr","Season peak percentage","percent","Bin","8.6","8.7",4.5541307625602e-279
+"0-4 yr","Season peak percentage","percent","Bin","8.7","8.8",5.17830995481975e-295
+"0-4 yr","Season peak percentage","percent","Bin","8.8","8.9",2.0784465118003e-311
+"0-4 yr","Season peak percentage","percent","Bin","8.9","9",0
+"0-4 yr","Season peak percentage","percent","Bin","9","9.1",0
+"0-4 yr","Season peak percentage","percent","Bin","9.1","9.2",0
 "0-4 yr","Season peak percentage","percent","Bin","9.2","9.3",0
 "0-4 yr","Season peak percentage","percent","Bin","9.3","9.4",0
 "0-4 yr","Season peak percentage","percent","Bin","9.4","9.5",0
@@ -844,7 +844,7 @@
 "0-4 yr","Season peak percentage","percent","Bin","12.7","12.8",0
 "0-4 yr","Season peak percentage","percent","Bin","12.8","12.9",0
 "0-4 yr","Season peak percentage","percent","Bin","12.9","13",0
-"0-4 yr","Season peak percentage","percent","Bin","13","100",1.71377180796636e-16
+"0-4 yr","Season peak percentage","percent","Bin","13","100",0
 "0-4 yr","1 wk ahead","percent","Bin","0","0.1",0
 "0-4 yr","1 wk ahead","percent","Bin","0.1","0.2",0
 "0-4 yr","1 wk ahead","percent","Bin","0.2","0.3",0
@@ -854,22 +854,22 @@
 "0-4 yr","1 wk ahead","percent","Bin","0.6","0.7",0
 "0-4 yr","1 wk ahead","percent","Bin","0.7","0.8",0
 "0-4 yr","1 wk ahead","percent","Bin","0.8","0.9",0
-"0-4 yr","1 wk ahead","percent","Bin","0.9","1",0
-"0-4 yr","1 wk ahead","percent","Bin","1","1.1",0
-"0-4 yr","1 wk ahead","percent","Bin","1.1","1.2",0
-"0-4 yr","1 wk ahead","percent","Bin","1.2","1.3",0
-"0-4 yr","1 wk ahead","percent","Bin","1.3","1.4",0.000263767596396833
-"0-4 yr","1 wk ahead","percent","Bin","1.4","1.5",0.0199060004106658
-"0-4 yr","1 wk ahead","percent","Bin","1.5","1.6",0.145263967035856
-"0-4 yr","1 wk ahead","percent","Bin","1.6","1.7",0.257258108886039
-"0-4 yr","1 wk ahead","percent","Bin","1.7","1.8",0.156040827776078
-"0-4 yr","1 wk ahead","percent","Bin","1.8","1.9",0.0924645192564183
-"0-4 yr","1 wk ahead","percent","Bin","1.9","2",0.154325371724412
-"0-4 yr","1 wk ahead","percent","Bin","2","2.1",0.129392427285312
-"0-4 yr","1 wk ahead","percent","Bin","2.1","2.2",0.0388217852881483
-"0-4 yr","1 wk ahead","percent","Bin","2.2","2.3",0.00587241119791449
-"0-4 yr","1 wk ahead","percent","Bin","2.3","2.4",0.000378543509959472
-"0-4 yr","1 wk ahead","percent","Bin","2.4","2.5",1.22700328001913e-05
+"0-4 yr","1 wk ahead","percent","Bin","0.9","1",0.000114348404282312
+"0-4 yr","1 wk ahead","percent","Bin","1","1.1",0.0344220272942594
+"0-4 yr","1 wk ahead","percent","Bin","1.1","1.2",0.195201146189822
+"0-4 yr","1 wk ahead","percent","Bin","1.2","1.3",0.0852390635689095
+"0-4 yr","1 wk ahead","percent","Bin","1.3","1.4",0.00281371975321568
+"0-4 yr","1 wk ahead","percent","Bin","1.4","1.5",0.000156164987796445
+"0-4 yr","1 wk ahead","percent","Bin","1.5","1.6",0.00858643944134471
+"0-4 yr","1 wk ahead","percent","Bin","1.6","1.7",0.0920018457159549
+"0-4 yr","1 wk ahead","percent","Bin","1.7","1.8",0.258856373914434
+"0-4 yr","1 wk ahead","percent","Bin","1.8","1.9",0.241762924738203
+"0-4 yr","1 wk ahead","percent","Bin","1.9","2",0.0733612967270498
+"0-4 yr","1 wk ahead","percent","Bin","2","2.1",0.00728140123570473
+"0-4 yr","1 wk ahead","percent","Bin","2.1","2.2",0.00020324802902347
+"0-4 yr","1 wk ahead","percent","Bin","2.2","2.3",0
+"0-4 yr","1 wk ahead","percent","Bin","2.3","2.4",0
+"0-4 yr","1 wk ahead","percent","Bin","2.4","2.5",0
 "0-4 yr","1 wk ahead","percent","Bin","2.5","2.6",0
 "0-4 yr","1 wk ahead","percent","Bin","2.6","2.7",0
 "0-4 yr","1 wk ahead","percent","Bin","2.7","2.8",0
@@ -990,29 +990,29 @@
 "0-4 yr","2 wk ahead","percent","Bin","1.1","1.2",0
 "0-4 yr","2 wk ahead","percent","Bin","1.2","1.3",0
 "0-4 yr","2 wk ahead","percent","Bin","1.3","1.4",0
-"0-4 yr","2 wk ahead","percent","Bin","1.4","1.5",0.000762000170394084
-"0-4 yr","2 wk ahead","percent","Bin","1.5","1.6",0.239335742433758
-"0-4 yr","2 wk ahead","percent","Bin","1.6","1.7",0.350513555252894
-"0-4 yr","2 wk ahead","percent","Bin","1.7","1.8",0.134947955779436
-"0-4 yr","2 wk ahead","percent","Bin","1.8","1.9",0.25753903241806
-"0-4 yr","2 wk ahead","percent","Bin","1.9","2",0.01686895355702
-"0-4 yr","2 wk ahead","percent","Bin","2","2.1",3.27603884367837e-05
-"0-4 yr","2 wk ahead","percent","Bin","2.1","2.2",0
-"0-4 yr","2 wk ahead","percent","Bin","2.2","2.3",0
-"0-4 yr","2 wk ahead","percent","Bin","2.3","2.4",0
-"0-4 yr","2 wk ahead","percent","Bin","2.4","2.5",0
-"0-4 yr","2 wk ahead","percent","Bin","2.5","2.6",0
-"0-4 yr","2 wk ahead","percent","Bin","2.6","2.7",0
-"0-4 yr","2 wk ahead","percent","Bin","2.7","2.8",0
-"0-4 yr","2 wk ahead","percent","Bin","2.8","2.9",0
-"0-4 yr","2 wk ahead","percent","Bin","2.9","3",0
-"0-4 yr","2 wk ahead","percent","Bin","3","3.1",0
-"0-4 yr","2 wk ahead","percent","Bin","3.1","3.2",0
-"0-4 yr","2 wk ahead","percent","Bin","3.2","3.3",0
-"0-4 yr","2 wk ahead","percent","Bin","3.3","3.4",0
-"0-4 yr","2 wk ahead","percent","Bin","3.4","3.5",0
-"0-4 yr","2 wk ahead","percent","Bin","3.5","3.6",0
-"0-4 yr","2 wk ahead","percent","Bin","3.6","3.7",0
+"0-4 yr","2 wk ahead","percent","Bin","1.4","1.5",0
+"0-4 yr","2 wk ahead","percent","Bin","1.5","1.6",0
+"0-4 yr","2 wk ahead","percent","Bin","1.6","1.7",2.688708810608e-06
+"0-4 yr","2 wk ahead","percent","Bin","1.7","1.8",0.00231720889517464
+"0-4 yr","2 wk ahead","percent","Bin","1.8","1.9",0.0157031604311095
+"0-4 yr","2 wk ahead","percent","Bin","1.9","2",0.0358707248607194
+"0-4 yr","2 wk ahead","percent","Bin","2","2.1",0.034529802090513
+"0-4 yr","2 wk ahead","percent","Bin","2.1","2.2",0.0287551158627722
+"0-4 yr","2 wk ahead","percent","Bin","2.2","2.3",0.0519456287312683
+"0-4 yr","2 wk ahead","percent","Bin","2.3","2.4",0.0952869956327546
+"0-4 yr","2 wk ahead","percent","Bin","2.4","2.5",0.112208211288716
+"0-4 yr","2 wk ahead","percent","Bin","2.5","2.6",0.083942024117156
+"0-4 yr","2 wk ahead","percent","Bin","2.6","2.7",0.0610718154248665
+"0-4 yr","2 wk ahead","percent","Bin","2.7","2.8",0.0551015356066007
+"0-4 yr","2 wk ahead","percent","Bin","2.8","2.9",0.0765242590419365
+"0-4 yr","2 wk ahead","percent","Bin","2.9","3",0.115615179242704
+"0-4 yr","2 wk ahead","percent","Bin","3","3.1",0.0972035125194397
+"0-4 yr","2 wk ahead","percent","Bin","3.1","3.2",0.0787792634307726
+"0-4 yr","2 wk ahead","percent","Bin","3.2","3.3",0.0352257190951551
+"0-4 yr","2 wk ahead","percent","Bin","3.3","3.4",0.0147213035966809
+"0-4 yr","2 wk ahead","percent","Bin","3.4","3.5",0.00431421212797658
+"0-4 yr","2 wk ahead","percent","Bin","3.5","3.6",0.000870094765646997
+"0-4 yr","2 wk ahead","percent","Bin","3.6","3.7",1.15445292262581e-05
 "0-4 yr","2 wk ahead","percent","Bin","3.7","3.8",0
 "0-4 yr","2 wk ahead","percent","Bin","3.8","3.9",0
 "0-4 yr","2 wk ahead","percent","Bin","3.9","4",0
@@ -1113,29 +1113,29 @@
 "0-4 yr","3 wk ahead","percent","Bin","0.3","0.4",0
 "0-4 yr","3 wk ahead","percent","Bin","0.4","0.5",0
 "0-4 yr","3 wk ahead","percent","Bin","0.5","0.6",0
-"0-4 yr","3 wk ahead","percent","Bin","0.6","0.7",3.34678995778275e-05
-"0-4 yr","3 wk ahead","percent","Bin","0.7","0.8",0.127807903097398
-"0-4 yr","3 wk ahead","percent","Bin","0.8","0.9",0.357763934841256
-"0-4 yr","3 wk ahead","percent","Bin","0.9","1",0.115896844171231
-"0-4 yr","3 wk ahead","percent","Bin","1","1.1",0.0119302791346453
-"0-4 yr","3 wk ahead","percent","Bin","1.1","1.2",0.167781274229476
-"0-4 yr","3 wk ahead","percent","Bin","1.2","1.3",0.14550466959918
-"0-4 yr","3 wk ahead","percent","Bin","1.3","1.4",0.0722837483659932
-"0-4 yr","3 wk ahead","percent","Bin","1.4","1.5",0.000997878661241994
-"0-4 yr","3 wk ahead","percent","Bin","1.5","1.6",0
-"0-4 yr","3 wk ahead","percent","Bin","1.6","1.7",0
-"0-4 yr","3 wk ahead","percent","Bin","1.7","1.8",0
-"0-4 yr","3 wk ahead","percent","Bin","1.8","1.9",0
-"0-4 yr","3 wk ahead","percent","Bin","1.9","2",0
-"0-4 yr","3 wk ahead","percent","Bin","2","2.1",0
-"0-4 yr","3 wk ahead","percent","Bin","2.1","2.2",0
-"0-4 yr","3 wk ahead","percent","Bin","2.2","2.3",0
-"0-4 yr","3 wk ahead","percent","Bin","2.3","2.4",0
-"0-4 yr","3 wk ahead","percent","Bin","2.4","2.5",0
-"0-4 yr","3 wk ahead","percent","Bin","2.5","2.6",0
-"0-4 yr","3 wk ahead","percent","Bin","2.6","2.7",0
-"0-4 yr","3 wk ahead","percent","Bin","2.7","2.8",0
-"0-4 yr","3 wk ahead","percent","Bin","2.8","2.9",0
+"0-4 yr","3 wk ahead","percent","Bin","0.6","0.7",0
+"0-4 yr","3 wk ahead","percent","Bin","0.7","0.8",0
+"0-4 yr","3 wk ahead","percent","Bin","0.8","0.9",0
+"0-4 yr","3 wk ahead","percent","Bin","0.9","1",0
+"0-4 yr","3 wk ahead","percent","Bin","1","1.1",0
+"0-4 yr","3 wk ahead","percent","Bin","1.1","1.2",4.41501666812706e-05
+"0-4 yr","3 wk ahead","percent","Bin","1.2","1.3",0.0197090069701286
+"0-4 yr","3 wk ahead","percent","Bin","1.3","1.4",0.0516670572966368
+"0-4 yr","3 wk ahead","percent","Bin","1.4","1.5",0.0782223964623943
+"0-4 yr","3 wk ahead","percent","Bin","1.5","1.6",0.070828737355474
+"0-4 yr","3 wk ahead","percent","Bin","1.6","1.7",0.0957339778588526
+"0-4 yr","3 wk ahead","percent","Bin","1.7","1.8",0.101177923037264
+"0-4 yr","3 wk ahead","percent","Bin","1.8","1.9",0.162029713139088
+"0-4 yr","3 wk ahead","percent","Bin","1.9","2",0.158265894709591
+"0-4 yr","3 wk ahead","percent","Bin","2","2.1",0.0481541363159987
+"0-4 yr","3 wk ahead","percent","Bin","2.1","2.2",0.0353158049900597
+"0-4 yr","3 wk ahead","percent","Bin","2.2","2.3",0.0298141979131744
+"0-4 yr","3 wk ahead","percent","Bin","2.3","2.4",0.0386534004933594
+"0-4 yr","3 wk ahead","percent","Bin","2.4","2.5",0.0622479263041578
+"0-4 yr","3 wk ahead","percent","Bin","2.5","2.6",0.0378393384043447
+"0-4 yr","3 wk ahead","percent","Bin","2.6","2.7",0.00945134960037871
+"0-4 yr","3 wk ahead","percent","Bin","2.7","2.8",0.000835170470595333
+"0-4 yr","3 wk ahead","percent","Bin","2.8","2.9",9.81851182154999e-06
 "0-4 yr","3 wk ahead","percent","Bin","2.9","3",0
 "0-4 yr","3 wk ahead","percent","Bin","3","3.1",0
 "0-4 yr","3 wk ahead","percent","Bin","3.1","3.2",0
@@ -1242,21 +1242,21 @@
 "0-4 yr","4 wk ahead","percent","Bin","0.1","0.2",0
 "0-4 yr","4 wk ahead","percent","Bin","0.2","0.3",0
 "0-4 yr","4 wk ahead","percent","Bin","0.3","0.4",0
-"0-4 yr","4 wk ahead","percent","Bin","0.4","0.5",0.0621181930980311
-"0-4 yr","4 wk ahead","percent","Bin","0.5","0.6",0.456793502363817
-"0-4 yr","4 wk ahead","percent","Bin","0.6","0.7",0.0819820358379807
-"0-4 yr","4 wk ahead","percent","Bin","0.7","0.8",4.47791089694379e-08
-"0-4 yr","4 wk ahead","percent","Bin","0.8","0.9",0
-"0-4 yr","4 wk ahead","percent","Bin","0.9","1",0
-"0-4 yr","4 wk ahead","percent","Bin","1","1.1",0
-"0-4 yr","4 wk ahead","percent","Bin","1.1","1.2",0.00233372836933104
-"0-4 yr","4 wk ahead","percent","Bin","1.2","1.3",0.0395046271374843
-"0-4 yr","4 wk ahead","percent","Bin","1.3","1.4",0.110496505217378
-"0-4 yr","4 wk ahead","percent","Bin","1.4","1.5",0.138467628616536
-"0-4 yr","4 wk ahead","percent","Bin","1.5","1.6",0.0767903409204146
-"0-4 yr","4 wk ahead","percent","Bin","1.6","1.7",0.0280895064640999
-"0-4 yr","4 wk ahead","percent","Bin","1.7","1.8",0.00341082606624971
-"0-4 yr","4 wk ahead","percent","Bin","1.8","1.9",1.30611295693568e-05
+"0-4 yr","4 wk ahead","percent","Bin","0.4","0.5",0
+"0-4 yr","4 wk ahead","percent","Bin","0.5","0.6",0.00144870713763142
+"0-4 yr","4 wk ahead","percent","Bin","0.6","0.7",0.0667907147929359
+"0-4 yr","4 wk ahead","percent","Bin","0.7","0.8",0.139759383329729
+"0-4 yr","4 wk ahead","percent","Bin","0.8","0.9",0.0578315949023794
+"0-4 yr","4 wk ahead","percent","Bin","0.9","1",0.0563137224239613
+"0-4 yr","4 wk ahead","percent","Bin","1","1.1",0.043844163582295
+"0-4 yr","4 wk ahead","percent","Bin","1.1","1.2",0.0959687985008126
+"0-4 yr","4 wk ahead","percent","Bin","1.2","1.3",0.0968058420762838
+"0-4 yr","4 wk ahead","percent","Bin","1.3","1.4",0.2316117083532
+"0-4 yr","4 wk ahead","percent","Bin","1.4","1.5",0.0669851928169534
+"0-4 yr","4 wk ahead","percent","Bin","1.5","1.6",0.0631687669126805
+"0-4 yr","4 wk ahead","percent","Bin","1.6","1.7",0.0654613833697069
+"0-4 yr","4 wk ahead","percent","Bin","1.7","1.8",0.013648354538086
+"0-4 yr","4 wk ahead","percent","Bin","1.8","1.9",0.000361667263345732
 "0-4 yr","4 wk ahead","percent","Bin","1.9","2",0
 "0-4 yr","4 wk ahead","percent","Bin","2","2.1",0
 "0-4 yr","4 wk ahead","percent","Bin","2.1","2.2",0
@@ -1382,14 +1382,14 @@
 "5-17 yr","Season peak week","week","Bin","50","51",0
 "5-17 yr","Season peak week","week","Bin","51","52",0
 "5-17 yr","Season peak week","week","Bin","52","53",0
-"5-17 yr","Season peak week","week","Bin","1","2",0
-"5-17 yr","Season peak week","week","Bin","2","3",0.966388388333795
+"5-17 yr","Season peak week","week","Bin","1","2",0.0220711172403184
+"5-17 yr","Season peak week","week","Bin","2","3",0.952460148053427
 "5-17 yr","Season peak week","week","Bin","3","4",0
 "5-17 yr","Season peak week","week","Bin","4","5",0
-"5-17 yr","Season peak week","week","Bin","5","6",0.00106264747959503
-"5-17 yr","Season peak week","week","Bin","6","7",0.029644993314399
-"5-17 yr","Season peak week","week","Bin","7","8",0.00290397087221088
-"5-17 yr","Season peak week","week","Bin","8","9",0
+"5-17 yr","Season peak week","week","Bin","5","6",0
+"5-17 yr","Season peak week","week","Bin","6","7",0.0127760923320036
+"5-17 yr","Season peak week","week","Bin","7","8",0.0114132654400914
+"5-17 yr","Season peak week","week","Bin","8","9",0.00127937693415993
 "5-17 yr","Season peak week","week","Bin","9","10",0
 "5-17 yr","Season peak week","week","Bin","10","11",0
 "5-17 yr","Season peak week","week","Bin","11","12",0
@@ -1400,56 +1400,56 @@
 "5-17 yr","Season peak week","week","Bin","16","17",0
 "5-17 yr","Season peak week","week","Bin","17","18",0
 "5-17 yr","Season peak percentage","percent","Bin","0","0.1",0
-"5-17 yr","Season peak percentage","percent","Bin","0.1","0.2",2.56484061530386e-19
-"5-17 yr","Season peak percentage","percent","Bin","0.2","0.3",2.59978449324775e-15
-"5-17 yr","Season peak percentage","percent","Bin","0.3","0.4",3.31335859390155e-12
-"5-17 yr","Season peak percentage","percent","Bin","0.4","0.5",1.61452652200936e-09
-"5-17 yr","Season peak percentage","percent","Bin","0.5","0.6",3.08265737342643e-07
-"5-17 yr","Season peak percentage","percent","Bin","0.6","0.7",2.38343814252835e-05
-"5-17 yr","Season peak percentage","percent","Bin","0.7","0.8",0.000779527965772044
-"5-17 yr","Season peak percentage","percent","Bin","0.8","0.9",0.0113157787278751
-"5-17 yr","Season peak percentage","percent","Bin","0.9","1",0.0757591973937268
-"5-17 yr","Season peak percentage","percent","Bin","1","1.1",0.237821473344305
-"5-17 yr","Season peak percentage","percent","Bin","1.1","1.2",0.349082424720417
-"5-17 yr","Season peak percentage","percent","Bin","1.2","1.3",0.237768264500268
-"5-17 yr","Season peak percentage","percent","Bin","1.3","1.4",0.0752681261982264
-"5-17 yr","Season peak percentage","percent","Bin","1.4","1.5",0.0113046584715025
-"5-17 yr","Season peak percentage","percent","Bin","1.5","1.6",0.000842657693135269
-"5-17 yr","Season peak percentage","percent","Bin","1.6","1.7",3.30406652043289e-05
-"5-17 yr","Season peak percentage","percent","Bin","1.7","1.8",6.98474926133494e-07
-"5-17 yr","Season peak percentage","percent","Bin","1.8","1.9",7.54207541243142e-09
-"5-17 yr","Season peak percentage","percent","Bin","1.9","2",3.74818778596216e-11
-"5-17 yr","Season peak percentage","percent","Bin","2","2.1",7.80168269319894e-14
-"5-17 yr","Season peak percentage","percent","Bin","2.1","2.2",6.3880423910514e-17
-"5-17 yr","Season peak percentage","percent","Bin","2.2","2.3",1.98177348859544e-20
-"5-17 yr","Season peak percentage","percent","Bin","2.3","2.4",2.27759958521055e-24
-"5-17 yr","Season peak percentage","percent","Bin","2.4","2.5",9.56158236816275e-29
-"5-17 yr","Season peak percentage","percent","Bin","2.5","2.6",1.45275991646209e-33
-"5-17 yr","Season peak percentage","percent","Bin","2.6","2.7",7.93797960160029e-39
-"5-17 yr","Season peak percentage","percent","Bin","2.7","2.8",1.55281621009458e-44
-"5-17 yr","Season peak percentage","percent","Bin","2.8","2.9",1.08393318153248e-50
-"5-17 yr","Season peak percentage","percent","Bin","2.9","3",2.69344546597311e-57
-"5-17 yr","Season peak percentage","percent","Bin","3","3.1",2.37822476304127e-64
-"5-17 yr","Season peak percentage","percent","Bin","3.1","3.2",7.45150723947421e-72
-"5-17 yr","Season peak percentage","percent","Bin","3.2","3.3",8.27617410823175e-80
-"5-17 yr","Season peak percentage","percent","Bin","3.3","3.4",3.25582182755379e-88
-"5-17 yr","Season peak percentage","percent","Bin","3.4","3.5",4.53383175800767e-97
-"5-17 yr","Season peak percentage","percent","Bin","3.5","3.6",2.2337254753655e-106
-"5-17 yr","Season peak percentage","percent","Bin","3.6","3.7",3.89209242153589e-116
-"5-17 yr","Season peak percentage","percent","Bin","3.7","3.8",2.397660947664e-126
-"5-17 yr","Season peak percentage","percent","Bin","3.8","3.9",5.22073043545175e-137
-"5-17 yr","Season peak percentage","percent","Bin","3.9","4",4.01717501415286e-148
-"5-17 yr","Season peak percentage","percent","Bin","4","4.1",1.092140551988e-159
-"5-17 yr","Season peak percentage","percent","Bin","4.1","4.2",1.04891160391903e-171
-"5-17 yr","Season peak percentage","percent","Bin","4.2","4.3",3.55832503479742e-184
-"5-17 yr","Season peak percentage","percent","Bin","4.3","4.4",4.26334175961251e-197
-"5-17 yr","Season peak percentage","percent","Bin","4.4","4.5",1.80389033126289e-210
-"5-17 yr","Season peak percentage","percent","Bin","4.5","4.6",2.69518329527161e-224
-"5-17 yr","Season peak percentage","percent","Bin","4.6","4.7",1.42184300663824e-238
-"5-17 yr","Season peak percentage","percent","Bin","4.7","4.8",2.64832127109082e-253
-"5-17 yr","Season peak percentage","percent","Bin","4.8","4.9",1.74148161608179e-268
-"5-17 yr","Season peak percentage","percent","Bin","4.9","5",4.04270832548798e-284
-"5-17 yr","Season peak percentage","percent","Bin","5","5.1",3.31290903115958e-300
+"5-17 yr","Season peak percentage","percent","Bin","0.1","0.2",4.21023831902789e-17
+"5-17 yr","Season peak percentage","percent","Bin","0.2","0.3",1.42552067128735e-13
+"5-17 yr","Season peak percentage","percent","Bin","0.3","0.4",1.43796124875941e-10
+"5-17 yr","Season peak percentage","percent","Bin","0.4","0.5",5.38398216796367e-08
+"5-17 yr","Season peak percentage","percent","Bin","0.5","0.6",7.58224313223578e-06
+"5-17 yr","Season peak percentage","percent","Bin","0.6","0.7",0.000408324543179438
+"5-17 yr","Season peak percentage","percent","Bin","0.7","0.8",0.00857798345327312
+"5-17 yr","Season peak percentage","percent","Bin","0.8","0.9",0.0719626470508982
+"5-17 yr","Season peak percentage","percent","Bin","0.9","1",0.247632473633076
+"5-17 yr","Season peak percentage","percent","Bin","1","1.1",0.360531079626199
+"5-17 yr","Season peak percentage","percent","Bin","1.1","1.2",0.23097374314366
+"5-17 yr","Season peak percentage","percent","Bin","1.2","1.3",0.0688168057357723
+"5-17 yr","Season peak percentage","percent","Bin","1.3","1.4",0.0102455554842284
+"5-17 yr","Season peak percentage","percent","Bin","1.4","1.5",0.000808856622467142
+"5-17 yr","Season peak percentage","percent","Bin","1.5","1.6",3.41378640559324e-05
+"5-17 yr","Season peak percentage","percent","Bin","1.6","1.7",7.48336007701862e-07
+"5-17 yr","Season peak percentage","percent","Bin","1.7","1.8",8.23706125754809e-09
+"5-17 yr","Season peak percentage","percent","Bin","1.8","1.9",4.31296276413179e-11
+"5-17 yr","Season peak percentage","percent","Bin","1.9","2",9.87418900065755e-14
+"5-17 yr","Season peak percentage","percent","Bin","2","2.1",9.0986149183257e-17
+"5-17 yr","Season peak percentage","percent","Bin","2.1","2.2",3.18748802612137e-20
+"5-17 yr","Season peak percentage","percent","Bin","2.2","2.3",4.11011235361797e-24
+"5-17 yr","Season peak percentage","percent","Bin","2.3","2.4",1.9175012109753e-28
+"5-17 yr","Season peak percentage","percent","Bin","2.4","2.5",3.20733334075521e-33
+"5-17 yr","Season peak percentage","percent","Bin","2.5","2.6",1.91384767129315e-38
+"5-17 yr","Season peak percentage","percent","Bin","2.6","2.7",4.06221488037762e-44
+"5-17 yr","Season peak percentage","percent","Bin","2.7","2.8",3.06145160990687e-50
+"5-17 yr","Season peak percentage","percent","Bin","2.8","2.9",8.18241520741559e-57
+"5-17 yr","Season peak percentage","percent","Bin","2.9","3",7.74923383480213e-64
+"5-17 yr","Season peak percentage","percent","Bin","3","3.1",2.59888064953235e-71
+"5-17 yr","Season peak percentage","percent","Bin","3.1","3.2",3.0849782812224e-79
+"5-17 yr","Season peak percentage","percent","Bin","3.2","3.3",1.2956435853345e-87
+"5-17 yr","Season peak percentage","percent","Bin","3.3","3.4",1.92462448582286e-96
+"5-17 yr","Season peak percentage","percent","Bin","3.4","3.5",1.01091645402731e-105
+"5-17 yr","Season peak percentage","percent","Bin","3.5","3.6",1.87712203640577e-115
+"5-17 yr","Season peak percentage","percent","Bin","3.6","3.7",1.23194348941914e-125
+"5-17 yr","Season peak percentage","percent","Bin","3.7","3.8",2.85715918176164e-136
+"5-17 yr","Season peak percentage","percent","Bin","3.8","3.9",2.34130032466363e-147
+"5-17 yr","Season peak percentage","percent","Bin","3.9","4",6.77798075250827e-159
+"5-17 yr","Season peak percentage","percent","Bin","4","4.1",6.93125926402224e-171
+"5-17 yr","Season peak percentage","percent","Bin","4.1","4.2",2.5034924819235e-183
+"5-17 yr","Season peak percentage","percent","Bin","4.2","4.3",3.19345901579768e-196
+"5-17 yr","Season peak percentage","percent","Bin","4.3","4.4",1.43853380316959e-209
+"5-17 yr","Season peak percentage","percent","Bin","4.4","4.5",2.28817306152541e-223
+"5-17 yr","Season peak percentage","percent","Bin","4.5","4.6",1.28510117732154e-237
+"5-17 yr","Season peak percentage","percent","Bin","4.6","4.7",2.54822520331004e-252
+"5-17 yr","Season peak percentage","percent","Bin","4.7","4.8",1.78387804727573e-267
+"5-17 yr","Season peak percentage","percent","Bin","4.8","4.9",4.40855636519294e-283
+"5-17 yr","Season peak percentage","percent","Bin","4.9","5",3.84601048606182e-299
+"5-17 yr","Season peak percentage","percent","Bin","5","5.1",0
 "5-17 yr","Season peak percentage","percent","Bin","5.1","5.2",0
 "5-17 yr","Season peak percentage","percent","Bin","5.2","5.3",0
 "5-17 yr","Season peak percentage","percent","Bin","5.3","5.4",0
@@ -1529,13 +1529,13 @@
 "5-17 yr","Season peak percentage","percent","Bin","12.7","12.8",0
 "5-17 yr","Season peak percentage","percent","Bin","12.8","12.9",0
 "5-17 yr","Season peak percentage","percent","Bin","12.9","13",0
-"5-17 yr","Season peak percentage","percent","Bin","13","100",1.71377180796636e-16
-"5-17 yr","1 wk ahead","percent","Bin","0","0.1",0.139019687367299
-"5-17 yr","1 wk ahead","percent","Bin","0.1","0.2",0.687028200934713
-"5-17 yr","1 wk ahead","percent","Bin","0.2","0.3",0.173917822899062
-"5-17 yr","1 wk ahead","percent","Bin","0.3","0.4",3.42887989258603e-05
-"5-17 yr","1 wk ahead","percent","Bin","0.4","0.5",0
-"5-17 yr","1 wk ahead","percent","Bin","0.5","0.6",0
+"5-17 yr","Season peak percentage","percent","Bin","13","100",0
+"5-17 yr","1 wk ahead","percent","Bin","0","0.1",0.00126237852495809
+"5-17 yr","1 wk ahead","percent","Bin","0.1","0.2",0.1423260682716
+"5-17 yr","1 wk ahead","percent","Bin","0.2","0.3",0.351967960898618
+"5-17 yr","1 wk ahead","percent","Bin","0.3","0.4",0.442814007345218
+"5-17 yr","1 wk ahead","percent","Bin","0.4","0.5",0.0615780264289053
+"5-17 yr","1 wk ahead","percent","Bin","0.5","0.6",5.15585306999347e-05
 "5-17 yr","1 wk ahead","percent","Bin","0.6","0.7",0
 "5-17 yr","1 wk ahead","percent","Bin","0.7","0.8",0
 "5-17 yr","1 wk ahead","percent","Bin","0.8","0.9",0
@@ -1661,10 +1661,10 @@
 "5-17 yr","1 wk ahead","percent","Bin","12.8","12.9",0
 "5-17 yr","1 wk ahead","percent","Bin","12.9","13",0
 "5-17 yr","1 wk ahead","percent","Bin","13","100",0
-"5-17 yr","2 wk ahead","percent","Bin","0","0.1",0.983502550942348
-"5-17 yr","2 wk ahead","percent","Bin","0.1","0.2",0.0164974490576523
-"5-17 yr","2 wk ahead","percent","Bin","0.2","0.3",0
-"5-17 yr","2 wk ahead","percent","Bin","0.3","0.4",0
+"5-17 yr","2 wk ahead","percent","Bin","0","0.1",0.00867163266903802
+"5-17 yr","2 wk ahead","percent","Bin","0.1","0.2",0.559838314512129
+"5-17 yr","2 wk ahead","percent","Bin","0.2","0.3",0.431479752718773
+"5-17 yr","2 wk ahead","percent","Bin","0.3","0.4",1.03001000599541e-05
 "5-17 yr","2 wk ahead","percent","Bin","0.4","0.5",0
 "5-17 yr","2 wk ahead","percent","Bin","0.5","0.6",0
 "5-17 yr","2 wk ahead","percent","Bin","0.6","0.7",0
@@ -1792,10 +1792,10 @@
 "5-17 yr","2 wk ahead","percent","Bin","12.8","12.9",0
 "5-17 yr","2 wk ahead","percent","Bin","12.9","13",0
 "5-17 yr","2 wk ahead","percent","Bin","13","100",0
-"5-17 yr","3 wk ahead","percent","Bin","0","0.1",0.710071163889566
-"5-17 yr","3 wk ahead","percent","Bin","0.1","0.2",0.289928836110434
-"5-17 yr","3 wk ahead","percent","Bin","0.2","0.3",0
-"5-17 yr","3 wk ahead","percent","Bin","0.3","0.4",0
+"5-17 yr","3 wk ahead","percent","Bin","0","0.1",0.054783947230024
+"5-17 yr","3 wk ahead","percent","Bin","0.1","0.2",0.772839784118636
+"5-17 yr","3 wk ahead","percent","Bin","0.2","0.3",0.170869637746
+"5-17 yr","3 wk ahead","percent","Bin","0.3","0.4",0.0015066309053408
 "5-17 yr","3 wk ahead","percent","Bin","0.4","0.5",0
 "5-17 yr","3 wk ahead","percent","Bin","0.5","0.6",0
 "5-17 yr","3 wk ahead","percent","Bin","0.6","0.7",0
@@ -1923,11 +1923,11 @@
 "5-17 yr","3 wk ahead","percent","Bin","12.8","12.9",0
 "5-17 yr","3 wk ahead","percent","Bin","12.9","13",0
 "5-17 yr","3 wk ahead","percent","Bin","13","100",0
-"5-17 yr","4 wk ahead","percent","Bin","0","0.1",0.870306821496516
-"5-17 yr","4 wk ahead","percent","Bin","0.1","0.2",0.129693178503484
-"5-17 yr","4 wk ahead","percent","Bin","0.2","0.3",0
-"5-17 yr","4 wk ahead","percent","Bin","0.3","0.4",0
-"5-17 yr","4 wk ahead","percent","Bin","0.4","0.5",0
+"5-17 yr","4 wk ahead","percent","Bin","0","0.1",0.283164175185205
+"5-17 yr","4 wk ahead","percent","Bin","0.1","0.2",0.222001470978401
+"5-17 yr","4 wk ahead","percent","Bin","0.2","0.3",0.416957597281666
+"5-17 yr","4 wk ahead","percent","Bin","0.3","0.4",0.0778767325942364
+"5-17 yr","4 wk ahead","percent","Bin","0.4","0.5",2.39604915639113e-08
 "5-17 yr","4 wk ahead","percent","Bin","0.5","0.6",0
 "5-17 yr","4 wk ahead","percent","Bin","0.6","0.7",0
 "5-17 yr","4 wk ahead","percent","Bin","0.7","0.8",0
@@ -2067,14 +2067,14 @@
 "18-49 yr","Season peak week","week","Bin","50","51",0
 "18-49 yr","Season peak week","week","Bin","51","52",0
 "18-49 yr","Season peak week","week","Bin","52","53",0
-"18-49 yr","Season peak week","week","Bin","1","2",0
-"18-49 yr","Season peak week","week","Bin","2","3",0.966388388333795
+"18-49 yr","Season peak week","week","Bin","1","2",0.0220711172403184
+"18-49 yr","Season peak week","week","Bin","2","3",0.952460148053427
 "18-49 yr","Season peak week","week","Bin","3","4",0
 "18-49 yr","Season peak week","week","Bin","4","5",0
-"18-49 yr","Season peak week","week","Bin","5","6",0.00106264747959503
-"18-49 yr","Season peak week","week","Bin","6","7",0.029644993314399
-"18-49 yr","Season peak week","week","Bin","7","8",0.00290397087221088
-"18-49 yr","Season peak week","week","Bin","8","9",0
+"18-49 yr","Season peak week","week","Bin","5","6",0
+"18-49 yr","Season peak week","week","Bin","6","7",0.0127760923320036
+"18-49 yr","Season peak week","week","Bin","7","8",0.0114132654400914
+"18-49 yr","Season peak week","week","Bin","8","9",0.00127937693415993
 "18-49 yr","Season peak week","week","Bin","9","10",0
 "18-49 yr","Season peak week","week","Bin","10","11",0
 "18-49 yr","Season peak week","week","Bin","11","12",0
@@ -2091,55 +2091,55 @@
 "18-49 yr","Season peak percentage","percent","Bin","0.4","0.5",0
 "18-49 yr","Season peak percentage","percent","Bin","0.5","0.6",0
 "18-49 yr","Season peak percentage","percent","Bin","0.6","0.7",0
-"18-49 yr","Season peak percentage","percent","Bin","0.7","0.8",1.17805553463213e-16
-"18-49 yr","Season peak percentage","percent","Bin","0.8","0.9",2.50678525481504e-13
-"18-49 yr","Season peak percentage","percent","Bin","0.9","1",1.99797626197253e-10
-"18-49 yr","Season peak percentage","percent","Bin","1","1.1",6.14517427169547e-08
-"18-49 yr","Season peak percentage","percent","Bin","1.1","1.2",7.46282786893216e-06
-"18-49 yr","Season peak percentage","percent","Bin","1.2","1.3",0.000366900640010169
-"18-49 yr","Season peak percentage","percent","Bin","1.3","1.4",0.00747412543704591
-"18-49 yr","Season peak percentage","percent","Bin","1.4","1.5",0.0642013507191199
-"18-49 yr","Season peak percentage","percent","Bin","1.5","1.6",0.234913464491147
-"18-49 yr","Season peak percentage","percent","Bin","1.6","1.7",0.367584805170939
-"18-49 yr","Season peak percentage","percent","Bin","1.7","1.8",0.246001416656735
-"18-49 yr","Season peak percentage","percent","Bin","1.8","1.9",0.0703596475094056
-"18-49 yr","Season peak percentage","percent","Bin","1.9","2",0.00862232607738735
-"18-49 yr","Season peak percentage","percent","Bin","2","2.1",0.000457586857506692
-"18-49 yr","Season peak percentage","percent","Bin","2.1","2.2",1.07373542036015e-05
-"18-49 yr","Season peak percentage","percent","Bin","2.2","2.3",1.14053413538671e-07
-"18-49 yr","Season peak percentage","percent","Bin","2.3","2.4",5.52237427030738e-10
-"18-49 yr","Season peak percentage","percent","Bin","2.4","2.5",1.18850223997471e-12
-"18-49 yr","Season peak percentage","percent","Bin","2.5","2.6",1.08221962609503e-15
-"18-49 yr","Season peak percentage","percent","Bin","2.6","2.7",3.95985075859541e-19
-"18-49 yr","Season peak percentage","percent","Bin","2.7","2.8",5.59183297095686e-23
-"18-49 yr","Season peak percentage","percent","Bin","2.8","2.9",2.96449194967243e-27
-"18-49 yr","Season peak percentage","percent","Bin","2.9","3",5.79474912641331e-32
-"18-49 yr","Season peak percentage","percent","Bin","3","3.1",4.12739327193314e-37
-"18-49 yr","Season peak percentage","percent","Bin","3.1","3.2",1.06273104413044e-42
-"18-49 yr","Season peak percentage","percent","Bin","3.2","3.3",9.83731112936844e-49
-"18-49 yr","Season peak percentage","percent","Bin","3.3","3.4",3.26066904003702e-55
-"18-49 yr","Season peak percentage","percent","Bin","3.4","3.5",3.85862195838522e-62
-"18-49 yr","Season peak percentage","percent","Bin","3.5","3.6",1.62659003869943e-69
-"18-49 yr","Season peak percentage","percent","Bin","3.6","3.7",2.43830827119927e-77
-"18-49 yr","Season peak percentage","percent","Bin","3.7","3.8",1.29798305978713e-85
-"18-49 yr","Season peak percentage","percent","Bin","3.8","3.9",2.45101459454991e-94
-"18-49 yr","Season peak percentage","percent","Bin","3.9","4",1.64035883372676e-103
-"18-49 yr","Season peak percentage","percent","Bin","4","4.1",3.8881232903532e-113
-"18-49 yr","Season peak percentage","percent","Bin","4.1","4.2",3.26210965201112e-123
-"18-49 yr","Season peak percentage","percent","Bin","4.2","4.3",9.68297658209124e-134
-"18-49 yr","Season peak percentage","percent","Bin","4.3","4.4",1.01648648656297e-144
-"18-49 yr","Season peak percentage","percent","Bin","4.4","4.5",3.77256196115092e-156
-"18-49 yr","Season peak percentage","percent","Bin","4.5","4.6",4.9487585317084e-168
-"18-49 yr","Season peak percentage","percent","Bin","4.6","4.7",2.29394653471962e-180
-"18-49 yr","Season peak percentage","percent","Bin","4.7","4.8",3.75677274547518e-193
-"18-49 yr","Season peak percentage","percent","Bin","4.8","4.9",2.17330764841363e-206
-"18-49 yr","Season peak percentage","percent","Bin","4.9","5",4.44060865303559e-220
-"18-49 yr","Season peak percentage","percent","Bin","5","5.1",3.20425920946272e-234
-"18-49 yr","Season peak percentage","percent","Bin","5.1","5.2",8.16455414504538e-249
-"18-49 yr","Season peak percentage","percent","Bin","5.2","5.3",7.34545414603406e-264
-"18-49 yr","Season peak percentage","percent","Bin","5.3","5.4",2.3332037835043e-279
-"18-49 yr","Season peak percentage","percent","Bin","5.4","5.5",2.61640566882194e-295
-"18-49 yr","Season peak percentage","percent","Bin","5.5","5.6",1.03487719743402e-311
+"18-49 yr","Season peak percentage","percent","Bin","0.7","0.8",4.05643460660842e-15
+"18-49 yr","Season peak percentage","percent","Bin","0.8","0.9",6.85432405485178e-12
+"18-49 yr","Season peak percentage","percent","Bin","0.9","1",4.2539632373828e-09
+"18-49 yr","Season peak percentage","percent","Bin","1","1.1",9.78764689207285e-07
+"18-49 yr","Season peak percentage","percent","Bin","1.1","1.2",8.44644657405228e-05
+"18-49 yr","Season peak percentage","percent","Bin","1.2","1.3",0.00277416357730277
+"18-49 yr","Season peak percentage","percent","Bin","1.3","1.4",0.0352968021255319
+"18-49 yr","Season peak percentage","percent","Bin","1.4","1.5",0.177491889179685
+"18-49 yr","Season peak percentage","percent","Bin","1.5","1.6",0.360173433696539
+"18-49 yr","Season peak percentage","percent","Bin","1.6","1.7",0.301067643742985
+"18-49 yr","Season peak percentage","percent","Bin","1.7","1.8",0.10590970217198
+"18-49 yr","Season peak percentage","percent","Bin","1.8","1.9",0.0160817526894578
+"18-49 yr","Season peak percentage","percent","Bin","1.9","2",0.00108534083194256
+"18-49 yr","Season peak percentage","percent","Bin","2","2.1",3.33518734342988e-05
+"18-49 yr","Season peak percentage","percent","Bin","2.1","2.2",4.69619378574814e-07
+"18-49 yr","Season peak percentage","percent","Bin","2.2","2.3",2.99206474443074e-09
+"18-49 yr","Season peak percentage","percent","Bin","2.3","2.4",8.43534839064118e-12
+"18-49 yr","Season peak percentage","percent","Bin","2.4","2.5",1.02282011716078e-14
+"18-49 yr","Season peak percentage","percent","Bin","2.5","2.6",5.14284628330813e-18
+"18-49 yr","Season peak percentage","percent","Bin","2.6","2.7",1.02909579075976e-21
+"18-49 yr","Season peak percentage","percent","Bin","2.7","2.8",7.89399323596699e-26
+"18-49 yr","Season peak percentage","percent","Bin","2.8","2.9",2.25615746392039e-30
+"18-49 yr","Season peak percentage","percent","Bin","2.9","3",2.35679964001657e-35
+"18-49 yr","Season peak percentage","percent","Bin","3","3.1",8.88898843370616e-41
+"18-49 yr","Season peak percentage","percent","Bin","3.1","3.2",1.20134380407379e-46
+"18-49 yr","Season peak percentage","percent","Bin","3.2","3.3",5.79059583119414e-53
+"18-49 yr","Season peak percentage","percent","Bin","3.3","3.4",9.92498501685989e-60
+"18-49 yr","Season peak percentage","percent","Bin","3.4","3.5",6.03743007888774e-67
+"18-49 yr","Season peak percentage","percent","Bin","3.5","3.6",1.3017658407369e-74
+"18-49 yr","Season peak percentage","percent","Bin","3.6","3.7",9.9400282686617e-83
+"18-49 yr","Season peak percentage","percent","Bin","3.7","3.8",2.68621944793429e-91
+"18-49 yr","Season peak percentage","percent","Bin","3.8","3.9",2.56797622930486e-100
+"18-49 yr","Season peak percentage","percent","Bin","3.9","4",8.68121324159283e-110
+"18-49 yr","Season peak percentage","percent","Bin","4","4.1",1.0374971286562e-119
+"18-49 yr","Season peak percentage","percent","Bin","4.1","4.2",4.38238844440295e-130
+"18-49 yr","Season peak percentage","percent","Bin","4.2","4.3",6.54138568571894e-141
+"18-49 yr","Season peak percentage","percent","Bin","4.3","4.4",3.44979878274519e-152
+"18-49 yr","Season peak percentage","percent","Bin","4.4","4.5",6.42721678800192e-164
+"18-49 yr","Season peak percentage","percent","Bin","4.5","4.6",4.22965704674534e-176
+"18-49 yr","Season peak percentage","percent","Bin","4.6","4.7",9.83092829865472e-189
+"18-49 yr","Season peak percentage","percent","Bin","4.7","4.8",8.06957023535137e-202
+"18-49 yr","Season peak percentage","percent","Bin","4.8","4.9",2.33903364783587e-215
+"18-49 yr","Season peak percentage","percent","Bin","4.9","5",2.39397764607817e-229
+"18-49 yr","Season peak percentage","percent","Bin","5","5.1",8.65110951938559e-244
+"18-49 yr","Season peak percentage","percent","Bin","5.1","5.2",1.1037352476439e-258
+"18-49 yr","Season peak percentage","percent","Bin","5.2","5.3",4.97135846732242e-274
+"18-49 yr","Season peak percentage","percent","Bin","5.3","5.4",7.90460378288176e-290
+"18-49 yr","Season peak percentage","percent","Bin","5.4","5.5",4.43669575249158e-306
+"18-49 yr","Season peak percentage","percent","Bin","5.5","5.6",0
 "18-49 yr","Season peak percentage","percent","Bin","5.6","5.7",0
 "18-49 yr","Season peak percentage","percent","Bin","5.7","5.8",0
 "18-49 yr","Season peak percentage","percent","Bin","5.8","5.9",0
@@ -2208,22 +2208,22 @@
 "18-49 yr","Season peak percentage","percent","Bin","12.1","12.2",0
 "18-49 yr","Season peak percentage","percent","Bin","12.2","12.3",0
 "18-49 yr","Season peak percentage","percent","Bin","12.3","12.4",0
-"18-49 yr","Season peak percentage","percent","Bin","12.4","12.5",6.9827949369789e-30
-"18-49 yr","Season peak percentage","percent","Bin","12.5","12.6",9.75795171716418e-27
-"18-49 yr","Season peak percentage","percent","Bin","12.6","12.7",4.91903461197371e-24
-"18-49 yr","Season peak percentage","percent","Bin","12.7","12.8",8.99347983051026e-22
-"18-49 yr","Season peak percentage","percent","Bin","12.8","12.9",6.01552151355702e-20
-"18-49 yr","Season peak percentage","percent","Bin","12.9","13",1.48863224927879e-18
-"18-49 yr","Season peak percentage","percent","Bin","13","100",1.69827489055439e-16
+"18-49 yr","Season peak percentage","percent","Bin","12.4","12.5",0
+"18-49 yr","Season peak percentage","percent","Bin","12.5","12.6",0
+"18-49 yr","Season peak percentage","percent","Bin","12.6","12.7",0
+"18-49 yr","Season peak percentage","percent","Bin","12.7","12.8",0
+"18-49 yr","Season peak percentage","percent","Bin","12.8","12.9",0
+"18-49 yr","Season peak percentage","percent","Bin","12.9","13",0
+"18-49 yr","Season peak percentage","percent","Bin","13","100",0
 "18-49 yr","1 wk ahead","percent","Bin","0","0.1",0
-"18-49 yr","1 wk ahead","percent","Bin","0.1","0.2",4.02600760951587e-05
-"18-49 yr","1 wk ahead","percent","Bin","0.2","0.3",0.482325988466777
-"18-49 yr","1 wk ahead","percent","Bin","0.3","0.4",0.514635858608858
-"18-49 yr","1 wk ahead","percent","Bin","0.4","0.5",0.00299789284827002
-"18-49 yr","1 wk ahead","percent","Bin","0.5","0.6",0
-"18-49 yr","1 wk ahead","percent","Bin","0.6","0.7",0
-"18-49 yr","1 wk ahead","percent","Bin","0.7","0.8",0
-"18-49 yr","1 wk ahead","percent","Bin","0.8","0.9",0
+"18-49 yr","1 wk ahead","percent","Bin","0.1","0.2",0
+"18-49 yr","1 wk ahead","percent","Bin","0.2","0.3",7.7421489004952e-06
+"18-49 yr","1 wk ahead","percent","Bin","0.3","0.4",0.0352468900207162
+"18-49 yr","1 wk ahead","percent","Bin","0.4","0.5",0.388505909775416
+"18-49 yr","1 wk ahead","percent","Bin","0.5","0.6",0.480326870491047
+"18-49 yr","1 wk ahead","percent","Bin","0.6","0.7",0.0936029080683193
+"18-49 yr","1 wk ahead","percent","Bin","0.7","0.8",0.00230697864066234
+"18-49 yr","1 wk ahead","percent","Bin","0.8","0.9",2.70085493831755e-06
 "18-49 yr","1 wk ahead","percent","Bin","0.9","1",0
 "18-49 yr","1 wk ahead","percent","Bin","1","1.1",0
 "18-49 yr","1 wk ahead","percent","Bin","1.1","1.2",0
@@ -2347,11 +2347,11 @@
 "18-49 yr","1 wk ahead","percent","Bin","12.9","13",0
 "18-49 yr","1 wk ahead","percent","Bin","13","100",0
 "18-49 yr","2 wk ahead","percent","Bin","0","0.1",0
-"18-49 yr","2 wk ahead","percent","Bin","0.1","0.2",0.476752814635709
-"18-49 yr","2 wk ahead","percent","Bin","0.2","0.3",0.522268935152852
-"18-49 yr","2 wk ahead","percent","Bin","0.3","0.4",0.000978250211438427
-"18-49 yr","2 wk ahead","percent","Bin","0.4","0.5",0
-"18-49 yr","2 wk ahead","percent","Bin","0.5","0.6",0
+"18-49 yr","2 wk ahead","percent","Bin","0.1","0.2",0
+"18-49 yr","2 wk ahead","percent","Bin","0.2","0.3",0.096510747049148
+"18-49 yr","2 wk ahead","percent","Bin","0.3","0.4",0.234731651790324
+"18-49 yr","2 wk ahead","percent","Bin","0.4","0.5",0.269775199540567
+"18-49 yr","2 wk ahead","percent","Bin","0.5","0.6",0.398982401619961
 "18-49 yr","2 wk ahead","percent","Bin","0.6","0.7",0
 "18-49 yr","2 wk ahead","percent","Bin","0.7","0.8",0
 "18-49 yr","2 wk ahead","percent","Bin","0.8","0.9",0
@@ -2478,16 +2478,16 @@
 "18-49 yr","2 wk ahead","percent","Bin","12.9","13",0
 "18-49 yr","2 wk ahead","percent","Bin","13","100",0
 "18-49 yr","3 wk ahead","percent","Bin","0","0.1",0
-"18-49 yr","3 wk ahead","percent","Bin","0.1","0.2",0.178601708895251
-"18-49 yr","3 wk ahead","percent","Bin","0.2","0.3",0.590262425514412
-"18-49 yr","3 wk ahead","percent","Bin","0.3","0.4",0.219372548311861
-"18-49 yr","3 wk ahead","percent","Bin","0.4","0.5",0.0117633172784759
-"18-49 yr","3 wk ahead","percent","Bin","0.5","0.6",0
-"18-49 yr","3 wk ahead","percent","Bin","0.6","0.7",0
-"18-49 yr","3 wk ahead","percent","Bin","0.7","0.8",0
-"18-49 yr","3 wk ahead","percent","Bin","0.8","0.9",0
-"18-49 yr","3 wk ahead","percent","Bin","0.9","1",0
-"18-49 yr","3 wk ahead","percent","Bin","1","1.1",0
+"18-49 yr","3 wk ahead","percent","Bin","0.1","0.2",0
+"18-49 yr","3 wk ahead","percent","Bin","0.2","0.3",2.5320311226999e-05
+"18-49 yr","3 wk ahead","percent","Bin","0.3","0.4",0.0758852688109995
+"18-49 yr","3 wk ahead","percent","Bin","0.4","0.5",0.215890418731525
+"18-49 yr","3 wk ahead","percent","Bin","0.5","0.6",0.0479410228244965
+"18-49 yr","3 wk ahead","percent","Bin","0.6","0.7",0.191688199768251
+"18-49 yr","3 wk ahead","percent","Bin","0.7","0.8",0.308453957049268
+"18-49 yr","3 wk ahead","percent","Bin","0.8","0.9",0.140280867572505
+"18-49 yr","3 wk ahead","percent","Bin","0.9","1",0.0191123786920147
+"18-49 yr","3 wk ahead","percent","Bin","1","1.1",0.000722566239713172
 "18-49 yr","3 wk ahead","percent","Bin","1.1","1.2",0
 "18-49 yr","3 wk ahead","percent","Bin","1.2","1.3",0
 "18-49 yr","3 wk ahead","percent","Bin","1.3","1.4",0
@@ -2608,13 +2608,13 @@
 "18-49 yr","3 wk ahead","percent","Bin","12.8","12.9",0
 "18-49 yr","3 wk ahead","percent","Bin","12.9","13",0
 "18-49 yr","3 wk ahead","percent","Bin","13","100",0
-"18-49 yr","4 wk ahead","percent","Bin","0","0.1",0.600893768723463
-"18-49 yr","4 wk ahead","percent","Bin","0.1","0.2",0.000915113301501693
-"18-49 yr","4 wk ahead","percent","Bin","0.2","0.3",0.3489909221583
-"18-49 yr","4 wk ahead","percent","Bin","0.3","0.4",0.0492001958167355
-"18-49 yr","4 wk ahead","percent","Bin","0.4","0.5",0
-"18-49 yr","4 wk ahead","percent","Bin","0.5","0.6",0
-"18-49 yr","4 wk ahead","percent","Bin","0.6","0.7",0
+"18-49 yr","4 wk ahead","percent","Bin","0","0.1",0
+"18-49 yr","4 wk ahead","percent","Bin","0.1","0.2",4.51558245018668e-09
+"18-49 yr","4 wk ahead","percent","Bin","0.2","0.3",0.296581461302423
+"18-49 yr","4 wk ahead","percent","Bin","0.3","0.4",0.0286435272739371
+"18-49 yr","4 wk ahead","percent","Bin","0.4","0.5",0.342693666652585
+"18-49 yr","4 wk ahead","percent","Bin","0.5","0.6",0.332079668149944
+"18-49 yr","4 wk ahead","percent","Bin","0.6","0.7",1.67210552816457e-06
 "18-49 yr","4 wk ahead","percent","Bin","0.7","0.8",0
 "18-49 yr","4 wk ahead","percent","Bin","0.8","0.9",0
 "18-49 yr","4 wk ahead","percent","Bin","0.9","1",0
@@ -2752,14 +2752,14 @@
 "50-64 yr","Season peak week","week","Bin","50","51",0
 "50-64 yr","Season peak week","week","Bin","51","52",0
 "50-64 yr","Season peak week","week","Bin","52","53",0
-"50-64 yr","Season peak week","week","Bin","1","2",0
-"50-64 yr","Season peak week","week","Bin","2","3",0.966388388333795
+"50-64 yr","Season peak week","week","Bin","1","2",0.0220711172403184
+"50-64 yr","Season peak week","week","Bin","2","3",0.952460148053427
 "50-64 yr","Season peak week","week","Bin","3","4",0
 "50-64 yr","Season peak week","week","Bin","4","5",0
-"50-64 yr","Season peak week","week","Bin","5","6",0.00106264747959503
-"50-64 yr","Season peak week","week","Bin","6","7",0.029644993314399
-"50-64 yr","Season peak week","week","Bin","7","8",0.00290397087221088
-"50-64 yr","Season peak week","week","Bin","8","9",0
+"50-64 yr","Season peak week","week","Bin","5","6",0
+"50-64 yr","Season peak week","week","Bin","6","7",0.0127760923320036
+"50-64 yr","Season peak week","week","Bin","7","8",0.0114132654400914
+"50-64 yr","Season peak week","week","Bin","8","9",0.00127937693415993
 "50-64 yr","Season peak week","week","Bin","9","10",0
 "50-64 yr","Season peak week","week","Bin","10","11",0
 "50-64 yr","Season peak week","week","Bin","11","12",0
@@ -2800,65 +2800,65 @@
 "50-64 yr","Season peak percentage","percent","Bin","2.8","2.9",0
 "50-64 yr","Season peak percentage","percent","Bin","2.9","3",0
 "50-64 yr","Season peak percentage","percent","Bin","3","3.1",0
-"50-64 yr","Season peak percentage","percent","Bin","3.1","3.2",6.58309091261324e-18
-"50-64 yr","Season peak percentage","percent","Bin","3.2","3.3",1.14437057617997e-14
-"50-64 yr","Season peak percentage","percent","Bin","3.3","3.4",7.21906369528676e-12
-"50-64 yr","Season peak percentage","percent","Bin","3.4","3.5",1.7123623708278e-09
-"50-64 yr","Season peak percentage","percent","Bin","3.5","3.6",1.62339099379903e-07
-"50-64 yr","Season peak percentage","percent","Bin","3.6","3.7",6.7959435190631e-06
-"50-64 yr","Season peak percentage","percent","Bin","3.7","3.8",0.000138124798060706
-"50-64 yr","Season peak percentage","percent","Bin","3.8","3.9",0.00140959242653204
-"50-64 yr","Season peak percentage","percent","Bin","3.9","4",0.00747122105389214
-"50-64 yr","Season peak percentage","percent","Bin","4","4.1",0.0235840950715376
-"50-64 yr","Season peak percentage","percent","Bin","4.1","4.2",0.0542649737392253
-"50-64 yr","Season peak percentage","percent","Bin","4.2","4.3",0.103026379096925
-"50-64 yr","Season peak percentage","percent","Bin","4.3","4.4",0.165592765110995
-"50-64 yr","Season peak percentage","percent","Bin","4.4","4.5",0.21135876920841
-"50-64 yr","Season peak percentage","percent","Bin","4.5","4.6",0.195327067536367
-"50-64 yr","Season peak percentage","percent","Bin","4.6","4.7",0.129618327072676
-"50-64 yr","Season peak percentage","percent","Bin","4.7","4.8",0.0658947910509578
-"50-64 yr","Season peak percentage","percent","Bin","4.8","4.9",0.0275260193457817
-"50-64 yr","Season peak percentage","percent","Bin","4.9","5",0.0099992452494632
-"50-64 yr","Season peak percentage","percent","Bin","5","5.1",0.00334688680687834
-"50-64 yr","Season peak percentage","percent","Bin","5.1","5.2",0.00103200394163371
-"50-64 yr","Season peak percentage","percent","Bin","5.2","5.3",0.000307228596660404
-"50-64 yr","Season peak percentage","percent","Bin","5.3","5.4",8.0483637562584e-05
-"50-64 yr","Season peak percentage","percent","Bin","5.4","5.5",1.38110925678968e-05
-"50-64 yr","Season peak percentage","percent","Bin","5.5","5.6",1.20873990938809e-06
-"50-64 yr","Season peak percentage","percent","Bin","5.6","5.7",4.57375948850649e-08
-"50-64 yr","Season peak percentage","percent","Bin","5.7","5.8",6.80357523493542e-10
-"50-64 yr","Season peak percentage","percent","Bin","5.8","5.9",3.79163259254171e-12
-"50-64 yr","Season peak percentage","percent","Bin","5.9","6",7.73271552955889e-15
-"50-64 yr","Season peak percentage","percent","Bin","6","6.1",5.70197366373359e-18
-"50-64 yr","Season peak percentage","percent","Bin","6.1","6.2",1.50998996695429e-21
-"50-64 yr","Season peak percentage","percent","Bin","6.2","6.3",1.43010154917723e-25
-"50-64 yr","Season peak percentage","percent","Bin","6.3","6.4",4.83044932610066e-30
-"50-64 yr","Season peak percentage","percent","Bin","6.4","6.5",5.80721268850941e-35
-"50-64 yr","Season peak percentage","percent","Bin","6.5","6.6",2.48118853742744e-40
-"50-64 yr","Season peak percentage","percent","Bin","6.6","6.7",3.76326699932084e-46
-"50-64 yr","Season peak percentage","percent","Bin","6.7","6.8",2.02437321809503e-52
-"50-64 yr","Season peak percentage","percent","Bin","6.8","6.9",3.85941022056697e-59
-"50-64 yr","Season peak percentage","percent","Bin","6.9","7",2.6061471340797e-66
-"50-64 yr","Season peak percentage","percent","Bin","7","7.1",6.23034569279132e-74
-"50-64 yr","Season peak percentage","percent","Bin","7.1","7.2",5.27088036534097e-82
-"50-64 yr","Season peak percentage","percent","Bin","7.2","7.3",1.57747423966162e-90
-"50-64 yr","Season peak percentage","percent","Bin","7.3","7.4",1.66963696575255e-99
-"50-64 yr","Season peak percentage","percent","Bin","7.4","7.5",6.24817393073494e-109
-"50-64 yr","Season peak percentage","percent","Bin","7.5","7.6",8.26534330128472e-119
-"50-64 yr","Season peak percentage","percent","Bin","7.6","7.7",3.86423135185145e-129
-"50-64 yr","Season peak percentage","percent","Bin","7.7","7.8",6.38392429566266e-140
-"50-64 yr","Season peak percentage","percent","Bin","7.8","7.9",3.7262439456153e-151
-"50-64 yr","Season peak percentage","percent","Bin","7.9","8",7.68347429316078e-163
-"50-64 yr","Season peak percentage","percent","Bin","8","8.1",5.59624712728271e-175
-"50-64 yr","Season peak percentage","percent","Bin","8.1","8.2",1.43960857425178e-187
-"50-64 yr","Season peak percentage","percent","Bin","8.2","8.3",1.3078570646781e-200
-"50-64 yr","Season peak percentage","percent","Bin","8.3","8.4",4.19573905677013e-214
-"50-64 yr","Season peak percentage","percent","Bin","8.4","8.5",4.75287594770041e-228
-"50-64 yr","Season peak percentage","percent","Bin","8.5","8.6",1.90096816872458e-242
-"50-64 yr","Season peak percentage","percent","Bin","8.6","8.7",2.6843354121039e-257
-"50-64 yr","Season peak percentage","percent","Bin","8.7","8.8",1.33819025544138e-272
-"50-64 yr","Season peak percentage","percent","Bin","8.8","8.9",2.35502629865894e-288
-"50-64 yr","Season peak percentage","percent","Bin","8.9","9",1.46301913286242e-304
+"50-64 yr","Season peak percentage","percent","Bin","3.1","3.2",1.08062783521716e-15
+"50-64 yr","Season peak percentage","percent","Bin","3.2","3.3",1.858190423305e-12
+"50-64 yr","Season peak percentage","percent","Bin","3.3","3.4",1.14952179515803e-09
+"50-64 yr","Season peak percentage","percent","Bin","3.4","3.5",2.58780091529287e-07
+"50-64 yr","Season peak percentage","percent","Bin","3.5","3.6",2.15504921436888e-05
+"50-64 yr","Season peak percentage","percent","Bin","3.6","3.7",0.000685190867657321
+"50-64 yr","Season peak percentage","percent","Bin","3.7","3.8",0.00883529136941839
+"50-64 yr","Season peak percentage","percent","Bin","3.8","3.9",0.0510546304252839
+"50-64 yr","Season peak percentage","percent","Bin","3.9","4",0.148665680668994
+"50-64 yr","Season peak percentage","percent","Bin","4","4.1",0.239108336661674
+"50-64 yr","Season peak percentage","percent","Bin","4.1","4.2",0.233257501830791
+"50-64 yr","Season peak percentage","percent","Bin","4.2","4.3",0.158514920173461
+"50-64 yr","Season peak percentage","percent","Bin","4.3","4.4",0.085550549372372
+"50-64 yr","Season peak percentage","percent","Bin","4.4","4.5",0.0414971816705947
+"50-64 yr","Season peak percentage","percent","Bin","4.5","4.6",0.0197172523852904
+"50-64 yr","Season peak percentage","percent","Bin","4.6","4.7",0.00868207973613424
+"50-64 yr","Season peak percentage","percent","Bin","4.7","4.8",0.00322813019434712
+"50-64 yr","Season peak percentage","percent","Bin","4.8","4.9",0.000917588419558979
+"50-64 yr","Season peak percentage","percent","Bin","4.9","5",0.000201837884726986
+"50-64 yr","Season peak percentage","percent","Bin","5","5.1",4.99621357173266e-05
+"50-64 yr","Season peak percentage","percent","Bin","5.1","5.2",1.08947117690025e-05
+"50-64 yr","Season peak percentage","percent","Bin","5.2","5.3",1.11617373622767e-06
+"50-64 yr","Season peak percentage","percent","Bin","5.3","5.4",4.42399770243564e-08
+"50-64 yr","Season peak percentage","percent","Bin","5.4","5.5",6.5136309796611e-10
+"50-64 yr","Season peak percentage","percent","Bin","5.5","5.6",3.50998624823889e-12
+"50-64 yr","Season peak percentage","percent","Bin","5.6","5.7",6.85959104892475e-15
+"50-64 yr","Season peak percentage","percent","Bin","5.7","5.8",4.83057727319422e-18
+"50-64 yr","Season peak percentage","percent","Bin","5.8","5.9",1.22006916264933e-21
+"50-64 yr","Season peak percentage","percent","Bin","5.9","6",1.10148997618672e-25
+"50-64 yr","Season peak percentage","percent","Bin","6","6.1",3.54567521691902e-30
+"50-64 yr","Season peak percentage","percent","Bin","6.1","6.2",4.06183109717343e-35
+"50-64 yr","Season peak percentage","percent","Bin","6.2","6.3",1.65357230714723e-40
+"50-64 yr","Season peak percentage","percent","Bin","6.3","6.4",2.38954264321036e-46
+"50-64 yr","Season peak percentage","percent","Bin","6.4","6.5",1.22464298783817e-52
+"50-64 yr","Season peak percentage","percent","Bin","6.5","6.6",2.22431110242617e-59
+"50-64 yr","Season peak percentage","percent","Bin","6.6","6.7",1.43092954923832e-66
+"50-64 yr","Season peak percentage","percent","Bin","6.7","6.8",3.25887094813887e-74
+"50-64 yr","Season peak percentage","percent","Bin","6.8","6.9",2.62643285020533e-82
+"50-64 yr","Season peak percentage","percent","Bin","6.9","7",7.48802228397702e-91
+"50-64 yr","Season peak percentage","percent","Bin","7","7.1",7.54993356554372e-100
+"50-64 yr","Season peak percentage","percent","Bin","7.1","7.2",2.69144612966912e-109
+"50-64 yr","Season peak percentage","percent","Bin","7.2","7.3",3.39157075464973e-119
+"50-64 yr","Season peak percentage","percent","Bin","7.3","7.4",1.51045200447752e-129
+"50-64 yr","Season peak percentage","percent","Bin","7.4","7.5",2.37701663167159e-140
+"50-64 yr","Season peak percentage","percent","Bin","7.5","7.6",1.32164154696433e-151
+"50-64 yr","Season peak percentage","percent","Bin","7.6","7.7",2.59594499819124e-163
+"50-64 yr","Season peak percentage","percent","Bin","7.7","7.8",1.80105916046619e-175
+"50-64 yr","Season peak percentage","percent","Bin","7.8","7.9",4.41333408670971e-188
+"50-64 yr","Season peak percentage","percent","Bin","7.9","8",3.81919807847225e-201
+"50-64 yr","Season peak percentage","percent","Bin","8","8.1",1.16710061977567e-214
+"50-64 yr","Season peak percentage","percent","Bin","8.1","8.2",1.25933941542063e-228
+"50-64 yr","Season peak percentage","percent","Bin","8.2","8.3",4.7978464209665e-243
+"50-64 yr","Season peak percentage","percent","Bin","8.3","8.4",6.45345472033877e-258
+"50-64 yr","Season peak percentage","percent","Bin","8.4","8.5",3.06447618988218e-273
+"50-64 yr","Season peak percentage","percent","Bin","8.5","8.6",5.13707676562129e-289
+"50-64 yr","Season peak percentage","percent","Bin","8.6","8.7",3.03984396761294e-305
+"50-64 yr","Season peak percentage","percent","Bin","8.7","8.8",0
+"50-64 yr","Season peak percentage","percent","Bin","8.8","8.9",0
+"50-64 yr","Season peak percentage","percent","Bin","8.9","9",0
 "50-64 yr","Season peak percentage","percent","Bin","9","9.1",0
 "50-64 yr","Season peak percentage","percent","Bin","9.1","9.2",0
 "50-64 yr","Season peak percentage","percent","Bin","9.2","9.3",0
@@ -2899,7 +2899,7 @@
 "50-64 yr","Season peak percentage","percent","Bin","12.7","12.8",0
 "50-64 yr","Season peak percentage","percent","Bin","12.8","12.9",0
 "50-64 yr","Season peak percentage","percent","Bin","12.9","13",0
-"50-64 yr","Season peak percentage","percent","Bin","13","100",1.71377180796636e-16
+"50-64 yr","Season peak percentage","percent","Bin","13","100",0
 "50-64 yr","1 wk ahead","percent","Bin","0","0.1",0
 "50-64 yr","1 wk ahead","percent","Bin","0.1","0.2",0
 "50-64 yr","1 wk ahead","percent","Bin","0.2","0.3",0
@@ -2908,21 +2908,21 @@
 "50-64 yr","1 wk ahead","percent","Bin","0.5","0.6",0
 "50-64 yr","1 wk ahead","percent","Bin","0.6","0.7",0
 "50-64 yr","1 wk ahead","percent","Bin","0.7","0.8",0
-"50-64 yr","1 wk ahead","percent","Bin","0.8","0.9",0.00172002981186465
-"50-64 yr","1 wk ahead","percent","Bin","0.9","1",0.0473501984516053
-"50-64 yr","1 wk ahead","percent","Bin","1","1.1",0.214784540327151
-"50-64 yr","1 wk ahead","percent","Bin","1.1","1.2",0.359162951693847
-"50-64 yr","1 wk ahead","percent","Bin","1.2","1.3",0.260842579289734
-"50-64 yr","1 wk ahead","percent","Bin","1.3","1.4",0.0951155231157656
-"50-64 yr","1 wk ahead","percent","Bin","1.4","1.5",0.0192164702267513
-"50-64 yr","1 wk ahead","percent","Bin","1.5","1.6",0.00179184894513413
-"50-64 yr","1 wk ahead","percent","Bin","1.6","1.7",1.58581381479711e-05
-"50-64 yr","1 wk ahead","percent","Bin","1.7","1.8",0
-"50-64 yr","1 wk ahead","percent","Bin","1.8","1.9",0
-"50-64 yr","1 wk ahead","percent","Bin","1.9","2",0
-"50-64 yr","1 wk ahead","percent","Bin","2","2.1",0
-"50-64 yr","1 wk ahead","percent","Bin","2.1","2.2",0
-"50-64 yr","1 wk ahead","percent","Bin","2.2","2.3",0
+"50-64 yr","1 wk ahead","percent","Bin","0.8","0.9",0
+"50-64 yr","1 wk ahead","percent","Bin","0.9","1",0
+"50-64 yr","1 wk ahead","percent","Bin","1","1.1",0
+"50-64 yr","1 wk ahead","percent","Bin","1.1","1.2",0
+"50-64 yr","1 wk ahead","percent","Bin","1.2","1.3",8.6566205801451e-06
+"50-64 yr","1 wk ahead","percent","Bin","1.3","1.4",0.0110456459995482
+"50-64 yr","1 wk ahead","percent","Bin","1.4","1.5",0.0818074843550495
+"50-64 yr","1 wk ahead","percent","Bin","1.5","1.6",0.215532101755004
+"50-64 yr","1 wk ahead","percent","Bin","1.6","1.7",0.276933181408841
+"50-64 yr","1 wk ahead","percent","Bin","1.7","1.8",0.213372307213323
+"50-64 yr","1 wk ahead","percent","Bin","1.8","1.9",0.130807828053804
+"50-64 yr","1 wk ahead","percent","Bin","1.9","2",0.0520199153340524
+"50-64 yr","1 wk ahead","percent","Bin","2","2.1",0.0148415047247145
+"50-64 yr","1 wk ahead","percent","Bin","2.1","2.2",0.0035843329637813
+"50-64 yr","1 wk ahead","percent","Bin","2.2","2.3",4.70415713025316e-05
 "50-64 yr","1 wk ahead","percent","Bin","2.3","2.4",0
 "50-64 yr","1 wk ahead","percent","Bin","2.4","2.5",0
 "50-64 yr","1 wk ahead","percent","Bin","2.5","2.6",0
@@ -3035,43 +3035,43 @@
 "50-64 yr","2 wk ahead","percent","Bin","0.1","0.2",0
 "50-64 yr","2 wk ahead","percent","Bin","0.2","0.3",0
 "50-64 yr","2 wk ahead","percent","Bin","0.3","0.4",0
-"50-64 yr","2 wk ahead","percent","Bin","0.4","0.5",8.17223368830285e-06
-"50-64 yr","2 wk ahead","percent","Bin","0.5","0.6",0.0104334733150283
-"50-64 yr","2 wk ahead","percent","Bin","0.6","0.7",0.0824782402601636
-"50-64 yr","2 wk ahead","percent","Bin","0.7","0.8",0.24331688220634
-"50-64 yr","2 wk ahead","percent","Bin","0.8","0.9",0.303004491961132
-"50-64 yr","2 wk ahead","percent","Bin","0.9","1",0.217700574112572
-"50-64 yr","2 wk ahead","percent","Bin","1","1.1",0.0984106675730725
-"50-64 yr","2 wk ahead","percent","Bin","1.1","1.2",0.0340484035313186
-"50-64 yr","2 wk ahead","percent","Bin","1.2","1.3",0.00923038568656084
-"50-64 yr","2 wk ahead","percent","Bin","1.3","1.4",0.00118892882222973
-"50-64 yr","2 wk ahead","percent","Bin","1.4","1.5",0.000179771950737062
-"50-64 yr","2 wk ahead","percent","Bin","1.5","1.6",8.34715676422327e-09
+"50-64 yr","2 wk ahead","percent","Bin","0.4","0.5",0
+"50-64 yr","2 wk ahead","percent","Bin","0.5","0.6",0
+"50-64 yr","2 wk ahead","percent","Bin","0.6","0.7",0
+"50-64 yr","2 wk ahead","percent","Bin","0.7","0.8",0
+"50-64 yr","2 wk ahead","percent","Bin","0.8","0.9",0
+"50-64 yr","2 wk ahead","percent","Bin","0.9","1",0
+"50-64 yr","2 wk ahead","percent","Bin","1","1.1",0
+"50-64 yr","2 wk ahead","percent","Bin","1.1","1.2",0
+"50-64 yr","2 wk ahead","percent","Bin","1.2","1.3",0
+"50-64 yr","2 wk ahead","percent","Bin","1.3","1.4",0
+"50-64 yr","2 wk ahead","percent","Bin","1.4","1.5",0
+"50-64 yr","2 wk ahead","percent","Bin","1.5","1.6",0
 "50-64 yr","2 wk ahead","percent","Bin","1.6","1.7",0
 "50-64 yr","2 wk ahead","percent","Bin","1.7","1.8",0
 "50-64 yr","2 wk ahead","percent","Bin","1.8","1.9",0
 "50-64 yr","2 wk ahead","percent","Bin","1.9","2",0
-"50-64 yr","2 wk ahead","percent","Bin","2","2.1",0
-"50-64 yr","2 wk ahead","percent","Bin","2.1","2.2",0
-"50-64 yr","2 wk ahead","percent","Bin","2.2","2.3",0
-"50-64 yr","2 wk ahead","percent","Bin","2.3","2.4",0
-"50-64 yr","2 wk ahead","percent","Bin","2.4","2.5",0
-"50-64 yr","2 wk ahead","percent","Bin","2.5","2.6",0
-"50-64 yr","2 wk ahead","percent","Bin","2.6","2.7",0
-"50-64 yr","2 wk ahead","percent","Bin","2.7","2.8",0
-"50-64 yr","2 wk ahead","percent","Bin","2.8","2.9",0
-"50-64 yr","2 wk ahead","percent","Bin","2.9","3",0
-"50-64 yr","2 wk ahead","percent","Bin","3","3.1",0
-"50-64 yr","2 wk ahead","percent","Bin","3.1","3.2",0
-"50-64 yr","2 wk ahead","percent","Bin","3.2","3.3",0
-"50-64 yr","2 wk ahead","percent","Bin","3.3","3.4",0
-"50-64 yr","2 wk ahead","percent","Bin","3.4","3.5",0
-"50-64 yr","2 wk ahead","percent","Bin","3.5","3.6",0
-"50-64 yr","2 wk ahead","percent","Bin","3.6","3.7",0
-"50-64 yr","2 wk ahead","percent","Bin","3.7","3.8",0
-"50-64 yr","2 wk ahead","percent","Bin","3.8","3.9",0
-"50-64 yr","2 wk ahead","percent","Bin","3.9","4",0
-"50-64 yr","2 wk ahead","percent","Bin","4","4.1",0
+"50-64 yr","2 wk ahead","percent","Bin","2","2.1",9.62586784309588e-06
+"50-64 yr","2 wk ahead","percent","Bin","2.1","2.2",0.000984982933566522
+"50-64 yr","2 wk ahead","percent","Bin","2.2","2.3",0.00617259567621654
+"50-64 yr","2 wk ahead","percent","Bin","2.3","2.4",0.0213399663983878
+"50-64 yr","2 wk ahead","percent","Bin","2.4","2.5",0.0430588835702046
+"50-64 yr","2 wk ahead","percent","Bin","2.5","2.6",0.0664656427921253
+"50-64 yr","2 wk ahead","percent","Bin","2.6","2.7",0.0850083564644192
+"50-64 yr","2 wk ahead","percent","Bin","2.7","2.8",0.096006752545672
+"50-64 yr","2 wk ahead","percent","Bin","2.8","2.9",0.11331604693763
+"50-64 yr","2 wk ahead","percent","Bin","2.9","3",0.12911141246053
+"50-64 yr","2 wk ahead","percent","Bin","3","3.1",0.129838873813655
+"50-64 yr","2 wk ahead","percent","Bin","3.1","3.2",0.117363785548579
+"50-64 yr","2 wk ahead","percent","Bin","3.2","3.3",0.0837869671250061
+"50-64 yr","2 wk ahead","percent","Bin","3.3","3.4",0.0542708938425497
+"50-64 yr","2 wk ahead","percent","Bin","3.4","3.5",0.0309367156155568
+"50-64 yr","2 wk ahead","percent","Bin","3.5","3.6",0.0139909507072645
+"50-64 yr","2 wk ahead","percent","Bin","3.6","3.7",0.00569290227046958
+"50-64 yr","2 wk ahead","percent","Bin","3.7","3.8",0.00203778598855423
+"50-64 yr","2 wk ahead","percent","Bin","3.8","3.9",0.000529070059249399
+"50-64 yr","2 wk ahead","percent","Bin","3.9","4",7.54874044380227e-05
+"50-64 yr","2 wk ahead","percent","Bin","4","4.1",2.3019780829433e-06
 "50-64 yr","2 wk ahead","percent","Bin","4.1","4.2",0
 "50-64 yr","2 wk ahead","percent","Bin","4.2","4.3",0
 "50-64 yr","2 wk ahead","percent","Bin","4.3","4.4",0
@@ -3168,53 +3168,53 @@
 "50-64 yr","3 wk ahead","percent","Bin","0.3","0.4",0
 "50-64 yr","3 wk ahead","percent","Bin","0.4","0.5",0
 "50-64 yr","3 wk ahead","percent","Bin","0.5","0.6",0
-"50-64 yr","3 wk ahead","percent","Bin","0.6","0.7",0.00167481478449179
-"50-64 yr","3 wk ahead","percent","Bin","0.7","0.8",0.0649696425648133
-"50-64 yr","3 wk ahead","percent","Bin","0.8","0.9",0.229226410542852
-"50-64 yr","3 wk ahead","percent","Bin","0.9","1",0.286606051342454
-"50-64 yr","3 wk ahead","percent","Bin","1","1.1",0.22496994707836
-"50-64 yr","3 wk ahead","percent","Bin","1.1","1.2",0.125317546350121
-"50-64 yr","3 wk ahead","percent","Bin","1.2","1.3",0.0522698903249533
-"50-64 yr","3 wk ahead","percent","Bin","1.3","1.4",0.0134159043050782
-"50-64 yr","3 wk ahead","percent","Bin","1.4","1.5",0.0015084310769251
-"50-64 yr","3 wk ahead","percent","Bin","1.5","1.6",4.13420751032443e-05
-"50-64 yr","3 wk ahead","percent","Bin","1.6","1.7",1.95548485826604e-08
+"50-64 yr","3 wk ahead","percent","Bin","0.6","0.7",0
+"50-64 yr","3 wk ahead","percent","Bin","0.7","0.8",0
+"50-64 yr","3 wk ahead","percent","Bin","0.8","0.9",0
+"50-64 yr","3 wk ahead","percent","Bin","0.9","1",0
+"50-64 yr","3 wk ahead","percent","Bin","1","1.1",0
+"50-64 yr","3 wk ahead","percent","Bin","1.1","1.2",0
+"50-64 yr","3 wk ahead","percent","Bin","1.2","1.3",0
+"50-64 yr","3 wk ahead","percent","Bin","1.3","1.4",0
+"50-64 yr","3 wk ahead","percent","Bin","1.4","1.5",0
+"50-64 yr","3 wk ahead","percent","Bin","1.5","1.6",0
+"50-64 yr","3 wk ahead","percent","Bin","1.6","1.7",0
 "50-64 yr","3 wk ahead","percent","Bin","1.7","1.8",0
 "50-64 yr","3 wk ahead","percent","Bin","1.8","1.9",0
 "50-64 yr","3 wk ahead","percent","Bin","1.9","2",0
-"50-64 yr","3 wk ahead","percent","Bin","2","2.1",0
-"50-64 yr","3 wk ahead","percent","Bin","2.1","2.2",0
-"50-64 yr","3 wk ahead","percent","Bin","2.2","2.3",0
-"50-64 yr","3 wk ahead","percent","Bin","2.3","2.4",0
-"50-64 yr","3 wk ahead","percent","Bin","2.4","2.5",0
-"50-64 yr","3 wk ahead","percent","Bin","2.5","2.6",0
-"50-64 yr","3 wk ahead","percent","Bin","2.6","2.7",0
-"50-64 yr","3 wk ahead","percent","Bin","2.7","2.8",0
-"50-64 yr","3 wk ahead","percent","Bin","2.8","2.9",0
-"50-64 yr","3 wk ahead","percent","Bin","2.9","3",0
-"50-64 yr","3 wk ahead","percent","Bin","3","3.1",0
-"50-64 yr","3 wk ahead","percent","Bin","3.1","3.2",0
-"50-64 yr","3 wk ahead","percent","Bin","3.2","3.3",0
-"50-64 yr","3 wk ahead","percent","Bin","3.3","3.4",0
-"50-64 yr","3 wk ahead","percent","Bin","3.4","3.5",0
-"50-64 yr","3 wk ahead","percent","Bin","3.5","3.6",0
-"50-64 yr","3 wk ahead","percent","Bin","3.6","3.7",0
-"50-64 yr","3 wk ahead","percent","Bin","3.7","3.8",0
-"50-64 yr","3 wk ahead","percent","Bin","3.8","3.9",0
-"50-64 yr","3 wk ahead","percent","Bin","3.9","4",0
-"50-64 yr","3 wk ahead","percent","Bin","4","4.1",0
-"50-64 yr","3 wk ahead","percent","Bin","4.1","4.2",0
-"50-64 yr","3 wk ahead","percent","Bin","4.2","4.3",0
-"50-64 yr","3 wk ahead","percent","Bin","4.3","4.4",0
-"50-64 yr","3 wk ahead","percent","Bin","4.4","4.5",0
-"50-64 yr","3 wk ahead","percent","Bin","4.5","4.6",0
-"50-64 yr","3 wk ahead","percent","Bin","4.6","4.7",0
-"50-64 yr","3 wk ahead","percent","Bin","4.7","4.8",0
-"50-64 yr","3 wk ahead","percent","Bin","4.8","4.9",0
-"50-64 yr","3 wk ahead","percent","Bin","4.9","5",0
-"50-64 yr","3 wk ahead","percent","Bin","5","5.1",0
-"50-64 yr","3 wk ahead","percent","Bin","5.1","5.2",0
-"50-64 yr","3 wk ahead","percent","Bin","5.2","5.3",0
+"50-64 yr","3 wk ahead","percent","Bin","2","2.1",1.12212099044567e-05
+"50-64 yr","3 wk ahead","percent","Bin","2.1","2.2",0.000284802519388089
+"50-64 yr","3 wk ahead","percent","Bin","2.2","2.3",0.00195139399216836
+"50-64 yr","3 wk ahead","percent","Bin","2.3","2.4",0.00686900848570612
+"50-64 yr","3 wk ahead","percent","Bin","2.4","2.5",0.014857007278181
+"50-64 yr","3 wk ahead","percent","Bin","2.5","2.6",0.021581440511881
+"50-64 yr","3 wk ahead","percent","Bin","2.6","2.7",0.0255085801250683
+"50-64 yr","3 wk ahead","percent","Bin","2.7","2.8",0.0284131893484315
+"50-64 yr","3 wk ahead","percent","Bin","2.8","2.9",0.0357307373534579
+"50-64 yr","3 wk ahead","percent","Bin","2.9","3",0.0519521492948618
+"50-64 yr","3 wk ahead","percent","Bin","3","3.1",0.0662737790618019
+"50-64 yr","3 wk ahead","percent","Bin","3.1","3.2",0.0771626486182188
+"50-64 yr","3 wk ahead","percent","Bin","3.2","3.3",0.0737355268266641
+"50-64 yr","3 wk ahead","percent","Bin","3.3","3.4",0.0648866716067261
+"50-64 yr","3 wk ahead","percent","Bin","3.4","3.5",0.0583915631414481
+"50-64 yr","3 wk ahead","percent","Bin","3.5","3.6",0.0570305834751545
+"50-64 yr","3 wk ahead","percent","Bin","3.6","3.7",0.0617966799492096
+"50-64 yr","3 wk ahead","percent","Bin","3.7","3.8",0.0713643427080901
+"50-64 yr","3 wk ahead","percent","Bin","3.8","3.9",0.0711875976667632
+"50-64 yr","3 wk ahead","percent","Bin","3.9","4",0.0644844173393993
+"50-64 yr","3 wk ahead","percent","Bin","4","4.1",0.0534489156692538
+"50-64 yr","3 wk ahead","percent","Bin","4.1","4.2",0.0389037165817773
+"50-64 yr","3 wk ahead","percent","Bin","4.2","4.3",0.0251433653868231
+"50-64 yr","3 wk ahead","percent","Bin","4.3","4.4",0.0149714722062727
+"50-64 yr","3 wk ahead","percent","Bin","4.4","4.5",0.00781566723092626
+"50-64 yr","3 wk ahead","percent","Bin","4.5","4.6",0.00364524042680991
+"50-64 yr","3 wk ahead","percent","Bin","4.6","4.7",0.00163263464653579
+"50-64 yr","3 wk ahead","percent","Bin","4.7","4.8",0.000705677259826479
+"50-64 yr","3 wk ahead","percent","Bin","4.8","4.9",0.000195070230396248
+"50-64 yr","3 wk ahead","percent","Bin","4.9","5",5.50344753763816e-05
+"50-64 yr","3 wk ahead","percent","Bin","5","5.1",8.88884095541147e-06
+"50-64 yr","3 wk ahead","percent","Bin","5.1","5.2",9.67755001905088e-07
+"50-64 yr","3 wk ahead","percent","Bin","5.2","5.3",8.77752054470287e-09
 "50-64 yr","3 wk ahead","percent","Bin","5.3","5.4",0
 "50-64 yr","3 wk ahead","percent","Bin","5.4","5.5",0
 "50-64 yr","3 wk ahead","percent","Bin","5.5","5.6",0
@@ -3296,30 +3296,30 @@
 "50-64 yr","4 wk ahead","percent","Bin","0","0.1",0
 "50-64 yr","4 wk ahead","percent","Bin","0.1","0.2",0
 "50-64 yr","4 wk ahead","percent","Bin","0.2","0.3",0
-"50-64 yr","4 wk ahead","percent","Bin","0.3","0.4",0.00245011921152256
-"50-64 yr","4 wk ahead","percent","Bin","0.4","0.5",0.250746447754801
-"50-64 yr","4 wk ahead","percent","Bin","0.5","0.6",0.317404555895802
-"50-64 yr","4 wk ahead","percent","Bin","0.6","0.7",0.0301697699652986
-"50-64 yr","4 wk ahead","percent","Bin","0.7","0.8",0.00012288371804143
-"50-64 yr","4 wk ahead","percent","Bin","0.8","0.9",0.000562549751963526
-"50-64 yr","4 wk ahead","percent","Bin","0.9","1",0.0168177556729134
-"50-64 yr","4 wk ahead","percent","Bin","1","1.1",0.0810631095876544
-"50-64 yr","4 wk ahead","percent","Bin","1.1","1.2",0.131489952642535
-"50-64 yr","4 wk ahead","percent","Bin","1.2","1.3",0.105136857508239
-"50-64 yr","4 wk ahead","percent","Bin","1.3","1.4",0.0489879713099092
-"50-64 yr","4 wk ahead","percent","Bin","1.4","1.5",0.0128980087516218
-"50-64 yr","4 wk ahead","percent","Bin","1.5","1.6",0.0020226355623861
-"50-64 yr","4 wk ahead","percent","Bin","1.6","1.7",0.000126737446174359
-"50-64 yr","4 wk ahead","percent","Bin","1.7","1.8",6.45221137470651e-07
-"50-64 yr","4 wk ahead","percent","Bin","1.8","1.9",0
-"50-64 yr","4 wk ahead","percent","Bin","1.9","2",0
-"50-64 yr","4 wk ahead","percent","Bin","2","2.1",0
-"50-64 yr","4 wk ahead","percent","Bin","2.1","2.2",0
-"50-64 yr","4 wk ahead","percent","Bin","2.2","2.3",0
-"50-64 yr","4 wk ahead","percent","Bin","2.3","2.4",0
-"50-64 yr","4 wk ahead","percent","Bin","2.4","2.5",0
-"50-64 yr","4 wk ahead","percent","Bin","2.5","2.6",0
-"50-64 yr","4 wk ahead","percent","Bin","2.6","2.7",0
+"50-64 yr","4 wk ahead","percent","Bin","0.3","0.4",0
+"50-64 yr","4 wk ahead","percent","Bin","0.4","0.5",0
+"50-64 yr","4 wk ahead","percent","Bin","0.5","0.6",0
+"50-64 yr","4 wk ahead","percent","Bin","0.6","0.7",0
+"50-64 yr","4 wk ahead","percent","Bin","0.7","0.8",0
+"50-64 yr","4 wk ahead","percent","Bin","0.8","0.9",0
+"50-64 yr","4 wk ahead","percent","Bin","0.9","1",0
+"50-64 yr","4 wk ahead","percent","Bin","1","1.1",0
+"50-64 yr","4 wk ahead","percent","Bin","1.1","1.2",0
+"50-64 yr","4 wk ahead","percent","Bin","1.2","1.3",0
+"50-64 yr","4 wk ahead","percent","Bin","1.3","1.4",9.68898959958055e-08
+"50-64 yr","4 wk ahead","percent","Bin","1.4","1.5",0.00095133821323013
+"50-64 yr","4 wk ahead","percent","Bin","1.5","1.6",0.0264886658197858
+"50-64 yr","4 wk ahead","percent","Bin","1.6","1.7",0.0777002088299877
+"50-64 yr","4 wk ahead","percent","Bin","1.7","1.8",0.12215440730776
+"50-64 yr","4 wk ahead","percent","Bin","1.8","1.9",0.0852799563375147
+"50-64 yr","4 wk ahead","percent","Bin","1.9","2",0.0759544223453796
+"50-64 yr","4 wk ahead","percent","Bin","2","2.1",0.127446294220779
+"50-64 yr","4 wk ahead","percent","Bin","2.1","2.2",0.194798095266419
+"50-64 yr","4 wk ahead","percent","Bin","2.2","2.3",0.182682432825282
+"50-64 yr","4 wk ahead","percent","Bin","2.3","2.4",0.0860340981243594
+"50-64 yr","4 wk ahead","percent","Bin","2.4","2.5",0.0191812182517653
+"50-64 yr","4 wk ahead","percent","Bin","2.5","2.6",0.00132379094310043
+"50-64 yr","4 wk ahead","percent","Bin","2.6","2.7",4.97462474054695e-06
 "50-64 yr","4 wk ahead","percent","Bin","2.7","2.8",0
 "50-64 yr","4 wk ahead","percent","Bin","2.8","2.9",0
 "50-64 yr","4 wk ahead","percent","Bin","2.9","3",0
@@ -3437,14 +3437,14 @@
 "65+ yr","Season peak week","week","Bin","50","51",0
 "65+ yr","Season peak week","week","Bin","51","52",0
 "65+ yr","Season peak week","week","Bin","52","53",0
-"65+ yr","Season peak week","week","Bin","1","2",0
-"65+ yr","Season peak week","week","Bin","2","3",0.966388388333795
+"65+ yr","Season peak week","week","Bin","1","2",0.0220711172403184
+"65+ yr","Season peak week","week","Bin","2","3",0.952460148053427
 "65+ yr","Season peak week","week","Bin","3","4",0
 "65+ yr","Season peak week","week","Bin","4","5",0
-"65+ yr","Season peak week","week","Bin","5","6",0.00106264747959503
-"65+ yr","Season peak week","week","Bin","6","7",0.029644993314399
-"65+ yr","Season peak week","week","Bin","7","8",0.00290397087221088
-"65+ yr","Season peak week","week","Bin","8","9",0
+"65+ yr","Season peak week","week","Bin","5","6",0
+"65+ yr","Season peak week","week","Bin","6","7",0.0127760923320036
+"65+ yr","Season peak week","week","Bin","7","8",0.0114132654400914
+"65+ yr","Season peak week","week","Bin","8","9",0.00127937693415993
 "65+ yr","Season peak week","week","Bin","9","10",0
 "65+ yr","Season peak week","week","Bin","10","11",0
 "65+ yr","Season peak week","week","Bin","11","12",0
@@ -3548,171 +3548,171 @@
 "65+ yr","Season peak percentage","percent","Bin","9.1","9.2",0
 "65+ yr","Season peak percentage","percent","Bin","9.2","9.3",0
 "65+ yr","Season peak percentage","percent","Bin","9.3","9.4",0
-"65+ yr","Season peak percentage","percent","Bin","9.4","9.5",8.54946871767953e-20
-"65+ yr","Season peak percentage","percent","Bin","9.5","9.6",2.15788590434231e-16
-"65+ yr","Season peak percentage","percent","Bin","9.6","9.7",2.33042187758693e-13
-"65+ yr","Season peak percentage","percent","Bin","9.7","9.8",9.08283941258073e-11
-"65+ yr","Season peak percentage","percent","Bin","9.8","9.9",1.28643867184526e-08
-"65+ yr","Season peak percentage","percent","Bin","9.9","10",6.68317902498653e-07
-"65+ yr","Season peak percentage","percent","Bin","10","10.1",1.28865786273825e-05
-"65+ yr","Season peak percentage","percent","Bin","10.1","10.2",9.34777025955744e-05
-"65+ yr","Season peak percentage","percent","Bin","10.2","10.3",0.000258351666087829
-"65+ yr","Season peak percentage","percent","Bin","10.3","10.4",0.000274283899484351
-"65+ yr","Season peak percentage","percent","Bin","10.4","10.5",0.000111918805499263
-"65+ yr","Season peak percentage","percent","Bin","10.5","10.6",1.74231577652295e-05
-"65+ yr","Season peak percentage","percent","Bin","10.6","10.7",1.02324714657166e-06
-"65+ yr","Season peak percentage","percent","Bin","10.7","10.8",2.01244946385813e-07
-"65+ yr","Season peak percentage","percent","Bin","10.8","10.9",1.05046290674317e-05
-"65+ yr","Season peak percentage","percent","Bin","10.9","11",0.000228501478864247
-"65+ yr","Season peak percentage","percent","Bin","11","11.1",0.00186678302408563
-"65+ yr","Season peak percentage","percent","Bin","11.1","11.2",0.00580266056145179
-"65+ yr","Season peak percentage","percent","Bin","11.2","11.3",0.00692423227324107
-"65+ yr","Season peak percentage","percent","Bin","11.3","11.4",0.00317686385941918
-"65+ yr","Season peak percentage","percent","Bin","11.4","11.5",0.000556784943581223
-"65+ yr","Season peak percentage","percent","Bin","11.5","11.6",3.68352094524375e-05
-"65+ yr","Season peak percentage","percent","Bin","11.6","11.7",1.14945780889181e-06
-"65+ yr","Season peak percentage","percent","Bin","11.7","11.8",1.606821239811e-05
-"65+ yr","Season peak percentage","percent","Bin","11.8","11.9",0.000394194276078278
-"65+ yr","Season peak percentage","percent","Bin","11.9","12",0.0036277391495189
-"65+ yr","Season peak percentage","percent","Bin","12","12.1",0.0126840980064292
-"65+ yr","Season peak percentage","percent","Bin","12.1","12.2",0.0170125693388996
-"65+ yr","Season peak percentage","percent","Bin","12.2","12.3",0.00877561018790311
-"65+ yr","Season peak percentage","percent","Bin","12.3","12.4",0.00173121656550371
-"65+ yr","Season peak percentage","percent","Bin","12.4","12.5",0.000129123980558123
-"65+ yr","Season peak percentage","percent","Bin","12.5","12.6",3.89882182090117e-06
-"65+ yr","Season peak percentage","percent","Bin","12.6","12.7",2.30427619268191e-05
-"65+ yr","Season peak percentage","percent","Bin","12.7","12.8",0.000637296922927286
-"65+ yr","Season peak percentage","percent","Bin","12.8","12.9",0.00660809578545545
-"65+ yr","Season peak percentage","percent","Bin","12.9","13",0.025992909197609
-"65+ yr","Season peak percentage","percent","Bin","13","13.1",0.0391875702331658
-"65+ yr","Season peak percentage","percent","Bin","13.1","13.2",0.0227247146424356
-"65+ yr","Season peak percentage","percent","Bin","13.2","13.3",0.00504522768584716
-"65+ yr","Season peak percentage","percent","Bin","13.3","13.4",0.000424163329200068
-"65+ yr","Season peak percentage","percent","Bin","13.4","13.5",1.36006561874834e-05
-"65+ yr","Season peak percentage","percent","Bin","13.5","13.6",2.3734792730578e-05
-"65+ yr","Season peak percentage","percent","Bin","13.6","13.7",0.000737354400605919
-"65+ yr","Season peak percentage","percent","Bin","13.7","13.8",0.00861605045876049
-"65+ yr","Season peak percentage","percent","Bin","13.8","13.9",0.0381338730595313
-"65+ yr","Season peak percentage","percent","Bin","13.9","14",0.0646266231947066
-"65+ yr","Season peak percentage","percent","Bin","14","14.1",0.0421281889839767
-"65+ yr","Season peak percentage","percent","Bin","14.1","14.2",0.0105242183516849
-"65+ yr","Season peak percentage","percent","Bin","14.2","14.3",0.000997131427118652
-"65+ yr","Season peak percentage","percent","Bin","14.3","14.4",3.56084381470697e-05
-"65+ yr","Season peak percentage","percent","Bin","14.4","14.5",2.48404168319939e-05
-"65+ yr","Season peak percentage","percent","Bin","14.5","14.6",0.000860635072084486
-"65+ yr","Season peak percentage","percent","Bin","14.6","14.7",0.011335418765555
-"65+ yr","Season peak percentage","percent","Bin","14.7","14.8",0.0564595432980947
-"65+ yr","Season peak percentage","percent","Bin","14.8","14.9",0.107566123589252
-"65+ yr","Season peak percentage","percent","Bin","14.9","15",0.0788175828745457
-"65+ yr","Season peak percentage","percent","Bin","15","15.1",0.0221516049413024
-"65+ yr","Season peak percentage","percent","Bin","15.1","15.2",0.00236477258086692
-"65+ yr","Season peak percentage","percent","Bin","15.2","15.3",9.4736667601892e-05
-"65+ yr","Season peak percentage","percent","Bin","15.3","15.4",1.30267730235497e-05
-"65+ yr","Season peak percentage","percent","Bin","15.4","15.5",0.000463507013081226
-"65+ yr","Season peak percentage","percent","Bin","15.5","15.6",0.00688249725152967
-"65+ yr","Season peak percentage","percent","Bin","15.6","15.7",0.0385850802146285
-"65+ yr","Season peak percentage","percent","Bin","15.7","15.8",0.0826479351666905
-"65+ yr","Season peak percentage","percent","Bin","15.8","15.9",0.0680687218451791
-"65+ yr","Season peak percentage","percent","Bin","15.9","16",0.021519354246624
-"65+ yr","Season peak percentage","percent","Bin","16","16.1",0.00258789876028852
-"65+ yr","Season peak percentage","percent","Bin","16.1","16.2",0.000116881483708525
-"65+ yr","Season peak percentage","percent","Bin","16.2","16.3",5.2337223301966e-06
-"65+ yr","Season peak percentage","percent","Bin","16.3","16.4",0.000147653385225979
-"65+ yr","Season peak percentage","percent","Bin","16.4","16.5",0.00247213468039193
-"65+ yr","Season peak percentage","percent","Bin","16.5","16.6",0.0156026574399363
-"65+ yr","Season peak percentage","percent","Bin","16.6","16.7",0.0375775554733474
-"65+ yr","Season peak percentage","percent","Bin","16.7","16.8",0.0347856915639238
-"65+ yr","Season peak percentage","percent","Bin","16.8","16.9",0.012368612634296
-"65+ yr","Season peak percentage","percent","Bin","16.9","17",0.00167527536219206
-"65+ yr","Season peak percentage","percent","Bin","17","17.1",8.53472574304206e-05
-"65+ yr","Season peak percentage","percent","Bin","17.1","17.2",2.4316341480011e-06
-"65+ yr","Season peak percentage","percent","Bin","17.2","17.3",4.16423466217963e-05
-"65+ yr","Season peak percentage","percent","Bin","17.3","17.4",0.000786211238034286
-"65+ yr","Season peak percentage","percent","Bin","17.4","17.5",0.00558728643772856
-"65+ yr","Season peak percentage","percent","Bin","17.5","17.6",0.0151320208824406
-"65+ yr","Season peak percentage","percent","Bin","17.6","17.7",0.0157442147637485
-"65+ yr","Season peak percentage","percent","Bin","17.7","17.8",0.00629541283202184
-"65+ yr","Season peak percentage","percent","Bin","17.8","17.9",0.000960177593546862
-"65+ yr","Season peak percentage","percent","Bin","17.9","18",5.5171810447476e-05
-"65+ yr","Season peak percentage","percent","Bin","18","18.1",1.31582513880563e-06
-"65+ yr","Season peak percentage","percent","Bin","18.1","18.2",7.91923804454852e-06
-"65+ yr","Season peak percentage","percent","Bin","18.2","18.3",0.000168516719773961
-"65+ yr","Season peak percentage","percent","Bin","18.3","18.4",0.00134872773176552
-"65+ yr","Season peak percentage","percent","Bin","18.4","18.5",0.00410809509108675
-"65+ yr","Season peak percentage","percent","Bin","18.5","18.6",0.004804175536806
-"65+ yr","Season peak percentage","percent","Bin","18.6","18.7",0.0021600034963781
-"65+ yr","Season peak percentage","percent","Bin","18.7","18.8",0.000370903576618817
-"65+ yr","Season peak percentage","percent","Bin","18.8","18.9",2.40336062314063e-05
-"65+ yr","Season peak percentage","percent","Bin","18.9","19",6.11321567470891e-07
-"65+ yr","Season peak percentage","percent","Bin","19","19.1",2.05748463978599e-06
-"65+ yr","Season peak percentage","percent","Bin","19.1","19.2",4.93344952309302e-05
-"65+ yr","Season peak percentage","percent","Bin","19.2","19.3",0.000444772359711796
-"65+ yr","Season peak percentage","percent","Bin","19.3","19.4",0.0015238193191574
-"65+ yr","Season peak percentage","percent","Bin","19.4","19.5",0.00200297449243985
-"65+ yr","Season peak percentage","percent","Bin","19.5","19.6",0.00101250827927129
-"65+ yr","Season peak percentage","percent","Bin","19.6","19.7",0.000195705914610581
-"65+ yr","Season peak percentage","percent","Bin","19.7","19.8",1.42976710149022e-05
-"65+ yr","Season peak percentage","percent","Bin","19.8","19.9",3.9314358256878e-07
-"65+ yr","Season peak percentage","percent","Bin","19.9","20",2.72855952819115e-07
-"65+ yr","Season peak percentage","percent","Bin","20","20.1",7.29614314165948e-06
-"65+ yr","Season peak percentage","percent","Bin","20.1","20.2",7.4109403028381e-05
-"65+ yr","Season peak percentage","percent","Bin","20.2","20.3",0.000285635717087189
-"65+ yr","Season peak percentage","percent","Bin","20.3","20.4",0.000422021054277582
-"65+ yr","Season peak percentage","percent","Bin","20.4","20.5",0.000239831402057529
-"65+ yr","Season peak percentage","percent","Bin","20.5","20.6",5.21714283325121e-05
-"65+ yr","Season peak percentage","percent","Bin","20.6","20.7",4.29645292117717e-06
-"65+ yr","Season peak percentage","percent","Bin","20.7","20.8",1.32989495366e-07
-"65+ yr","Season peak percentage","percent","Bin","20.8","20.9",7.12555835033632e-08
-"65+ yr","Season peak percentage","percent","Bin","20.9","21",2.13607996986405e-06
-"65+ yr","Season peak percentage","percent","Bin","21","21.1",2.445002991881e-05
-"65+ yr","Season peak percentage","percent","Bin","21.1","21.2",0.000106030422637308
-"65+ yr","Season peak percentage","percent","Bin","21.2","21.3",0.000176098066073709
-"65+ yr","Season peak percentage","percent","Bin","21.3","21.4",0.000112497458980617
-"65+ yr","Season peak percentage","percent","Bin","21.4","21.5",2.75369958076835e-05
-"65+ yr","Season peak percentage","percent","Bin","21.5","21.6",2.55575985799889e-06
-"65+ yr","Season peak percentage","percent","Bin","21.6","21.7",8.8851353802799e-08
-"65+ yr","Season peak percentage","percent","Bin","21.7","21.8",1.15088983915909e-08
-"65+ yr","Season peak percentage","percent","Bin","21.8","21.9",3.5855155249762e-07
-"65+ yr","Season peak percentage","percent","Bin","21.9","22",4.62572814550284e-06
-"65+ yr","Season peak percentage","percent","Bin","22","22.1",2.25743600255741e-05
-"65+ yr","Season peak percentage","percent","Bin","22.1","22.2",4.21474615864404e-05
-"65+ yr","Season peak percentage","percent","Bin","22.2","22.3",3.0265625584114e-05
-"65+ yr","Season peak percentage","percent","Bin","22.3","22.4",8.33489767799295e-06
-"65+ yr","Season peak percentage","percent","Bin","22.4","22.5",8.71647696698268e-07
-"65+ yr","Season peak percentage","percent","Bin","22.5","22.6",3.41592696862797e-08
-"65+ yr","Season peak percentage","percent","Bin","22.6","22.7",4.9508293948261e-10
-"65+ yr","Season peak percentage","percent","Bin","22.7","22.8",2.62428781502534e-12
-"65+ yr","Season peak percentage","percent","Bin","22.8","22.9",5.0439638604166e-15
-"65+ yr","Season peak percentage","percent","Bin","22.9","23",3.49299558078393e-18
-"65+ yr","Season peak percentage","percent","Bin","23","23.1",8.67521432567255e-22
-"65+ yr","Season peak percentage","percent","Bin","23.1","23.2",7.70109472182329e-26
-"65+ yr","Season peak percentage","percent","Bin","23.2","23.3",2.43742749059143e-30
-"65+ yr","Season peak percentage","percent","Bin","23.3","23.4",2.74538864328728e-35
-"65+ yr","Season peak percentage","percent","Bin","23.4","23.5",1.09886768128612e-40
-"65+ yr","Season peak percentage","percent","Bin","23.5","23.6",1.56124178020004e-46
-"65+ yr","Season peak percentage","percent","Bin","23.6","23.7",7.86669652249966e-53
-"65+ yr","Season peak percentage","percent","Bin","23.7","23.8",1.40475748764606e-59
-"65+ yr","Season peak percentage","percent","Bin","23.8","23.9",8.88470959108986e-67
-"65+ yr","Season peak percentage","percent","Bin","23.9","24",1.98933612777251e-74
-"65+ yr","Season peak percentage","percent","Bin","24","24.1",1.57623401609415e-82
-"65+ yr","Season peak percentage","percent","Bin","24.1","24.2",4.41807082077571e-91
-"65+ yr","Season peak percentage","percent","Bin","24.2","24.3",4.37943327797937e-100
-"65+ yr","Season peak percentage","percent","Bin","24.3","24.4",1.53485752007124e-109
-"65+ yr","Season peak percentage","percent","Bin","24.4","24.5",1.90146973268869e-119
-"65+ yr","Season peak percentage","percent","Bin","24.5","24.6",8.32530927591903e-130
-"65+ yr","Season peak percentage","percent","Bin","24.6","24.7",1.28804038606209e-140
-"65+ yr","Season peak percentage","percent","Bin","24.7","24.8",7.04066672745739e-152
-"65+ yr","Season peak percentage","percent","Bin","24.8","24.9",1.35955748772673e-163
-"65+ yr","Season peak percentage","percent","Bin","24.9","25",9.27323544039809e-176
-"65+ yr","Season peak percentage","percent","Bin","25","25.1",2.2339355751648e-188
-"65+ yr","Season peak percentage","percent","Bin","25.1","25.2",1.90053529005172e-201
-"65+ yr","Season peak percentage","percent","Bin","25.2","25.3",5.70967533212961e-215
-"65+ yr","Season peak percentage","percent","Bin","25.3","25.4",6.05682137741598e-229
-"65+ yr","Season peak percentage","percent","Bin","25.4","25.5",2.26854140468026e-243
-"65+ yr","Season peak percentage","percent","Bin","25.5","25.6",2.99978837429979e-258
-"65+ yr","Season peak percentage","percent","Bin","25.6","25.7",1.40040032833114e-273
-"65+ yr","Season peak percentage","percent","Bin","25.7","25.8",2.30785894912088e-289
-"65+ yr","Season peak percentage","percent","Bin","25.8","25.9",1.34258389537587e-305
+"65+ yr","Season peak percentage","percent","Bin","9.4","9.5",1.4034127730093e-17
+"65+ yr","Season peak percentage","percent","Bin","9.5","9.6",3.54221383907547e-14
+"65+ yr","Season peak percentage","percent","Bin","9.6","9.7",3.8254351673837e-11
+"65+ yr","Season peak percentage","percent","Bin","9.7","9.8",1.49096666327914e-08
+"65+ yr","Season peak percentage","percent","Bin","9.8","9.9",2.11171538650974e-06
+"65+ yr","Season peak percentage","percent","Bin","9.9","10",0.000109705750353568
+"65+ yr","Season peak percentage","percent","Bin","10","10.1",0.00211535823374132
+"65+ yr","Season peak percentage","percent","Bin","10.1","10.2",0.0153445560357346
+"65+ yr","Season peak percentage","percent","Bin","10.2","10.3",0.0424089542974901
+"65+ yr","Season peak percentage","percent","Bin","10.3","10.4",0.0450242629897141
+"65+ yr","Season peak percentage","percent","Bin","10.4","10.5",0.0183717007877049
+"65+ yr","Season peak percentage","percent","Bin","10.5","10.6",0.00286004661015265
+"65+ yr","Season peak percentage","percent","Bin","10.6","10.7",0.000167806561022387
+"65+ yr","Season peak percentage","percent","Bin","10.7","10.8",7.14834201046089e-06
+"65+ yr","Season peak percentage","percent","Bin","10.8","10.9",0.000204833137307365
+"65+ yr","Season peak percentage","percent","Bin","10.9","11",0.0044550619298493
+"65+ yr","Season peak percentage","percent","Bin","11","11.1",0.036396411448758
+"65+ yr","Season peak percentage","percent","Bin","11.1","11.2",0.113133673580017
+"65+ yr","Season peak percentage","percent","Bin","11.2","11.3",0.135000802734717
+"65+ yr","Season peak percentage","percent","Bin","11.3","11.4",0.0619388770156852
+"65+ yr","Season peak percentage","percent","Bin","11.4","11.5",0.0108555593043766
+"65+ yr","Season peak percentage","percent","Bin","11.5","11.6",0.000718152622363712
+"65+ yr","Season peak percentage","percent","Bin","11.6","11.7",1.90780363421786e-05
+"65+ yr","Season peak percentage","percent","Bin","11.7","11.8",9.21949040634196e-05
+"65+ yr","Season peak percentage","percent","Bin","11.8","11.9",0.00225900045518424
+"65+ yr","Season peak percentage","percent","Bin","11.9","12",0.0207894014019527
+"65+ yr","Season peak percentage","percent","Bin","12","12.1",0.0726884690446083
+"65+ yr","Season peak percentage","percent","Bin","12.1","12.2",0.0974935402685349
+"65+ yr","Season peak percentage","percent","Bin","12.2","12.3",0.0502901876954534
+"65+ yr","Season peak percentage","percent","Bin","12.3","12.4",0.00992104298816721
+"65+ yr","Season peak percentage","percent","Bin","12.4","12.5",0.000739961435902394
+"65+ yr","Season peak percentage","percent","Bin","12.5","12.6",2.10311849283992e-05
+"65+ yr","Season peak percentage","percent","Bin","12.6","12.7",3.36999674318428e-05
+"65+ yr","Season peak percentage","percent","Bin","12.7","12.8",0.000927694046998783
+"65+ yr","Season peak percentage","percent","Bin","12.8","12.9",0.00961920106475068
+"65+ yr","Season peak percentage","percent","Bin","12.9","13",0.0378370756004018
+"65+ yr","Season peak percentage","percent","Bin","13","13.1",0.0570441363925793
+"65+ yr","Season peak percentage","percent","Bin","13.1","13.2",0.0330796656652211
+"65+ yr","Season peak percentage","percent","Bin","13.2","13.3",0.00734418221006173
+"65+ yr","Season peak percentage","percent","Bin","13.3","13.4",0.00061744013805033
+"65+ yr","Season peak percentage","percent","Bin","13.4","13.5",1.94897423342452e-05
+"65+ yr","Season peak percentage","percent","Bin","13.5","13.6",8.416690602804e-06
+"65+ yr","Season peak percentage","percent","Bin","13.6","13.7",0.000256163234486249
+"65+ yr","Season peak percentage","percent","Bin","13.7","13.8",0.00299328128024024
+"65+ yr","Season peak percentage","percent","Bin","13.8","13.9",0.0132479967331079
+"65+ yr","Season peak percentage","percent","Bin","13.9","14",0.0224517790684057
+"65+ yr","Season peak percentage","percent","Bin","14","14.1",0.014635652380763
+"65+ yr","Season peak percentage","percent","Bin","14.1","14.2",0.00365619327761539
+"65+ yr","Season peak percentage","percent","Bin","14.2","14.3",0.000346410793316255
+"65+ yr","Season peak percentage","percent","Bin","14.3","14.4",1.23108788740513e-05
+"65+ yr","Season peak percentage","percent","Bin","14.4","14.5",2.9022853893692e-06
+"65+ yr","Season peak percentage","percent","Bin","14.5","14.6",9.67857358331313e-05
+"65+ yr","Season peak percentage","percent","Bin","14.6","14.7",0.00127475742278229
+"65+ yr","Season peak percentage","percent","Bin","14.7","14.8",0.00634932183307585
+"65+ yr","Season peak percentage","percent","Bin","14.8","14.9",0.0120966606725556
+"65+ yr","Season peak percentage","percent","Bin","14.9","15",0.00886366007484977
+"65+ yr","Season peak percentage","percent","Bin","15","15.1",0.00249112303561632
+"65+ yr","Season peak percentage","percent","Bin","15.1","15.2",0.000265937347444024
+"65+ yr","Season peak percentage","percent","Bin","15.2","15.3",1.06486410094859e-05
+"65+ yr","Season peak percentage","percent","Bin","15.3","15.4",8.96432718414075e-07
+"65+ yr","Season peak percentage","percent","Bin","15.4","15.5",2.94590641273859e-05
+"65+ yr","Season peak percentage","percent","Bin","15.5","15.6",0.000437424611654925
+"65+ yr","Season peak percentage","percent","Bin","15.6","15.7",0.00245231680938227
+"65+ yr","Season peak percentage","percent","Bin","15.7","15.8",0.005252779559938
+"65+ yr","Season peak percentage","percent","Bin","15.8","15.9",0.00432618177403135
+"65+ yr","Season peak percentage","percent","Bin","15.9","16",0.00136768600330625
+"65+ yr","Season peak percentage","percent","Bin","16","16.1",0.000164476724111135
+"65+ yr","Season peak percentage","percent","Bin","16.1","16.2",7.4282020304113e-06
+"65+ yr","Season peak percentage","percent","Bin","16.2","16.3",2.92430888331347e-07
+"65+ yr","Season peak percentage","percent","Bin","16.3","16.4",7.5739293291924e-06
+"65+ yr","Season peak percentage","percent","Bin","16.4","16.5",0.000126806508945346
+"65+ yr","Season peak percentage","percent","Bin","16.5","16.6",0.000800327963854465
+"65+ yr","Season peak percentage","percent","Bin","16.6","16.7",0.00192751578212726
+"65+ yr","Season peak percentage","percent","Bin","16.7","16.8",0.00178430897478764
+"65+ yr","Season peak percentage","percent","Bin","16.8","16.9",0.000634439780749528
+"65+ yr","Season peak percentage","percent","Bin","16.9","17",8.59321381705627e-05
+"65+ yr","Season peak percentage","percent","Bin","17","17.1",4.37771942737796e-06
+"65+ yr","Season peak percentage","percent","Bin","17.1","17.2",1.09265498138789e-07
+"65+ yr","Season peak percentage","percent","Bin","17.2","17.3",1.349421795461e-06
+"65+ yr","Season peak percentage","percent","Bin","17.3","17.4",2.54732156645174e-05
+"65+ yr","Season peak percentage","percent","Bin","17.4","17.5",0.000181027874633611
+"65+ yr","Season peak percentage","percent","Bin","17.5","17.6",0.000490276918819639
+"65+ yr","Season peak percentage","percent","Bin","17.6","17.7",0.000510111978008341
+"65+ yr","Season peak percentage","percent","Bin","17.7","17.8",0.000203971143706395
+"65+ yr","Season peak percentage","percent","Bin","17.8","17.9",3.11097185726381e-05
+"65+ yr","Season peak percentage","percent","Bin","17.9","18",1.78753619672754e-06
+"65+ yr","Season peak percentage","percent","Bin","18","18.1",3.81735426210962e-08
+"65+ yr","Season peak percentage","percent","Bin","18.1","18.2",2.99352210148944e-10
+"65+ yr","Season peak percentage","percent","Bin","18.2","18.3",8.53794643758592e-13
+"65+ yr","Season peak percentage","percent","Bin","18.3","18.4",8.79346419736872e-16
+"65+ yr","Season peak percentage","percent","Bin","18.4","18.5",3.25332710913107e-19
+"65+ yr","Season peak percentage","percent","Bin","18.5","18.6",4.30726403383301e-23
+"65+ yr","Season peak percentage","percent","Bin","18.6","18.7",6.79175054510814e-18
+"65+ yr","Season peak percentage","percent","Bin","18.7","18.8",9.22567770290904e-15
+"65+ yr","Season peak percentage","percent","Bin","18.8","18.9",4.51360157227596e-12
+"65+ yr","Season peak percentage","percent","Bin","18.9","19",8.01071407929059e-10
+"65+ yr","Season peak percentage","percent","Bin","19","19.1",5.20288677844026e-08
+"65+ yr","Season peak percentage","percent","Bin","19.1","19.2",1.25067660582597e-06
+"65+ yr","Season peak percentage","percent","Bin","19.2","19.3",1.12754082068574e-05
+"65+ yr","Season peak percentage","percent","Bin","19.3","19.4",3.8630289141342e-05
+"65+ yr","Season peak percentage","percent","Bin","19.4","19.5",5.07773348276418e-05
+"65+ yr","Season peak percentage","percent","Bin","19.5","19.6",2.56680612291224e-05
+"65+ yr","Season peak percentage","percent","Bin","19.6","19.7",4.96133365141104e-06
+"65+ yr","Season peak percentage","percent","Bin","19.7","19.8",3.62459284850303e-07
+"65+ yr","Season peak percentage","percent","Bin","19.8","19.9",9.87369058010439e-09
+"65+ yr","Season peak percentage","percent","Bin","19.9","20",9.90376994057695e-11
+"65+ yr","Season peak percentage","percent","Bin","20","20.1",3.62066541649303e-13
+"65+ yr","Season peak percentage","percent","Bin","20.1","20.2",4.78726666905329e-16
+"65+ yr","Season peak percentage","percent","Bin","20.2","20.3",2.27635180707111e-19
+"65+ yr","Season peak percentage","percent","Bin","20.3","20.4",3.87664094058749e-23
+"65+ yr","Season peak percentage","percent","Bin","20.4","20.5",2.35736442835576e-27
+"65+ yr","Season peak percentage","percent","Bin","20.5","20.6",5.10716130696889e-32
+"65+ yr","Season peak percentage","percent","Bin","20.6","20.7",3.9352976257617e-37
+"65+ yr","Season peak percentage","percent","Bin","20.7","20.8",1.07709210470286e-42
+"65+ yr","Season peak percentage","percent","Bin","20.8","20.9",1.04606718223221e-48
+"65+ yr","Season peak percentage","percent","Bin","20.9","21",3.60198658752406e-55
+"65+ yr","Season peak percentage","percent","Bin","21","21.1",4.39452896593409e-62
+"65+ yr","Season peak percentage","percent","Bin","21.1","21.2",1.89860193057319e-69
+"65+ yr","Season peak percentage","percent","Bin","21.2","21.3",2.9034247332725e-77
+"65+ yr","Season peak percentage","percent","Bin","21.3","21.4",1.57100505422114e-85
+"65+ yr","Season peak percentage","percent","Bin","21.4","21.5",3.0067368086013e-94
+"65+ yr","Season peak percentage","percent","Bin","21.5","21.6",2.03490833456029e-103
+"65+ yr","Season peak percentage","percent","Bin","21.6","21.7",4.86881467271709e-113
+"65+ yr","Season peak percentage","percent","Bin","21.7","21.8",4.11757570605695e-123
+"65+ yr","Season peak percentage","percent","Bin","21.8","21.9",1.23061508496225e-133
+"65+ yr","Season peak percentage","percent","Bin","21.9","22",1.2995619917329e-144
+"65+ yr","Season peak percentage","percent","Bin","22","22.1",4.84848145024158e-156
+"65+ yr","Season peak percentage","percent","Bin","22.1","22.2",6.38991526902349e-168
+"65+ yr","Season peak percentage","percent","Bin","22.2","22.3",2.97452454660638e-180
+"65+ yr","Season peak percentage","percent","Bin","22.3","22.4",4.89024468643458e-193
+"65+ yr","Season peak percentage","percent","Bin","22.4","22.5",2.83920010913943e-206
+"65+ yr","Season peak percentage","percent","Bin","22.5","22.6",5.82075557828221e-220
+"65+ yr","Season peak percentage","percent","Bin","22.6","22.7",4.2135632714523e-234
+"65+ yr","Season peak percentage","percent","Bin","22.7","22.8",1.07690700676247e-248
+"65+ yr","Season peak percentage","percent","Bin","22.8","22.9",9.71716723652912e-264
+"65+ yr","Season peak percentage","percent","Bin","22.9","23",3.09535490016615e-279
+"65+ yr","Season peak percentage","percent","Bin","23","23.1",3.48071944298841e-295
+"65+ yr","Season peak percentage","percent","Bin","23.1","23.2",1.38164239390856e-311
+"65+ yr","Season peak percentage","percent","Bin","23.2","23.3",0
+"65+ yr","Season peak percentage","percent","Bin","23.3","23.4",0
+"65+ yr","Season peak percentage","percent","Bin","23.4","23.5",0
+"65+ yr","Season peak percentage","percent","Bin","23.5","23.6",0
+"65+ yr","Season peak percentage","percent","Bin","23.6","23.7",0
+"65+ yr","Season peak percentage","percent","Bin","23.7","23.8",0
+"65+ yr","Season peak percentage","percent","Bin","23.8","23.9",0
+"65+ yr","Season peak percentage","percent","Bin","23.9","24",0
+"65+ yr","Season peak percentage","percent","Bin","24","24.1",0
+"65+ yr","Season peak percentage","percent","Bin","24.1","24.2",0
+"65+ yr","Season peak percentage","percent","Bin","24.2","24.3",0
+"65+ yr","Season peak percentage","percent","Bin","24.3","24.4",0
+"65+ yr","Season peak percentage","percent","Bin","24.4","24.5",0
+"65+ yr","Season peak percentage","percent","Bin","24.5","24.6",0
+"65+ yr","Season peak percentage","percent","Bin","24.6","24.7",0
+"65+ yr","Season peak percentage","percent","Bin","24.7","24.8",0
+"65+ yr","Season peak percentage","percent","Bin","24.8","24.9",0
+"65+ yr","Season peak percentage","percent","Bin","24.9","25",0
+"65+ yr","Season peak percentage","percent","Bin","25","25.1",0
+"65+ yr","Season peak percentage","percent","Bin","25.1","25.2",0
+"65+ yr","Season peak percentage","percent","Bin","25.2","25.3",0
+"65+ yr","Season peak percentage","percent","Bin","25.3","25.4",0
+"65+ yr","Season peak percentage","percent","Bin","25.4","25.5",0
+"65+ yr","Season peak percentage","percent","Bin","25.5","25.6",0
+"65+ yr","Season peak percentage","percent","Bin","25.6","25.7",0
+"65+ yr","Season peak percentage","percent","Bin","25.7","25.8",0
+"65+ yr","Season peak percentage","percent","Bin","25.8","25.9",0
 "65+ yr","Season peak percentage","percent","Bin","25.9","26",0
 "65+ yr","Season peak percentage","percent","Bin","26","26.1",0
 "65+ yr","Season peak percentage","percent","Bin","26.1","26.2",0
@@ -4054,7 +4054,7 @@
 "65+ yr","Season peak percentage","percent","Bin","59.7","59.8",0
 "65+ yr","Season peak percentage","percent","Bin","59.8","59.9",0
 "65+ yr","Season peak percentage","percent","Bin","59.9","60",0
-"65+ yr","Season peak percentage","percent","Bin","60","100",1.71377180796636e-16
+"65+ yr","Season peak percentage","percent","Bin","60","100",0
 "65+ yr","1 wk ahead","percent","Bin","0","0.1",0
 "65+ yr","1 wk ahead","percent","Bin","0.1","0.2",0
 "65+ yr","1 wk ahead","percent","Bin","0.2","0.3",0
@@ -4093,47 +4093,47 @@
 "65+ yr","1 wk ahead","percent","Bin","3.5","3.6",0
 "65+ yr","1 wk ahead","percent","Bin","3.6","3.7",0
 "65+ yr","1 wk ahead","percent","Bin","3.7","3.8",0
-"65+ yr","1 wk ahead","percent","Bin","3.8","3.9",7.88765978006754e-05
-"65+ yr","1 wk ahead","percent","Bin","3.9","4",0.0102031955917642
-"65+ yr","1 wk ahead","percent","Bin","4","4.1",0.0246448816278006
-"65+ yr","1 wk ahead","percent","Bin","4.1","4.2",0.0122735291258108
-"65+ yr","1 wk ahead","percent","Bin","4.2","4.3",0.0192590117560589
-"65+ yr","1 wk ahead","percent","Bin","4.3","4.4",0.0675433108686493
-"65+ yr","1 wk ahead","percent","Bin","4.4","4.5",0.103358949490767
-"65+ yr","1 wk ahead","percent","Bin","4.5","4.6",0.00939004115718695
-"65+ yr","1 wk ahead","percent","Bin","4.6","4.7",0.051813624608575
-"65+ yr","1 wk ahead","percent","Bin","4.7","4.8",0.160297777354381
-"65+ yr","1 wk ahead","percent","Bin","4.8","4.9",0.121895558430534
-"65+ yr","1 wk ahead","percent","Bin","4.9","5",0.00926120118300878
-"65+ yr","1 wk ahead","percent","Bin","5","5.1",0.0411614092796543
-"65+ yr","1 wk ahead","percent","Bin","5.1","5.2",0.134386625186645
-"65+ yr","1 wk ahead","percent","Bin","5.2","5.3",0.0947474997597756
-"65+ yr","1 wk ahead","percent","Bin","5.3","5.4",0.0076111859980232
-"65+ yr","1 wk ahead","percent","Bin","5.4","5.5",0.00782431600030139
-"65+ yr","1 wk ahead","percent","Bin","5.5","5.6",0.045435577779019
-"65+ yr","1 wk ahead","percent","Bin","5.6","5.7",0.0511785112859349
-"65+ yr","1 wk ahead","percent","Bin","5.7","5.8",0.00787702781161636
-"65+ yr","1 wk ahead","percent","Bin","5.8","5.9",0.000977244988848604
-"65+ yr","1 wk ahead","percent","Bin","5.9","6",0.00214422750124546
-"65+ yr","1 wk ahead","percent","Bin","6","6.1",0.011617332093336
-"65+ yr","1 wk ahead","percent","Bin","6.1","6.2",0.00422507056614193
-"65+ yr","1 wk ahead","percent","Bin","6.2","6.3",0.000733478339670974
-"65+ yr","1 wk ahead","percent","Bin","6.3","6.4",5.97350095157159e-05
-"65+ yr","1 wk ahead","percent","Bin","6.4","6.5",8.00607934271102e-07
-"65+ yr","1 wk ahead","percent","Bin","6.5","6.6",0
-"65+ yr","1 wk ahead","percent","Bin","6.6","6.7",0
-"65+ yr","1 wk ahead","percent","Bin","6.7","6.8",0
-"65+ yr","1 wk ahead","percent","Bin","6.8","6.9",0
-"65+ yr","1 wk ahead","percent","Bin","6.9","7",0
-"65+ yr","1 wk ahead","percent","Bin","7","7.1",0
-"65+ yr","1 wk ahead","percent","Bin","7.1","7.2",0
-"65+ yr","1 wk ahead","percent","Bin","7.2","7.3",0
-"65+ yr","1 wk ahead","percent","Bin","7.3","7.4",0
-"65+ yr","1 wk ahead","percent","Bin","7.4","7.5",0
-"65+ yr","1 wk ahead","percent","Bin","7.5","7.6",0
-"65+ yr","1 wk ahead","percent","Bin","7.6","7.7",0
-"65+ yr","1 wk ahead","percent","Bin","7.7","7.8",0
-"65+ yr","1 wk ahead","percent","Bin","7.8","7.9",0
+"65+ yr","1 wk ahead","percent","Bin","3.8","3.9",0
+"65+ yr","1 wk ahead","percent","Bin","3.9","4",0
+"65+ yr","1 wk ahead","percent","Bin","4","4.1",0
+"65+ yr","1 wk ahead","percent","Bin","4.1","4.2",0
+"65+ yr","1 wk ahead","percent","Bin","4.2","4.3",0
+"65+ yr","1 wk ahead","percent","Bin","4.3","4.4",7.40723192266704e-06
+"65+ yr","1 wk ahead","percent","Bin","4.4","4.5",0.00093205583631659
+"65+ yr","1 wk ahead","percent","Bin","4.5","4.6",0.0153026592331728
+"65+ yr","1 wk ahead","percent","Bin","4.6","4.7",0.0716802451269407
+"65+ yr","1 wk ahead","percent","Bin","4.7","4.8",0.119166184085124
+"65+ yr","1 wk ahead","percent","Bin","4.8","4.9",0.0837896862308391
+"65+ yr","1 wk ahead","percent","Bin","4.9","5",0.0236724110457927
+"65+ yr","1 wk ahead","percent","Bin","5","5.1",0.00312158177126208
+"65+ yr","1 wk ahead","percent","Bin","5.1","5.2",0.000118017628335099
+"65+ yr","1 wk ahead","percent","Bin","5.2","5.3",7.58849690384354e-07
+"65+ yr","1 wk ahead","percent","Bin","5.3","5.4",0
+"65+ yr","1 wk ahead","percent","Bin","5.4","5.5",0
+"65+ yr","1 wk ahead","percent","Bin","5.5","5.6",0
+"65+ yr","1 wk ahead","percent","Bin","5.6","5.7",0
+"65+ yr","1 wk ahead","percent","Bin","5.7","5.8",0
+"65+ yr","1 wk ahead","percent","Bin","5.8","5.9",0
+"65+ yr","1 wk ahead","percent","Bin","5.9","6",0
+"65+ yr","1 wk ahead","percent","Bin","6","6.1",0
+"65+ yr","1 wk ahead","percent","Bin","6.1","6.2",0
+"65+ yr","1 wk ahead","percent","Bin","6.2","6.3",1.97139269800649e-07
+"65+ yr","1 wk ahead","percent","Bin","6.3","6.4",1.5788000188627e-05
+"65+ yr","1 wk ahead","percent","Bin","6.4","6.5",0.0003409134182407
+"65+ yr","1 wk ahead","percent","Bin","6.5","6.6",0.00246890421078945
+"65+ yr","1 wk ahead","percent","Bin","6.6","6.7",0.00922174942694327
+"65+ yr","1 wk ahead","percent","Bin","6.7","6.8",0.024223646856174
+"65+ yr","1 wk ahead","percent","Bin","6.8","6.9",0.0426205283252071
+"65+ yr","1 wk ahead","percent","Bin","6.9","7",0.0769608366936665
+"65+ yr","1 wk ahead","percent","Bin","7","7.1",0.127039165133813
+"65+ yr","1 wk ahead","percent","Bin","7.1","7.2",0.155943801953938
+"65+ yr","1 wk ahead","percent","Bin","7.2","7.3",0.127920808629094
+"65+ yr","1 wk ahead","percent","Bin","7.3","7.4",0.0749197420727982
+"65+ yr","1 wk ahead","percent","Bin","7.4","7.5",0.0302446434368046
+"65+ yr","1 wk ahead","percent","Bin","7.5","7.6",0.00869022200676353
+"65+ yr","1 wk ahead","percent","Bin","7.6","7.7",0.00144883825576677
+"65+ yr","1 wk ahead","percent","Bin","7.7","7.8",0.000142172550558612
+"65+ yr","1 wk ahead","percent","Bin","7.8","7.9",7.03485058761107e-06
 "65+ yr","1 wk ahead","percent","Bin","7.9","8",0
 "65+ yr","1 wk ahead","percent","Bin","8","8.1",0
 "65+ yr","1 wk ahead","percent","Bin","8.1","8.2",0
@@ -4673,92 +4673,92 @@
 "65+ yr","2 wk ahead","percent","Bin","1.4","1.5",0
 "65+ yr","2 wk ahead","percent","Bin","1.5","1.6",0
 "65+ yr","2 wk ahead","percent","Bin","1.6","1.7",0
-"65+ yr","2 wk ahead","percent","Bin","1.7","1.8",9.60427128233462e-09
-"65+ yr","2 wk ahead","percent","Bin","1.8","1.9",0.000181612292818214
-"65+ yr","2 wk ahead","percent","Bin","1.9","2",0.000887419512919517
-"65+ yr","2 wk ahead","percent","Bin","2","2.1",0.0037673049798014
-"65+ yr","2 wk ahead","percent","Bin","2.1","2.2",0.00844782248491326
-"65+ yr","2 wk ahead","percent","Bin","2.2","2.3",0.0195892194255113
-"65+ yr","2 wk ahead","percent","Bin","2.3","2.4",0.0334195085700801
-"65+ yr","2 wk ahead","percent","Bin","2.4","2.5",0.0455235321202205
-"65+ yr","2 wk ahead","percent","Bin","2.5","2.6",0.0794412176372255
-"65+ yr","2 wk ahead","percent","Bin","2.6","2.7",0.0744911107146448
-"65+ yr","2 wk ahead","percent","Bin","2.7","2.8",0.103535661377788
-"65+ yr","2 wk ahead","percent","Bin","2.8","2.9",0.10318653268918
-"65+ yr","2 wk ahead","percent","Bin","2.9","3",0.0965390416243016
-"65+ yr","2 wk ahead","percent","Bin","3","3.1",0.100595736614876
-"65+ yr","2 wk ahead","percent","Bin","3.1","3.2",0.0818772742236845
-"65+ yr","2 wk ahead","percent","Bin","3.2","3.3",0.0631469899452138
-"65+ yr","2 wk ahead","percent","Bin","3.3","3.4",0.0578611982510326
-"65+ yr","2 wk ahead","percent","Bin","3.4","3.5",0.0435305882880063
-"65+ yr","2 wk ahead","percent","Bin","3.5","3.6",0.0274520449699991
-"65+ yr","2 wk ahead","percent","Bin","3.6","3.7",0.0214198333726791
-"65+ yr","2 wk ahead","percent","Bin","3.7","3.8",0.0145116459913105
-"65+ yr","2 wk ahead","percent","Bin","3.8","3.9",0.00880110708924988
-"65+ yr","2 wk ahead","percent","Bin","3.9","4",0.00513987288443589
-"65+ yr","2 wk ahead","percent","Bin","4","4.1",0.0032115192242949
-"65+ yr","2 wk ahead","percent","Bin","4.1","4.2",0.00191563813912395
-"65+ yr","2 wk ahead","percent","Bin","4.2","4.3",0.00078898969221984
-"65+ yr","2 wk ahead","percent","Bin","4.3","4.4",0.000380816717888527
-"65+ yr","2 wk ahead","percent","Bin","4.4","4.5",0.00022354447640279
-"65+ yr","2 wk ahead","percent","Bin","4.5","4.6",0.0001148547086012
-"65+ yr","2 wk ahead","percent","Bin","4.6","4.7",1.75229225853537e-05
-"65+ yr","2 wk ahead","percent","Bin","4.7","4.8",8.2377853248627e-07
-"65+ yr","2 wk ahead","percent","Bin","4.8","4.9",5.67618794737641e-09
-"65+ yr","2 wk ahead","percent","Bin","4.9","5",0
-"65+ yr","2 wk ahead","percent","Bin","5","5.1",0
-"65+ yr","2 wk ahead","percent","Bin","5.1","5.2",0
-"65+ yr","2 wk ahead","percent","Bin","5.2","5.3",0
-"65+ yr","2 wk ahead","percent","Bin","5.3","5.4",0
-"65+ yr","2 wk ahead","percent","Bin","5.4","5.5",0
-"65+ yr","2 wk ahead","percent","Bin","5.5","5.6",0
-"65+ yr","2 wk ahead","percent","Bin","5.6","5.7",0
-"65+ yr","2 wk ahead","percent","Bin","5.7","5.8",0
-"65+ yr","2 wk ahead","percent","Bin","5.8","5.9",0
-"65+ yr","2 wk ahead","percent","Bin","5.9","6",0
-"65+ yr","2 wk ahead","percent","Bin","6","6.1",0
-"65+ yr","2 wk ahead","percent","Bin","6.1","6.2",0
-"65+ yr","2 wk ahead","percent","Bin","6.2","6.3",0
-"65+ yr","2 wk ahead","percent","Bin","6.3","6.4",0
-"65+ yr","2 wk ahead","percent","Bin","6.4","6.5",0
-"65+ yr","2 wk ahead","percent","Bin","6.5","6.6",0
-"65+ yr","2 wk ahead","percent","Bin","6.6","6.7",0
-"65+ yr","2 wk ahead","percent","Bin","6.7","6.8",0
-"65+ yr","2 wk ahead","percent","Bin","6.8","6.9",0
-"65+ yr","2 wk ahead","percent","Bin","6.9","7",0
-"65+ yr","2 wk ahead","percent","Bin","7","7.1",0
-"65+ yr","2 wk ahead","percent","Bin","7.1","7.2",0
-"65+ yr","2 wk ahead","percent","Bin","7.2","7.3",0
-"65+ yr","2 wk ahead","percent","Bin","7.3","7.4",0
-"65+ yr","2 wk ahead","percent","Bin","7.4","7.5",0
-"65+ yr","2 wk ahead","percent","Bin","7.5","7.6",0
-"65+ yr","2 wk ahead","percent","Bin","7.6","7.7",0
-"65+ yr","2 wk ahead","percent","Bin","7.7","7.8",0
-"65+ yr","2 wk ahead","percent","Bin","7.8","7.9",0
-"65+ yr","2 wk ahead","percent","Bin","7.9","8",0
-"65+ yr","2 wk ahead","percent","Bin","8","8.1",0
-"65+ yr","2 wk ahead","percent","Bin","8.1","8.2",0
-"65+ yr","2 wk ahead","percent","Bin","8.2","8.3",0
-"65+ yr","2 wk ahead","percent","Bin","8.3","8.4",0
-"65+ yr","2 wk ahead","percent","Bin","8.4","8.5",0
-"65+ yr","2 wk ahead","percent","Bin","8.5","8.6",0
-"65+ yr","2 wk ahead","percent","Bin","8.6","8.7",0
-"65+ yr","2 wk ahead","percent","Bin","8.7","8.8",0
-"65+ yr","2 wk ahead","percent","Bin","8.8","8.9",0
-"65+ yr","2 wk ahead","percent","Bin","8.9","9",0
-"65+ yr","2 wk ahead","percent","Bin","9","9.1",0
-"65+ yr","2 wk ahead","percent","Bin","9.1","9.2",0
-"65+ yr","2 wk ahead","percent","Bin","9.2","9.3",0
-"65+ yr","2 wk ahead","percent","Bin","9.3","9.4",0
-"65+ yr","2 wk ahead","percent","Bin","9.4","9.5",0
-"65+ yr","2 wk ahead","percent","Bin","9.5","9.6",0
-"65+ yr","2 wk ahead","percent","Bin","9.6","9.7",0
-"65+ yr","2 wk ahead","percent","Bin","9.7","9.8",0
-"65+ yr","2 wk ahead","percent","Bin","9.8","9.9",0
-"65+ yr","2 wk ahead","percent","Bin","9.9","10",0
-"65+ yr","2 wk ahead","percent","Bin","10","10.1",0
-"65+ yr","2 wk ahead","percent","Bin","10.1","10.2",0
-"65+ yr","2 wk ahead","percent","Bin","10.2","10.3",0
+"65+ yr","2 wk ahead","percent","Bin","1.7","1.8",0
+"65+ yr","2 wk ahead","percent","Bin","1.8","1.9",0
+"65+ yr","2 wk ahead","percent","Bin","1.9","2",0
+"65+ yr","2 wk ahead","percent","Bin","2","2.1",0
+"65+ yr","2 wk ahead","percent","Bin","2.1","2.2",0
+"65+ yr","2 wk ahead","percent","Bin","2.2","2.3",0
+"65+ yr","2 wk ahead","percent","Bin","2.3","2.4",0
+"65+ yr","2 wk ahead","percent","Bin","2.4","2.5",0
+"65+ yr","2 wk ahead","percent","Bin","2.5","2.6",0
+"65+ yr","2 wk ahead","percent","Bin","2.6","2.7",0
+"65+ yr","2 wk ahead","percent","Bin","2.7","2.8",0
+"65+ yr","2 wk ahead","percent","Bin","2.8","2.9",0
+"65+ yr","2 wk ahead","percent","Bin","2.9","3",0
+"65+ yr","2 wk ahead","percent","Bin","3","3.1",0
+"65+ yr","2 wk ahead","percent","Bin","3.1","3.2",0
+"65+ yr","2 wk ahead","percent","Bin","3.2","3.3",0
+"65+ yr","2 wk ahead","percent","Bin","3.3","3.4",0
+"65+ yr","2 wk ahead","percent","Bin","3.4","3.5",0
+"65+ yr","2 wk ahead","percent","Bin","3.5","3.6",0
+"65+ yr","2 wk ahead","percent","Bin","3.6","3.7",2.54618219343894e-06
+"65+ yr","2 wk ahead","percent","Bin","3.7","3.8",3.1096931644478e-05
+"65+ yr","2 wk ahead","percent","Bin","3.8","3.9",7.0587455214526e-05
+"65+ yr","2 wk ahead","percent","Bin","3.9","4",0.000285157829525145
+"65+ yr","2 wk ahead","percent","Bin","4","4.1",0.00057777561664237
+"65+ yr","2 wk ahead","percent","Bin","4.1","4.2",0.00136472561507114
+"65+ yr","2 wk ahead","percent","Bin","4.2","4.3",0.00220316277216042
+"65+ yr","2 wk ahead","percent","Bin","4.3","4.4",0.00355314048578164
+"65+ yr","2 wk ahead","percent","Bin","4.4","4.5",0.00656729593001687
+"65+ yr","2 wk ahead","percent","Bin","4.5","4.6",0.00832629923242594
+"65+ yr","2 wk ahead","percent","Bin","4.6","4.7",0.0109881933759955
+"65+ yr","2 wk ahead","percent","Bin","4.7","4.8",0.0151984951595412
+"65+ yr","2 wk ahead","percent","Bin","4.8","4.9",0.0168546561169013
+"65+ yr","2 wk ahead","percent","Bin","4.9","5",0.0194161353571653
+"65+ yr","2 wk ahead","percent","Bin","5","5.1",0.0214245418049231
+"65+ yr","2 wk ahead","percent","Bin","5.1","5.2",0.0252912852459772
+"65+ yr","2 wk ahead","percent","Bin","5.2","5.3",0.023684917253237
+"65+ yr","2 wk ahead","percent","Bin","5.3","5.4",0.0267852803831497
+"65+ yr","2 wk ahead","percent","Bin","5.4","5.5",0.0255240100457846
+"65+ yr","2 wk ahead","percent","Bin","5.5","5.6",0.0268092722363559
+"65+ yr","2 wk ahead","percent","Bin","5.6","5.7",0.0273029931863592
+"65+ yr","2 wk ahead","percent","Bin","5.7","5.8",0.026771747879825
+"65+ yr","2 wk ahead","percent","Bin","5.8","5.9",0.0257903943396976
+"65+ yr","2 wk ahead","percent","Bin","5.9","6",0.0271931626163607
+"65+ yr","2 wk ahead","percent","Bin","6","6.1",0.0305819123940643
+"65+ yr","2 wk ahead","percent","Bin","6.1","6.2",0.0315103688352292
+"65+ yr","2 wk ahead","percent","Bin","6.2","6.3",0.0299949672346286
+"65+ yr","2 wk ahead","percent","Bin","6.3","6.4",0.0344096488676325
+"65+ yr","2 wk ahead","percent","Bin","6.4","6.5",0.037435742840599
+"65+ yr","2 wk ahead","percent","Bin","6.5","6.6",0.0428724452385002
+"65+ yr","2 wk ahead","percent","Bin","6.6","6.7",0.0378842460324144
+"65+ yr","2 wk ahead","percent","Bin","6.7","6.8",0.0410648302456145
+"65+ yr","2 wk ahead","percent","Bin","6.8","6.9",0.0398190634663283
+"65+ yr","2 wk ahead","percent","Bin","6.9","7",0.0361896128487024
+"65+ yr","2 wk ahead","percent","Bin","7","7.1",0.035761566846792
+"65+ yr","2 wk ahead","percent","Bin","7.1","7.2",0.0387891849923227
+"65+ yr","2 wk ahead","percent","Bin","7.2","7.3",0.033793562799771
+"65+ yr","2 wk ahead","percent","Bin","7.3","7.4",0.0270273677076258
+"65+ yr","2 wk ahead","percent","Bin","7.4","7.5",0.024940187252397
+"65+ yr","2 wk ahead","percent","Bin","7.5","7.6",0.0236878232789552
+"65+ yr","2 wk ahead","percent","Bin","7.6","7.7",0.0207409754605407
+"65+ yr","2 wk ahead","percent","Bin","7.7","7.8",0.0183991113258429
+"65+ yr","2 wk ahead","percent","Bin","7.8","7.9",0.0153578920429794
+"65+ yr","2 wk ahead","percent","Bin","7.9","8",0.0128496708109154
+"65+ yr","2 wk ahead","percent","Bin","8","8.1",0.00820794389777862
+"65+ yr","2 wk ahead","percent","Bin","8.1","8.2",0.00799960207014532
+"65+ yr","2 wk ahead","percent","Bin","8.2","8.3",0.00728779087663429
+"65+ yr","2 wk ahead","percent","Bin","8.3","8.4",0.00596033452643255
+"65+ yr","2 wk ahead","percent","Bin","8.4","8.5",0.0035035035114704
+"65+ yr","2 wk ahead","percent","Bin","8.5","8.6",0.00291817312967568
+"65+ yr","2 wk ahead","percent","Bin","8.6","8.7",0.00276739789203504
+"65+ yr","2 wk ahead","percent","Bin","8.7","8.8",0.00166777658811866
+"65+ yr","2 wk ahead","percent","Bin","8.8","8.9",0.0012406699465084
+"65+ yr","2 wk ahead","percent","Bin","8.9","9",0.00116115791306777
+"65+ yr","2 wk ahead","percent","Bin","9","9.1",0.000552952232909847
+"65+ yr","2 wk ahead","percent","Bin","9.1","9.2",0.000624429665336367
+"65+ yr","2 wk ahead","percent","Bin","9.2","9.3",0.000280781448941776
+"65+ yr","2 wk ahead","percent","Bin","9.3","9.4",0.000286047722244353
+"65+ yr","2 wk ahead","percent","Bin","9.4","9.5",0.00014176807614619
+"65+ yr","2 wk ahead","percent","Bin","9.5","9.6",0.000129999113960482
+"65+ yr","2 wk ahead","percent","Bin","9.6","9.7",5.85177854103402e-05
+"65+ yr","2 wk ahead","percent","Bin","9.7","9.8",4.20216156674746e-05
+"65+ yr","2 wk ahead","percent","Bin","9.8","9.9",2.04753940881098e-05
+"65+ yr","2 wk ahead","percent","Bin","9.9","10",1.50863647420716e-05
+"65+ yr","2 wk ahead","percent","Bin","10","10.1",5.65051227175086e-06
+"65+ yr","2 wk ahead","percent","Bin","10.1","10.2",6.55626673921711e-07
+"65+ yr","2 wk ahead","percent","Bin","10.2","10.3",2.10515935632824e-07
 "65+ yr","2 wk ahead","percent","Bin","10.3","10.4",0
 "65+ yr","2 wk ahead","percent","Bin","10.4","10.5",0
 "65+ yr","2 wk ahead","percent","Bin","10.5","10.6",0
@@ -5277,51 +5277,51 @@
 "65+ yr","3 wk ahead","percent","Bin","1.7","1.8",0
 "65+ yr","3 wk ahead","percent","Bin","1.8","1.9",0
 "65+ yr","3 wk ahead","percent","Bin","1.9","2",0
-"65+ yr","3 wk ahead","percent","Bin","2","2.1",0
-"65+ yr","3 wk ahead","percent","Bin","2.1","2.2",0
-"65+ yr","3 wk ahead","percent","Bin","2.2","2.3",0
-"65+ yr","3 wk ahead","percent","Bin","2.3","2.4",1.9195726396833e-06
-"65+ yr","3 wk ahead","percent","Bin","2.4","2.5",0.000145609099892501
-"65+ yr","3 wk ahead","percent","Bin","2.5","2.6",0.00159180389081445
-"65+ yr","3 wk ahead","percent","Bin","2.6","2.7",0.00835012287172467
-"65+ yr","3 wk ahead","percent","Bin","2.7","2.8",0.0265232082952628
-"65+ yr","3 wk ahead","percent","Bin","2.8","2.9",0.0539739203613266
-"65+ yr","3 wk ahead","percent","Bin","2.9","3",0.0733470606530214
-"65+ yr","3 wk ahead","percent","Bin","3","3.1",0.0802232250987801
-"65+ yr","3 wk ahead","percent","Bin","3.1","3.2",0.0638272264734248
-"65+ yr","3 wk ahead","percent","Bin","3.2","3.3",0.0386820481556221
-"65+ yr","3 wk ahead","percent","Bin","3.3","3.4",0.0272222836048485
-"65+ yr","3 wk ahead","percent","Bin","3.4","3.5",0.0321105254270418
-"65+ yr","3 wk ahead","percent","Bin","3.5","3.6",0.0436594911393586
-"65+ yr","3 wk ahead","percent","Bin","3.6","3.7",0.05045271199251
-"65+ yr","3 wk ahead","percent","Bin","3.7","3.8",0.0456702886899283
-"65+ yr","3 wk ahead","percent","Bin","3.8","3.9",0.0383106869787497
-"65+ yr","3 wk ahead","percent","Bin","3.9","4",0.029252034383255
-"65+ yr","3 wk ahead","percent","Bin","4","4.1",0.0316297620309232
-"65+ yr","3 wk ahead","percent","Bin","4.1","4.2",0.0341579350353089
-"65+ yr","3 wk ahead","percent","Bin","4.2","4.3",0.0404490800817727
-"65+ yr","3 wk ahead","percent","Bin","4.3","4.4",0.0385710913705758
-"65+ yr","3 wk ahead","percent","Bin","4.4","4.5",0.0339263132345884
-"65+ yr","3 wk ahead","percent","Bin","4.5","4.6",0.0250234140827919
-"65+ yr","3 wk ahead","percent","Bin","4.6","4.7",0.0139178835984302
-"65+ yr","3 wk ahead","percent","Bin","4.7","4.8",0.0117121588628299
-"65+ yr","3 wk ahead","percent","Bin","4.8","4.9",0.0120459862600245
-"65+ yr","3 wk ahead","percent","Bin","4.9","5",0.0175265746053143
-"65+ yr","3 wk ahead","percent","Bin","5","5.1",0.0180746466837795
-"65+ yr","3 wk ahead","percent","Bin","5.1","5.2",0.0272688165562587
-"65+ yr","3 wk ahead","percent","Bin","5.2","5.3",0.0215721755106327
-"65+ yr","3 wk ahead","percent","Bin","5.3","5.4",0.0237899212358855
-"65+ yr","3 wk ahead","percent","Bin","5.4","5.5",0.0140889775788358
-"65+ yr","3 wk ahead","percent","Bin","5.5","5.6",0.0104886845424941
-"65+ yr","3 wk ahead","percent","Bin","5.6","5.7",0.00651378573432246
-"65+ yr","3 wk ahead","percent","Bin","5.7","5.8",0.00317532973828463
-"65+ yr","3 wk ahead","percent","Bin","5.8","5.9",0.00171038794870548
-"65+ yr","3 wk ahead","percent","Bin","5.9","6",0.000693316853116899
-"65+ yr","3 wk ahead","percent","Bin","6","6.1",0.000206432117795625
-"65+ yr","3 wk ahead","percent","Bin","6.1","6.2",6.54817299961487e-05
-"65+ yr","3 wk ahead","percent","Bin","6.2","6.3",4.44424484497236e-05
-"65+ yr","3 wk ahead","percent","Bin","6.3","6.4",2.9385981470265e-06
-"65+ yr","3 wk ahead","percent","Bin","6.4","6.5",2.96872534590468e-07
+"65+ yr","3 wk ahead","percent","Bin","2","2.1",9.95739512080269e-05
+"65+ yr","3 wk ahead","percent","Bin","2.1","2.2",0.00217073927441642
+"65+ yr","3 wk ahead","percent","Bin","2.2","2.3",0.0131719159648388
+"65+ yr","3 wk ahead","percent","Bin","2.3","2.4",0.0250105435221352
+"65+ yr","3 wk ahead","percent","Bin","2.4","2.5",0.0280568671260448
+"65+ yr","3 wk ahead","percent","Bin","2.5","2.6",0.0340816488559839
+"65+ yr","3 wk ahead","percent","Bin","2.6","2.7",0.045281981187042
+"65+ yr","3 wk ahead","percent","Bin","2.7","2.8",0.044381984572788
+"65+ yr","3 wk ahead","percent","Bin","2.8","2.9",0.030860388855218
+"65+ yr","3 wk ahead","percent","Bin","2.9","3",0.01789541143741
+"65+ yr","3 wk ahead","percent","Bin","3","3.1",0.0117089695975039
+"65+ yr","3 wk ahead","percent","Bin","3.1","3.2",0.0155386659139621
+"65+ yr","3 wk ahead","percent","Bin","3.2","3.3",0.017321870510861
+"65+ yr","3 wk ahead","percent","Bin","3.3","3.4",0.0188654510639716
+"65+ yr","3 wk ahead","percent","Bin","3.4","3.5",0.015503888115551
+"65+ yr","3 wk ahead","percent","Bin","3.5","3.6",0.0193461598171507
+"65+ yr","3 wk ahead","percent","Bin","3.6","3.7",0.0274847630494653
+"65+ yr","3 wk ahead","percent","Bin","3.7","3.8",0.0362999616553097
+"65+ yr","3 wk ahead","percent","Bin","3.8","3.9",0.0391813666884944
+"65+ yr","3 wk ahead","percent","Bin","3.9","4",0.0392939508147893
+"65+ yr","3 wk ahead","percent","Bin","4","4.1",0.0454859797223523
+"65+ yr","3 wk ahead","percent","Bin","4.1","4.2",0.0544709132286764
+"65+ yr","3 wk ahead","percent","Bin","4.2","4.3",0.0637974028091418
+"65+ yr","3 wk ahead","percent","Bin","4.3","4.4",0.0569005811245108
+"65+ yr","3 wk ahead","percent","Bin","4.4","4.5",0.0505640248707492
+"65+ yr","3 wk ahead","percent","Bin","4.5","4.6",0.0400373812912913
+"65+ yr","3 wk ahead","percent","Bin","4.6","4.7",0.0282292806431739
+"65+ yr","3 wk ahead","percent","Bin","4.7","4.8",0.021739480104142
+"65+ yr","3 wk ahead","percent","Bin","4.8","4.9",0.0153083551526673
+"65+ yr","3 wk ahead","percent","Bin","4.9","5",0.0187882733844272
+"65+ yr","3 wk ahead","percent","Bin","5","5.1",0.0236601893798644
+"65+ yr","3 wk ahead","percent","Bin","5.1","5.2",0.0195105417514281
+"65+ yr","3 wk ahead","percent","Bin","5.2","5.3",0.0263179414583778
+"65+ yr","3 wk ahead","percent","Bin","5.3","5.4",0.0174600834379347
+"65+ yr","3 wk ahead","percent","Bin","5.4","5.5",0.0163326860474356
+"65+ yr","3 wk ahead","percent","Bin","5.5","5.6",0.00870130248353436
+"65+ yr","3 wk ahead","percent","Bin","5.6","5.7",0.00635888463111428
+"65+ yr","3 wk ahead","percent","Bin","5.7","5.8",0.00276705328539669
+"65+ yr","3 wk ahead","percent","Bin","5.8","5.9",0.00121385850898138
+"65+ yr","3 wk ahead","percent","Bin","5.9","6",0.000632699915587799
+"65+ yr","3 wk ahead","percent","Bin","6","6.1",0.000130746138469737
+"65+ yr","3 wk ahead","percent","Bin","6.1","6.2",3.0826387089509e-05
+"65+ yr","3 wk ahead","percent","Bin","6.2","6.3",5.03759313639458e-06
+"65+ yr","3 wk ahead","percent","Bin","6.3","6.4",3.74676372612626e-07
+"65+ yr","3 wk ahead","percent","Bin","6.4","6.5",0
 "65+ yr","3 wk ahead","percent","Bin","6.5","6.6",0
 "65+ yr","3 wk ahead","percent","Bin","6.6","6.7",0
 "65+ yr","3 wk ahead","percent","Bin","6.7","6.8",0
@@ -5865,193 +5865,193 @@
 "65+ yr","4 wk ahead","percent","Bin","0.4","0.5",0
 "65+ yr","4 wk ahead","percent","Bin","0.5","0.6",0
 "65+ yr","4 wk ahead","percent","Bin","0.6","0.7",0
-"65+ yr","4 wk ahead","percent","Bin","0.7","0.8",0.00018035132565726
-"65+ yr","4 wk ahead","percent","Bin","0.8","0.9",0.0102992182796919
-"65+ yr","4 wk ahead","percent","Bin","0.9","1",0.0548127458256824
-"65+ yr","4 wk ahead","percent","Bin","1","1.1",0.0903433375007203
-"65+ yr","4 wk ahead","percent","Bin","1.1","1.2",0.0612253004489427
-"65+ yr","4 wk ahead","percent","Bin","1.2","1.3",0.0330908932869352
-"65+ yr","4 wk ahead","percent","Bin","1.3","1.4",0.046790350456145
-"65+ yr","4 wk ahead","percent","Bin","1.4","1.5",0.0851016998149199
-"65+ yr","4 wk ahead","percent","Bin","1.5","1.6",0.0937114886343603
-"65+ yr","4 wk ahead","percent","Bin","1.6","1.7",0.0692599196205716
-"65+ yr","4 wk ahead","percent","Bin","1.7","1.8",0.0367550599605389
-"65+ yr","4 wk ahead","percent","Bin","1.8","1.9",0.0144209044322747
-"65+ yr","4 wk ahead","percent","Bin","1.9","2",0.00418727263402252
-"65+ yr","4 wk ahead","percent","Bin","2","2.1",0.00213877030576068
-"65+ yr","4 wk ahead","percent","Bin","2.1","2.2",0.0055289463593585
-"65+ yr","4 wk ahead","percent","Bin","2.2","2.3",0.0101045224009283
-"65+ yr","4 wk ahead","percent","Bin","2.3","2.4",0.0146641554127509
-"65+ yr","4 wk ahead","percent","Bin","2.4","2.5",0.0258990902339262
-"65+ yr","4 wk ahead","percent","Bin","2.5","2.6",0.0239052178281123
-"65+ yr","4 wk ahead","percent","Bin","2.6","2.7",0.0235530608932577
-"65+ yr","4 wk ahead","percent","Bin","2.7","2.8",0.0214258864089246
-"65+ yr","4 wk ahead","percent","Bin","2.8","2.9",0.0133158158068294
-"65+ yr","4 wk ahead","percent","Bin","2.9","3",0.0114864555798315
-"65+ yr","4 wk ahead","percent","Bin","3","3.1",0.00802581193098863
-"65+ yr","4 wk ahead","percent","Bin","3.1","3.2",0.00816293203570168
-"65+ yr","4 wk ahead","percent","Bin","3.2","3.3",0.0124690373756791
-"65+ yr","4 wk ahead","percent","Bin","3.3","3.4",0.013851434744916
-"65+ yr","4 wk ahead","percent","Bin","3.4","3.5",0.021599952944789
-"65+ yr","4 wk ahead","percent","Bin","3.5","3.6",0.0224361417397688
-"65+ yr","4 wk ahead","percent","Bin","3.6","3.7",0.0253611004778001
-"65+ yr","4 wk ahead","percent","Bin","3.7","3.8",0.0274019601485481
-"65+ yr","4 wk ahead","percent","Bin","3.8","3.9",0.0225917261524375
-"65+ yr","4 wk ahead","percent","Bin","3.9","4",0.0236725342384066
-"65+ yr","4 wk ahead","percent","Bin","4","4.1",0.0171686662499796
-"65+ yr","4 wk ahead","percent","Bin","4.1","4.2",0.0140457361965618
-"65+ yr","4 wk ahead","percent","Bin","4.2","4.3",0.0113087956185937
-"65+ yr","4 wk ahead","percent","Bin","4.3","4.4",0.0068100544317159
-"65+ yr","4 wk ahead","percent","Bin","4.4","4.5",0.00547880548219635
-"65+ yr","4 wk ahead","percent","Bin","4.5","4.6",0.00325144933599152
-"65+ yr","4 wk ahead","percent","Bin","4.6","4.7",0.00179511513709193
-"65+ yr","4 wk ahead","percent","Bin","4.7","4.8",0.00128053385231024
-"65+ yr","4 wk ahead","percent","Bin","4.8","4.9",0.000528583779852879
-"65+ yr","4 wk ahead","percent","Bin","4.9","5",0.000309243431798408
-"65+ yr","4 wk ahead","percent","Bin","5","5.1",0.000169882284516276
-"65+ yr","4 wk ahead","percent","Bin","5.1","5.2",3.72314499623998e-05
-"65+ yr","4 wk ahead","percent","Bin","5.2","5.3",3.45916500321555e-05
-"65+ yr","4 wk ahead","percent","Bin","5.3","5.4",5.0730090577202e-06
-"65+ yr","4 wk ahead","percent","Bin","5.4","5.5",2.59795163554914e-06
-"65+ yr","4 wk ahead","percent","Bin","5.5","5.6",5.41451546237879e-07
-"65+ yr","4 wk ahead","percent","Bin","5.6","5.7",3.44797875317082e-09
-"65+ yr","4 wk ahead","percent","Bin","5.7","5.8",0
-"65+ yr","4 wk ahead","percent","Bin","5.8","5.9",0
-"65+ yr","4 wk ahead","percent","Bin","5.9","6",0
-"65+ yr","4 wk ahead","percent","Bin","6","6.1",0
-"65+ yr","4 wk ahead","percent","Bin","6.1","6.2",0
-"65+ yr","4 wk ahead","percent","Bin","6.2","6.3",0
-"65+ yr","4 wk ahead","percent","Bin","6.3","6.4",0
-"65+ yr","4 wk ahead","percent","Bin","6.4","6.5",0
-"65+ yr","4 wk ahead","percent","Bin","6.5","6.6",0
-"65+ yr","4 wk ahead","percent","Bin","6.6","6.7",0
-"65+ yr","4 wk ahead","percent","Bin","6.7","6.8",0
-"65+ yr","4 wk ahead","percent","Bin","6.8","6.9",0
-"65+ yr","4 wk ahead","percent","Bin","6.9","7",0
-"65+ yr","4 wk ahead","percent","Bin","7","7.1",0
-"65+ yr","4 wk ahead","percent","Bin","7.1","7.2",0
-"65+ yr","4 wk ahead","percent","Bin","7.2","7.3",0
-"65+ yr","4 wk ahead","percent","Bin","7.3","7.4",0
-"65+ yr","4 wk ahead","percent","Bin","7.4","7.5",0
-"65+ yr","4 wk ahead","percent","Bin","7.5","7.6",0
-"65+ yr","4 wk ahead","percent","Bin","7.6","7.7",0
-"65+ yr","4 wk ahead","percent","Bin","7.7","7.8",0
-"65+ yr","4 wk ahead","percent","Bin","7.8","7.9",0
-"65+ yr","4 wk ahead","percent","Bin","7.9","8",0
-"65+ yr","4 wk ahead","percent","Bin","8","8.1",0
-"65+ yr","4 wk ahead","percent","Bin","8.1","8.2",0
-"65+ yr","4 wk ahead","percent","Bin","8.2","8.3",0
-"65+ yr","4 wk ahead","percent","Bin","8.3","8.4",0
-"65+ yr","4 wk ahead","percent","Bin","8.4","8.5",0
-"65+ yr","4 wk ahead","percent","Bin","8.5","8.6",0
-"65+ yr","4 wk ahead","percent","Bin","8.6","8.7",0
-"65+ yr","4 wk ahead","percent","Bin","8.7","8.8",0
-"65+ yr","4 wk ahead","percent","Bin","8.8","8.9",0
-"65+ yr","4 wk ahead","percent","Bin","8.9","9",0
-"65+ yr","4 wk ahead","percent","Bin","9","9.1",0
-"65+ yr","4 wk ahead","percent","Bin","9.1","9.2",0
-"65+ yr","4 wk ahead","percent","Bin","9.2","9.3",0
-"65+ yr","4 wk ahead","percent","Bin","9.3","9.4",0
-"65+ yr","4 wk ahead","percent","Bin","9.4","9.5",0
-"65+ yr","4 wk ahead","percent","Bin","9.5","9.6",0
-"65+ yr","4 wk ahead","percent","Bin","9.6","9.7",0
-"65+ yr","4 wk ahead","percent","Bin","9.7","9.8",0
-"65+ yr","4 wk ahead","percent","Bin","9.8","9.9",0
-"65+ yr","4 wk ahead","percent","Bin","9.9","10",0
-"65+ yr","4 wk ahead","percent","Bin","10","10.1",0
-"65+ yr","4 wk ahead","percent","Bin","10.1","10.2",0
-"65+ yr","4 wk ahead","percent","Bin","10.2","10.3",0
-"65+ yr","4 wk ahead","percent","Bin","10.3","10.4",0
-"65+ yr","4 wk ahead","percent","Bin","10.4","10.5",0
-"65+ yr","4 wk ahead","percent","Bin","10.5","10.6",0
-"65+ yr","4 wk ahead","percent","Bin","10.6","10.7",0
-"65+ yr","4 wk ahead","percent","Bin","10.7","10.8",0
-"65+ yr","4 wk ahead","percent","Bin","10.8","10.9",0
-"65+ yr","4 wk ahead","percent","Bin","10.9","11",0
-"65+ yr","4 wk ahead","percent","Bin","11","11.1",0
-"65+ yr","4 wk ahead","percent","Bin","11.1","11.2",0
-"65+ yr","4 wk ahead","percent","Bin","11.2","11.3",0
-"65+ yr","4 wk ahead","percent","Bin","11.3","11.4",0
-"65+ yr","4 wk ahead","percent","Bin","11.4","11.5",0
-"65+ yr","4 wk ahead","percent","Bin","11.5","11.6",0
-"65+ yr","4 wk ahead","percent","Bin","11.6","11.7",0
-"65+ yr","4 wk ahead","percent","Bin","11.7","11.8",0
-"65+ yr","4 wk ahead","percent","Bin","11.8","11.9",0
-"65+ yr","4 wk ahead","percent","Bin","11.9","12",0
-"65+ yr","4 wk ahead","percent","Bin","12","12.1",0
-"65+ yr","4 wk ahead","percent","Bin","12.1","12.2",0
-"65+ yr","4 wk ahead","percent","Bin","12.2","12.3",0
-"65+ yr","4 wk ahead","percent","Bin","12.3","12.4",0
-"65+ yr","4 wk ahead","percent","Bin","12.4","12.5",0
-"65+ yr","4 wk ahead","percent","Bin","12.5","12.6",0
-"65+ yr","4 wk ahead","percent","Bin","12.6","12.7",0
-"65+ yr","4 wk ahead","percent","Bin","12.7","12.8",0
-"65+ yr","4 wk ahead","percent","Bin","12.8","12.9",0
-"65+ yr","4 wk ahead","percent","Bin","12.9","13",0
-"65+ yr","4 wk ahead","percent","Bin","13","13.1",0
-"65+ yr","4 wk ahead","percent","Bin","13.1","13.2",0
-"65+ yr","4 wk ahead","percent","Bin","13.2","13.3",0
-"65+ yr","4 wk ahead","percent","Bin","13.3","13.4",0
-"65+ yr","4 wk ahead","percent","Bin","13.4","13.5",0
-"65+ yr","4 wk ahead","percent","Bin","13.5","13.6",0
-"65+ yr","4 wk ahead","percent","Bin","13.6","13.7",0
-"65+ yr","4 wk ahead","percent","Bin","13.7","13.8",0
-"65+ yr","4 wk ahead","percent","Bin","13.8","13.9",0
-"65+ yr","4 wk ahead","percent","Bin","13.9","14",0
-"65+ yr","4 wk ahead","percent","Bin","14","14.1",0
-"65+ yr","4 wk ahead","percent","Bin","14.1","14.2",0
-"65+ yr","4 wk ahead","percent","Bin","14.2","14.3",0
-"65+ yr","4 wk ahead","percent","Bin","14.3","14.4",0
-"65+ yr","4 wk ahead","percent","Bin","14.4","14.5",0
-"65+ yr","4 wk ahead","percent","Bin","14.5","14.6",0
-"65+ yr","4 wk ahead","percent","Bin","14.6","14.7",0
-"65+ yr","4 wk ahead","percent","Bin","14.7","14.8",0
-"65+ yr","4 wk ahead","percent","Bin","14.8","14.9",0
-"65+ yr","4 wk ahead","percent","Bin","14.9","15",0
-"65+ yr","4 wk ahead","percent","Bin","15","15.1",0
-"65+ yr","4 wk ahead","percent","Bin","15.1","15.2",0
-"65+ yr","4 wk ahead","percent","Bin","15.2","15.3",0
-"65+ yr","4 wk ahead","percent","Bin","15.3","15.4",0
-"65+ yr","4 wk ahead","percent","Bin","15.4","15.5",0
-"65+ yr","4 wk ahead","percent","Bin","15.5","15.6",0
-"65+ yr","4 wk ahead","percent","Bin","15.6","15.7",0
-"65+ yr","4 wk ahead","percent","Bin","15.7","15.8",0
-"65+ yr","4 wk ahead","percent","Bin","15.8","15.9",0
-"65+ yr","4 wk ahead","percent","Bin","15.9","16",0
-"65+ yr","4 wk ahead","percent","Bin","16","16.1",0
-"65+ yr","4 wk ahead","percent","Bin","16.1","16.2",0
-"65+ yr","4 wk ahead","percent","Bin","16.2","16.3",0
-"65+ yr","4 wk ahead","percent","Bin","16.3","16.4",0
-"65+ yr","4 wk ahead","percent","Bin","16.4","16.5",0
-"65+ yr","4 wk ahead","percent","Bin","16.5","16.6",0
-"65+ yr","4 wk ahead","percent","Bin","16.6","16.7",0
-"65+ yr","4 wk ahead","percent","Bin","16.7","16.8",0
-"65+ yr","4 wk ahead","percent","Bin","16.8","16.9",0
-"65+ yr","4 wk ahead","percent","Bin","16.9","17",0
-"65+ yr","4 wk ahead","percent","Bin","17","17.1",0
-"65+ yr","4 wk ahead","percent","Bin","17.1","17.2",0
-"65+ yr","4 wk ahead","percent","Bin","17.2","17.3",0
-"65+ yr","4 wk ahead","percent","Bin","17.3","17.4",0
-"65+ yr","4 wk ahead","percent","Bin","17.4","17.5",0
-"65+ yr","4 wk ahead","percent","Bin","17.5","17.6",0
-"65+ yr","4 wk ahead","percent","Bin","17.6","17.7",0
-"65+ yr","4 wk ahead","percent","Bin","17.7","17.8",0
-"65+ yr","4 wk ahead","percent","Bin","17.8","17.9",0
-"65+ yr","4 wk ahead","percent","Bin","17.9","18",0
-"65+ yr","4 wk ahead","percent","Bin","18","18.1",0
-"65+ yr","4 wk ahead","percent","Bin","18.1","18.2",0
-"65+ yr","4 wk ahead","percent","Bin","18.2","18.3",0
-"65+ yr","4 wk ahead","percent","Bin","18.3","18.4",0
-"65+ yr","4 wk ahead","percent","Bin","18.4","18.5",0
-"65+ yr","4 wk ahead","percent","Bin","18.5","18.6",0
-"65+ yr","4 wk ahead","percent","Bin","18.6","18.7",0
-"65+ yr","4 wk ahead","percent","Bin","18.7","18.8",0
-"65+ yr","4 wk ahead","percent","Bin","18.8","18.9",0
-"65+ yr","4 wk ahead","percent","Bin","18.9","19",0
-"65+ yr","4 wk ahead","percent","Bin","19","19.1",0
-"65+ yr","4 wk ahead","percent","Bin","19.1","19.2",0
-"65+ yr","4 wk ahead","percent","Bin","19.2","19.3",0
-"65+ yr","4 wk ahead","percent","Bin","19.3","19.4",0
+"65+ yr","4 wk ahead","percent","Bin","0.7","0.8",0
+"65+ yr","4 wk ahead","percent","Bin","0.8","0.9",0
+"65+ yr","4 wk ahead","percent","Bin","0.9","1",0
+"65+ yr","4 wk ahead","percent","Bin","1","1.1",0
+"65+ yr","4 wk ahead","percent","Bin","1.1","1.2",0
+"65+ yr","4 wk ahead","percent","Bin","1.2","1.3",0
+"65+ yr","4 wk ahead","percent","Bin","1.3","1.4",0
+"65+ yr","4 wk ahead","percent","Bin","1.4","1.5",0
+"65+ yr","4 wk ahead","percent","Bin","1.5","1.6",0
+"65+ yr","4 wk ahead","percent","Bin","1.6","1.7",0
+"65+ yr","4 wk ahead","percent","Bin","1.7","1.8",0
+"65+ yr","4 wk ahead","percent","Bin","1.8","1.9",0
+"65+ yr","4 wk ahead","percent","Bin","1.9","2",0
+"65+ yr","4 wk ahead","percent","Bin","2","2.1",0
+"65+ yr","4 wk ahead","percent","Bin","2.1","2.2",0
+"65+ yr","4 wk ahead","percent","Bin","2.2","2.3",0
+"65+ yr","4 wk ahead","percent","Bin","2.3","2.4",0
+"65+ yr","4 wk ahead","percent","Bin","2.4","2.5",0
+"65+ yr","4 wk ahead","percent","Bin","2.5","2.6",0
+"65+ yr","4 wk ahead","percent","Bin","2.6","2.7",0
+"65+ yr","4 wk ahead","percent","Bin","2.7","2.8",0
+"65+ yr","4 wk ahead","percent","Bin","2.8","2.9",0
+"65+ yr","4 wk ahead","percent","Bin","2.9","3",0
+"65+ yr","4 wk ahead","percent","Bin","3","3.1",0
+"65+ yr","4 wk ahead","percent","Bin","3.1","3.2",0
+"65+ yr","4 wk ahead","percent","Bin","3.2","3.3",0
+"65+ yr","4 wk ahead","percent","Bin","3.3","3.4",1.64238004130034e-10
+"65+ yr","4 wk ahead","percent","Bin","3.4","3.5",8.326205261274e-07
+"65+ yr","4 wk ahead","percent","Bin","3.5","3.6",1.91454786087969e-06
+"65+ yr","4 wk ahead","percent","Bin","3.6","3.7",2.25104090432977e-05
+"65+ yr","4 wk ahead","percent","Bin","3.7","3.8",5.9522626567894e-05
+"65+ yr","4 wk ahead","percent","Bin","3.8","3.9",0.000118127569827732
+"65+ yr","4 wk ahead","percent","Bin","3.9","4",0.000415433841416349
+"65+ yr","4 wk ahead","percent","Bin","4","4.1",0.000444063052006649
+"65+ yr","4 wk ahead","percent","Bin","4.1","4.2",0.00120446380485001
+"65+ yr","4 wk ahead","percent","Bin","4.2","4.3",0.00150426769908633
+"65+ yr","4 wk ahead","percent","Bin","4.3","4.4",0.00215561989502612
+"65+ yr","4 wk ahead","percent","Bin","4.4","4.5",0.00351994155729116
+"65+ yr","4 wk ahead","percent","Bin","4.5","4.6",0.00308161935857119
+"65+ yr","4 wk ahead","percent","Bin","4.6","4.7",0.00593923951581298
+"65+ yr","4 wk ahead","percent","Bin","4.7","4.8",0.00436200413125645
+"65+ yr","4 wk ahead","percent","Bin","4.8","4.9",0.00814637649854229
+"65+ yr","4 wk ahead","percent","Bin","4.9","5",0.00516894005219701
+"65+ yr","4 wk ahead","percent","Bin","5","5.1",0.00805397704342206
+"65+ yr","4 wk ahead","percent","Bin","5.1","5.2",0.00687672831389014
+"65+ yr","4 wk ahead","percent","Bin","5.2","5.3",0.00650230611876267
+"65+ yr","4 wk ahead","percent","Bin","5.3","5.4",0.00821172232042006
+"65+ yr","4 wk ahead","percent","Bin","5.4","5.5",0.00463919732251884
+"65+ yr","4 wk ahead","percent","Bin","5.5","5.6",0.00703364484872683
+"65+ yr","4 wk ahead","percent","Bin","5.6","5.7",0.0048807721992503
+"65+ yr","4 wk ahead","percent","Bin","5.7","5.8",0.00474735102863445
+"65+ yr","4 wk ahead","percent","Bin","5.8","5.9",0.0061092458175706
+"65+ yr","4 wk ahead","percent","Bin","5.9","6",0.00314193859885525
+"65+ yr","4 wk ahead","percent","Bin","6","6.1",0.00548833468997672
+"65+ yr","4 wk ahead","percent","Bin","6.1","6.2",0.00503434365132837
+"65+ yr","4 wk ahead","percent","Bin","6.2","6.3",0.00395252346005126
+"65+ yr","4 wk ahead","percent","Bin","6.3","6.4",0.00753008045237258
+"65+ yr","4 wk ahead","percent","Bin","6.4","6.5",0.00487559610482024
+"65+ yr","4 wk ahead","percent","Bin","6.5","6.6",0.00712559830679315
+"65+ yr","4 wk ahead","percent","Bin","6.6","6.7",0.00985308189134479
+"65+ yr","4 wk ahead","percent","Bin","6.7","6.8",0.00736337550198602
+"65+ yr","4 wk ahead","percent","Bin","6.8","6.9",0.0118058808618468
+"65+ yr","4 wk ahead","percent","Bin","6.9","7",0.012152982705636
+"65+ yr","4 wk ahead","percent","Bin","7","7.1",0.0108513236278726
+"65+ yr","4 wk ahead","percent","Bin","7.1","7.2",0.0147702376311671
+"65+ yr","4 wk ahead","percent","Bin","7.2","7.3",0.0143621893312917
+"65+ yr","4 wk ahead","percent","Bin","7.3","7.4",0.0146281984832689
+"65+ yr","4 wk ahead","percent","Bin","7.4","7.5",0.0171222218496879
+"65+ yr","4 wk ahead","percent","Bin","7.5","7.6",0.0158809559735863
+"65+ yr","4 wk ahead","percent","Bin","7.6","7.7",0.0160677127184067
+"65+ yr","4 wk ahead","percent","Bin","7.7","7.8",0.0192874258460059
+"65+ yr","4 wk ahead","percent","Bin","7.8","7.9",0.0155092932088971
+"65+ yr","4 wk ahead","percent","Bin","7.9","8",0.0163946399214641
+"65+ yr","4 wk ahead","percent","Bin","8","8.1",0.0196170192945208
+"65+ yr","4 wk ahead","percent","Bin","8.1","8.2",0.0150666236932673
+"65+ yr","4 wk ahead","percent","Bin","8.2","8.3",0.0146203941824137
+"65+ yr","4 wk ahead","percent","Bin","8.3","8.4",0.0165790359265584
+"65+ yr","4 wk ahead","percent","Bin","8.4","8.5",0.0142365256639691
+"65+ yr","4 wk ahead","percent","Bin","8.5","8.6",0.01276079220845
+"65+ yr","4 wk ahead","percent","Bin","8.6","8.7",0.0132644838186352
+"65+ yr","4 wk ahead","percent","Bin","8.7","8.8",0.0133812142146812
+"65+ yr","4 wk ahead","percent","Bin","8.8","8.9",0.0111476821204157
+"65+ yr","4 wk ahead","percent","Bin","8.9","9",0.00953154369877742
+"65+ yr","4 wk ahead","percent","Bin","9","9.1",0.00954713439350792
+"65+ yr","4 wk ahead","percent","Bin","9.1","9.2",0.00939483546439901
+"65+ yr","4 wk ahead","percent","Bin","9.2","9.3",0.00928858664687379
+"65+ yr","4 wk ahead","percent","Bin","9.3","9.4",0.00705863821718412
+"65+ yr","4 wk ahead","percent","Bin","9.4","9.5",0.00647485678066701
+"65+ yr","4 wk ahead","percent","Bin","9.5","9.6",0.00743688088562945
+"65+ yr","4 wk ahead","percent","Bin","9.6","9.7",0.00809847314013325
+"65+ yr","4 wk ahead","percent","Bin","9.7","9.8",0.00621566331673073
+"65+ yr","4 wk ahead","percent","Bin","9.8","9.9",0.00476097840117681
+"65+ yr","4 wk ahead","percent","Bin","9.9","10",0.00665624911168284
+"65+ yr","4 wk ahead","percent","Bin","10","10.1",0.00832825841536179
+"65+ yr","4 wk ahead","percent","Bin","10.1","10.2",0.00716622433471062
+"65+ yr","4 wk ahead","percent","Bin","10.2","10.3",0.00472549023307418
+"65+ yr","4 wk ahead","percent","Bin","10.3","10.4",0.00667922353158691
+"65+ yr","4 wk ahead","percent","Bin","10.4","10.5",0.0101541476478062
+"65+ yr","4 wk ahead","percent","Bin","10.5","10.6",0.00954167341029793
+"65+ yr","4 wk ahead","percent","Bin","10.6","10.7",0.00640861256369671
+"65+ yr","4 wk ahead","percent","Bin","10.7","10.8",0.00762909180991477
+"65+ yr","4 wk ahead","percent","Bin","10.8","10.9",0.0111708759843636
+"65+ yr","4 wk ahead","percent","Bin","10.9","11",0.0138329491857105
+"65+ yr","4 wk ahead","percent","Bin","11","11.1",0.00959326694582785
+"65+ yr","4 wk ahead","percent","Bin","11.1","11.2",0.00809959325370861
+"65+ yr","4 wk ahead","percent","Bin","11.2","11.3",0.0121423034093505
+"65+ yr","4 wk ahead","percent","Bin","11.3","11.4",0.0152212901593443
+"65+ yr","4 wk ahead","percent","Bin","11.4","11.5",0.0135265639243088
+"65+ yr","4 wk ahead","percent","Bin","11.5","11.6",0.0106242553009126
+"65+ yr","4 wk ahead","percent","Bin","11.6","11.7",0.0110383016858497
+"65+ yr","4 wk ahead","percent","Bin","11.7","11.8",0.0134786593966599
+"65+ yr","4 wk ahead","percent","Bin","11.8","11.9",0.0146392161770456
+"65+ yr","4 wk ahead","percent","Bin","11.9","12",0.0144430749260981
+"65+ yr","4 wk ahead","percent","Bin","12","12.1",0.0108700512122275
+"65+ yr","4 wk ahead","percent","Bin","12.1","12.2",0.0122716614866406
+"65+ yr","4 wk ahead","percent","Bin","12.2","12.3",0.0133490470301495
+"65+ yr","4 wk ahead","percent","Bin","12.3","12.4",0.0134539379289223
+"65+ yr","4 wk ahead","percent","Bin","12.4","12.5",0.0131246428176741
+"65+ yr","4 wk ahead","percent","Bin","12.5","12.6",0.0122181057037159
+"65+ yr","4 wk ahead","percent","Bin","12.6","12.7",0.010516713719359
+"65+ yr","4 wk ahead","percent","Bin","12.7","12.8",0.0103482943337586
+"65+ yr","4 wk ahead","percent","Bin","12.8","12.9",0.0121532907748244
+"65+ yr","4 wk ahead","percent","Bin","12.9","13",0.0119858724354155
+"65+ yr","4 wk ahead","percent","Bin","13","13.1",0.0088587525650741
+"65+ yr","4 wk ahead","percent","Bin","13.1","13.2",0.0102628573622366
+"65+ yr","4 wk ahead","percent","Bin","13.2","13.3",0.00738558140659641
+"65+ yr","4 wk ahead","percent","Bin","13.3","13.4",0.00807803975209905
+"65+ yr","4 wk ahead","percent","Bin","13.4","13.5",0.00854802164367643
+"65+ yr","4 wk ahead","percent","Bin","13.5","13.6",0.00838789441677784
+"65+ yr","4 wk ahead","percent","Bin","13.6","13.7",0.00734859479155186
+"65+ yr","4 wk ahead","percent","Bin","13.7","13.8",0.00633452116557905
+"65+ yr","4 wk ahead","percent","Bin","13.8","13.9",0.00511972434098221
+"65+ yr","4 wk ahead","percent","Bin","13.9","14",0.0054110368494237
+"65+ yr","4 wk ahead","percent","Bin","14","14.1",0.0053723246213787
+"65+ yr","4 wk ahead","percent","Bin","14.1","14.2",0.00625590181468466
+"65+ yr","4 wk ahead","percent","Bin","14.2","14.3",0.00458513435234762
+"65+ yr","4 wk ahead","percent","Bin","14.3","14.4",0.00395925008025391
+"65+ yr","4 wk ahead","percent","Bin","14.4","14.5",0.00280974441427326
+"65+ yr","4 wk ahead","percent","Bin","14.5","14.6",0.0027705778821111
+"65+ yr","4 wk ahead","percent","Bin","14.6","14.7",0.00352620531953158
+"65+ yr","4 wk ahead","percent","Bin","14.7","14.8",0.00344483671137297
+"65+ yr","4 wk ahead","percent","Bin","14.8","14.9",0.00270324203632499
+"65+ yr","4 wk ahead","percent","Bin","14.9","15",0.00231480471083505
+"65+ yr","4 wk ahead","percent","Bin","15","15.1",0.00150021339130416
+"65+ yr","4 wk ahead","percent","Bin","15.1","15.2",0.0013052281541836
+"65+ yr","4 wk ahead","percent","Bin","15.2","15.3",0.00150632159729287
+"65+ yr","4 wk ahead","percent","Bin","15.3","15.4",0.00200539639436268
+"65+ yr","4 wk ahead","percent","Bin","15.4","15.5",0.00174807453223891
+"65+ yr","4 wk ahead","percent","Bin","15.5","15.6",0.00113620921819718
+"65+ yr","4 wk ahead","percent","Bin","15.6","15.7",0.000766732578374068
+"65+ yr","4 wk ahead","percent","Bin","15.7","15.8",0.000540370200678218
+"65+ yr","4 wk ahead","percent","Bin","15.8","15.9",0.000600309894928656
+"65+ yr","4 wk ahead","percent","Bin","15.9","16",0.000916571021711223
+"65+ yr","4 wk ahead","percent","Bin","16","16.1",0.000764318839759252
+"65+ yr","4 wk ahead","percent","Bin","16.1","16.2",0.000631994928213693
+"65+ yr","4 wk ahead","percent","Bin","16.2","16.3",0.000467879743316241
+"65+ yr","4 wk ahead","percent","Bin","16.3","16.4",0.000268210126241009
+"65+ yr","4 wk ahead","percent","Bin","16.4","16.5",0.000196329209348404
+"65+ yr","4 wk ahead","percent","Bin","16.5","16.6",0.000211598216386861
+"65+ yr","4 wk ahead","percent","Bin","16.6","16.7",0.000306718622081619
+"65+ yr","4 wk ahead","percent","Bin","16.7","16.8",0.00030837206196306
+"65+ yr","4 wk ahead","percent","Bin","16.8","16.9",0.000243064227471133
+"65+ yr","4 wk ahead","percent","Bin","16.9","17",0.000153302680052125
+"65+ yr","4 wk ahead","percent","Bin","17","17.1",8.30103220415912e-05
+"65+ yr","4 wk ahead","percent","Bin","17.1","17.2",5.44505955158154e-05
+"65+ yr","4 wk ahead","percent","Bin","17.2","17.3",6.79809267489025e-05
+"65+ yr","4 wk ahead","percent","Bin","17.3","17.4",9.54384583937805e-05
+"65+ yr","4 wk ahead","percent","Bin","17.4","17.5",9.69450970985347e-05
+"65+ yr","4 wk ahead","percent","Bin","17.5","17.6",7.60240965882879e-05
+"65+ yr","4 wk ahead","percent","Bin","17.6","17.7",5.180260077831e-05
+"65+ yr","4 wk ahead","percent","Bin","17.7","17.8",2.72357350342007e-05
+"65+ yr","4 wk ahead","percent","Bin","17.8","17.9",1.27631594635835e-05
+"65+ yr","4 wk ahead","percent","Bin","17.9","18",1.29892292767746e-05
+"65+ yr","4 wk ahead","percent","Bin","18","18.1",1.83836995997042e-05
+"65+ yr","4 wk ahead","percent","Bin","18.1","18.2",2.04752823945396e-05
+"65+ yr","4 wk ahead","percent","Bin","18.2","18.3",2.18039284798067e-05
+"65+ yr","4 wk ahead","percent","Bin","18.3","18.4",1.51972128314139e-05
+"65+ yr","4 wk ahead","percent","Bin","18.4","18.5",6.05822352533468e-06
+"65+ yr","4 wk ahead","percent","Bin","18.5","18.6",2.84685434028708e-06
+"65+ yr","4 wk ahead","percent","Bin","18.6","18.7",1.34970191362979e-06
+"65+ yr","4 wk ahead","percent","Bin","18.7","18.8",1.54348868131288e-06
+"65+ yr","4 wk ahead","percent","Bin","18.8","18.9",3.03217467938985e-06
+"65+ yr","4 wk ahead","percent","Bin","18.9","19",3.42764112406691e-06
+"65+ yr","4 wk ahead","percent","Bin","19","19.1",1.72636946745063e-06
+"65+ yr","4 wk ahead","percent","Bin","19.1","19.2",8.77414738534832e-07
+"65+ yr","4 wk ahead","percent","Bin","19.2","19.3",2.91675762492728e-07
+"65+ yr","4 wk ahead","percent","Bin","19.3","19.4",2.61443400576176e-08
 "65+ yr","4 wk ahead","percent","Bin","19.4","19.5",0
 "65+ yr","4 wk ahead","percent","Bin","19.5","19.6",0
 "65+ yr","4 wk ahead","percent","Bin","19.6","19.7",0
@@ -6460,38 +6460,38 @@
 "65+ yr","4 wk ahead","percent","Bin","59.9","60",0
 "65+ yr","4 wk ahead","percent","Bin","60","100",0
 "Overall","Season peak week","week","Point",NA,NA,2
-"Overall","Season peak percentage","percent","Point",NA,NA,3.91091197740571
-"Overall","1 wk ahead","percent","Point",NA,NA,1.33780748934232
-"Overall","2 wk ahead","percent","Point",NA,NA,0.977169724159369
-"Overall","3 wk ahead","percent","Point",NA,NA,0.898886804246547
-"Overall","4 wk ahead","percent","Point",NA,NA,1.30453820048446
+"Overall","Season peak percentage","percent","Point",NA,NA,3.4071247576958
+"Overall","1 wk ahead","percent","Point",NA,NA,1.7000324760283
+"Overall","2 wk ahead","percent","Point",NA,NA,1.17405452120067
+"Overall","3 wk ahead","percent","Point",NA,NA,1.37927803805574
+"Overall","4 wk ahead","percent","Point",NA,NA,1.70353503840508
 "0-4 yr","Season peak week","week","Point",NA,NA,2
-"0-4 yr","Season peak percentage","percent","Point",NA,NA,4.65798419143005
-"0-4 yr","1 wk ahead","percent","Point",NA,NA,1.73677397784174
-"0-4 yr","2 wk ahead","percent","Point",NA,NA,1.64599041800658
-"0-4 yr","3 wk ahead","percent","Point",NA,NA,0.946465107842653
-"0-4 yr","4 wk ahead","percent","Point",NA,NA,0.855856707955303
+"0-4 yr","Season peak percentage","percent","Point",NA,NA,4.34760213740743
+"0-4 yr","1 wk ahead","percent","Point",NA,NA,1.54509734421631
+"0-4 yr","2 wk ahead","percent","Point",NA,NA,2.61440109286113
+"0-4 yr","3 wk ahead","percent","Point",NA,NA,1.81997137631015
+"0-4 yr","4 wk ahead","percent","Point",NA,NA,1.1193738876558
 "5-17 yr","Season peak week","week","Point",NA,NA,2
-"5-17 yr","Season peak percentage","percent","Point",NA,NA,1.14992322213462
-"5-17 yr","1 wk ahead","percent","Point",NA,NA,0.103496671312962
-"5-17 yr","2 wk ahead","percent","Point",NA,NA,0.00164974490576523
-"5-17 yr","3 wk ahead","percent","Point",NA,NA,0.0289928836110434
-"5-17 yr","4 wk ahead","percent","Point",NA,NA,0.0129693178503484
+"5-17 yr","Season peak percentage","percent","Point",NA,NA,1.04837914333697
+"5-17 yr","1 wk ahead","percent","Point",NA,NA,0.242127391047361
+"5-17 yr","2 wk ahead","percent","Point",NA,NA,0.142282872024986
+"5-17 yr","3 wk ahead","percent","Point",NA,NA,0.111909895232666
+"5-17 yr","4 wk ahead","percent","Point",NA,NA,0.128954695916641
 "18-49 yr","Season peak week","week","Point",NA,NA,2
-"18-49 yr","Season peak percentage","percent","Point",NA,NA,1.65272285832535
-"18-49 yr","1 wk ahead","percent","Point",NA,NA,0.25205913842293
-"18-49 yr","2 wk ahead","percent","Point",NA,NA,0.152422543557573
-"18-49 yr","3 wk ahead","percent","Point",NA,NA,0.206429747397356
-"18-49 yr","4 wk ahead","percent","Point",NA,NA,0.0846497545068308
+"18-49 yr","Season peak percentage","percent","Point",NA,NA,1.58088925061577
+"18-49 yr","1 wk ahead","percent","Point",NA,NA,0.463920205165091
+"18-49 yr","2 wk ahead","percent","Point",NA,NA,0.397122925573134
+"18-49 yr","3 wk ahead","percent","Point",NA,NA,0.594176414526372
+"18-49 yr","4 wk ahead","percent","Point",NA,NA,0.371027654893547
 "50-64 yr","Season peak week","week","Point",NA,NA,2
-"50-64 yr","Season peak percentage","percent","Point",NA,NA,4.46673746891958
-"50-64 yr","1 wk ahead","percent","Point",NA,NA,1.12013246960068
-"50-64 yr","2 wk ahead","percent","Point",NA,NA,0.812100552523808
-"50-64 yr","3 wk ahead","percent","Point",NA,NA,0.932967853266701
-"50-64 yr","4 wk ahead","percent","Point",NA,NA,0.730355484895153
+"50-64 yr","Season peak percentage","percent","Point",NA,NA,4.13758631662617
+"50-64 yr","1 wk ahead","percent","Point",NA,NA,1.62962990075226
+"50-64 yr","2 wk ahead","percent","Point",NA,NA,2.89126085592709
+"50-64 yr","3 wk ahead","percent","Point",NA,NA,3.40498488879583
+"50-64 yr","4 wk ahead","percent","Point",NA,NA,1.98397085018899
 "65+ yr","Season peak week","week","Point",NA,NA,2
-"65+ yr","Season peak percentage","percent","Point",NA,NA,14.9352794423253
-"65+ yr","1 wk ahead","percent","Point",NA,NA,4.84614836357929
-"65+ yr","2 wk ahead","percent","Point",NA,NA,2.9014532614127
-"65+ yr","3 wk ahead","percent","Point",NA,NA,3.78485300724248
-"65+ yr","4 wk ahead","percent","Point",NA,NA,2.08548728533449
+"65+ yr","Season peak percentage","percent","Point",NA,NA,11.9786685131509
+"65+ yr","1 wk ahead","percent","Point",NA,NA,6.32511275155675
+"65+ yr","2 wk ahead","percent","Point",NA,NA,6.36523493160679
+"65+ yr","3 wk ahead","percent","Point",NA,NA,3.84099975772687
+"65+ yr","4 wk ahead","percent","Point",NA,NA,9.64156489385571
